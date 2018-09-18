@@ -1,0 +1,7552 @@
+[
+ {
+   "#": 1,
+   "zip_code": 130,
+   "neighbourhood": "Kaartinkaupunki",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 7628,
+   "1_year_change": "1 %",
+   "5_years_change": "23 %",
+   "10_years_change": "45 %"
+ },
+ {
+   "#": 2,
+   "zip_code": 140,
+   "neighbourhood": "Kaivopuisto - Ullanlinna",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 7564,
+   "1_year_change": "6 %",
+   "5_years_change": "21 %",
+   "10_years_change": "48 %"
+ },
+ {
+   "#": 3,
+   "zip_code": 120,
+   "neighbourhood": "Punavuori",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 7209,
+   "1_year_change": "8 %",
+   "5_years_change": "22 %",
+   "10_years_change": "53 %"
+ },
+ {
+   "#": 4,
+   "zip_code": 150,
+   "neighbourhood": "Eira - Hernesaari",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 7197,
+   "1_year_change": "8 %",
+   "5_years_change": "23 %",
+   "10_years_change": "57 %"
+ },
+ {
+   "#": 5,
+   "zip_code": 170,
+   "neighbourhood": "Kruununhaka",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 6954,
+   "1_year_change": "6 %",
+   "5_years_change": "19 %",
+   "10_years_change": "52 %"
+ },
+ {
+   "#": 6,
+   "zip_code": 180,
+   "neighbourhood": "Kamppi - Ruoholahti",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 6931,
+   "1_year_change": "3 %",
+   "5_years_change": "24 %",
+   "10_years_change": "57 %"
+ },
+ {
+   "#": 7,
+   "zip_code": 100,
+   "neighbourhood": "Helsinki Keskusta - Etu-Töölö",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 6671,
+   "1_year_change": "16 %",
+   "5_years_change": "15 %",
+   "10_years_change": "54 %"
+ },
+ {
+   "#": 8,
+   "zip_code": 260,
+   "neighbourhood": "Keski-Töölö",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 6411,
+   "1_year_change": "6 %",
+   "5_years_change": "20 %",
+   "10_years_change": "51 %"
+ },
+ {
+   "#": 9,
+   "zip_code": 250,
+   "neighbourhood": "Taka-Töölö",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 6104,
+   "1_year_change": "4 %",
+   "5_years_change": "17 %",
+   "10_years_change": "50 %"
+ },
+ {
+   "#": 10,
+   "zip_code": 160,
+   "neighbourhood": "Katajanokka",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 5991,
+   "1_year_change": "0 %",
+   "5_years_change": "-7 %",
+   "10_years_change": "29 %"
+ },
+ {
+   "#": 11,
+   "zip_code": 270,
+   "neighbourhood": "Pohjois-Meilahti",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 5952,
+   "1_year_change": "6 %",
+   "5_years_change": "18 %",
+   "10_years_change": "54 %"
+ },
+ {
+   "#": 12,
+   "zip_code": 500,
+   "neighbourhood": "Sörnäinen",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 5840,
+   "1_year_change": "5 %",
+   "5_years_change": "27 %",
+   "10_years_change": "68 %"
+ },
+ {
+   "#": 13,
+   "zip_code": 530,
+   "neighbourhood": "Kallio",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 5693,
+   "1_year_change": "6 %",
+   "5_years_change": "21 %",
+   "10_years_change": "55 %"
+ },
+ {
+   "#": 14,
+   "zip_code": 510,
+   "neighbourhood": "Etu-Vallila - Alppila",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 5680,
+   "1_year_change": "9 %",
+   "5_years_change": "27 %",
+   "10_years_change": "68 %"
+ },
+ {
+   "#": 15,
+   "zip_code": 200,
+   "neighbourhood": "Lauttasaari",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 5586,
+   "1_year_change": "5 %",
+   "5_years_change": "19 %",
+   "10_years_change": "53 %"
+ },
+ {
+   "#": 16,
+   "zip_code": 210,
+   "neighbourhood": "Vattuniemi",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 5440,
+   "1_year_change": "1 %",
+   "5_years_change": "12 %",
+   "10_years_change": "35 %"
+ },
+ {
+   "#": 17,
+   "zip_code": 330,
+   "neighbourhood": "Munkkiniemi",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 5408,
+   "1_year_change": "4 %",
+   "5_years_change": "13 %",
+   "10_years_change": "39 %"
+ },
+ {
+   "#": 18,
+   "zip_code": 560,
+   "neighbourhood": "Toukola-Vanhakaupunki",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 5320,
+   "1_year_change": "7 %",
+   "5_years_change": "16 %",
+   "10_years_change": "50 %"
+ },
+ {
+   "#": 19,
+   "zip_code": 280,
+   "neighbourhood": "Ruskeasuo",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 5296,
+   "1_year_change": "2 %",
+   "5_years_change": "15 %",
+   "10_years_change": "49 %"
+ },
+ {
+   "#": 20,
+   "zip_code": 550,
+   "neighbourhood": "Vallila",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 5264,
+   "1_year_change": "7 %",
+   "5_years_change": "27 %",
+   "10_years_change": "68 %"
+ },
+ {
+   "#": 21,
+   "zip_code": 300,
+   "neighbourhood": "Pikku Huopalahti",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 5225,
+   "1_year_change": "5 %",
+   "5_years_change": "18 %",
+   "10_years_change": "55 %"
+ },
+ {
+   "#": 22,
+   "zip_code": 610,
+   "neighbourhood": "Käpylä",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 5205,
+   "1_year_change": "10 %",
+   "5_years_change": "26 %",
+   "10_years_change": "69 %"
+ },
+ {
+   "#": 23,
+   "zip_code": 570,
+   "neighbourhood": "Kulosaari",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 5183,
+   "1_year_change": "13 %",
+   "5_years_change": "24 %",
+   "10_years_change": "52 %"
+ },
+ {
+   "#": 24,
+   "zip_code": 520,
+   "neighbourhood": "Itä-Pasila",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 5128,
+   "1_year_change": "7 %",
+   "5_years_change": "27 %",
+   "10_years_change": "63 %"
+ },
+ {
+   "#": 25,
+   "zip_code": 2100,
+   "neighbourhood": "Tapiola",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 4999,
+   "1_year_change": "9 %",
+   "5_years_change": "20 %",
+   "10_years_change": "58 %"
+ },
+ {
+   "#": 26,
+   "zip_code": 810,
+   "neighbourhood": "Herttoniemi",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 4686,
+   "1_year_change": "3 %",
+   "5_years_change": "16 %",
+   "10_years_change": "49 %"
+ },
+ {
+   "#": 27,
+   "zip_code": 320,
+   "neighbourhood": "Etelä-Haaga",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 4641,
+   "1_year_change": "0 %",
+   "5_years_change": "15 %",
+   "10_years_change": "49 %"
+ },
+ {
+   "#": 28,
+   "zip_code": 990,
+   "neighbourhood": "Aurinkolahti",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 4633,
+   "1_year_change": "5 %",
+   "5_years_change": "12 %",
+   "10_years_change": "32 %"
+ },
+ {
+   "#": 29,
+   "zip_code": 2110,
+   "neighbourhood": "Otsolahti",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 4606,
+   "1_year_change": "5 %",
+   "5_years_change": "9 %",
+   "10_years_change": "58 %"
+ },
+ {
+   "#": 30,
+   "zip_code": 2160,
+   "neighbourhood": "Westend",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 4585,
+   "1_year_change": "3 %",
+   "5_years_change": "4 %",
+   "10_years_change": "34 %"
+ },
+ {
+   "#": 31,
+   "zip_code": 350,
+   "neighbourhood": "Munkkivuori-Niemenmäki",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 4517,
+   "1_year_change": "4 %",
+   "5_years_change": "13 %",
+   "10_years_change": "47 %"
+ },
+ {
+   "#": 32,
+   "zip_code": 310,
+   "neighbourhood": "Kivihaka",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 4428,
+   "1_year_change": "6 %",
+   "5_years_change": "26 %",
+   "10_years_change": "50 %"
+ },
+ {
+   "#": 33,
+   "zip_code": 800,
+   "neighbourhood": "Länsi-Herttoniemi",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 4401,
+   "1_year_change": "1 %",
+   "5_years_change": "21 %",
+   "10_years_change": "55 %"
+ },
+ {
+   "#": 34,
+   "zip_code": 2120,
+   "neighbourhood": "Länsikorkee-Suvikumpu",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 4351,
+   "1_year_change": "3 %",
+   "5_years_change": "5 %",
+   "10_years_change": "43 %"
+ },
+ {
+   "#": 35,
+   "zip_code": 340,
+   "neighbourhood": "Kuusisaari-Lehtisaari",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 4231,
+   "1_year_change": "6 %",
+   "5_years_change": "5 %",
+   "10_years_change": "13 %"
+ },
+ {
+   "#": 36,
+   "zip_code": 2150,
+   "neighbourhood": "Otaniemi",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 4169,
+   "1_year_change": "6 %",
+   "5_years_change": "13 %",
+   "10_years_change": "53 %"
+ },
+ {
+   "#": 37,
+   "zip_code": 2170,
+   "neighbourhood": "Haukilahti",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 4168,
+   "1_year_change": "0 %",
+   "5_years_change": "8 %",
+   "10_years_change": "32 %"
+ },
+ {
+   "#": 38,
+   "zip_code": 790,
+   "neighbourhood": "Viikki",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 4166,
+   "1_year_change": "3 %",
+   "5_years_change": "14 %",
+   "10_years_change": "33 %"
+ },
+ {
+   "#": 39,
+   "zip_code": 2200,
+   "neighbourhood": "Niittykumpu",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 4127,
+   "1_year_change": "4 %",
+   "5_years_change": "7 %",
+   "10_years_change": "47 %"
+ },
+ {
+   "#": 40,
+   "zip_code": 2130,
+   "neighbourhood": "Pohjois-Tapiola",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 4081,
+   "1_year_change": "3 %",
+   "5_years_change": "11 %",
+   "10_years_change": "41 %"
+ },
+ {
+   "#": 41,
+   "zip_code": 370,
+   "neighbourhood": "Reimarla",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 4079,
+   "1_year_change": "2 %",
+   "5_years_change": "17 %",
+   "10_years_change": "40 %"
+ },
+ {
+   "#": 42,
+   "zip_code": 850,
+   "neighbourhood": "Jollas",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 4062,
+   "1_year_change": "11 %",
+   "5_years_change": "-8 %",
+   "10_years_change": "1 %"
+ },
+ {
+   "#": 43,
+   "zip_code": 400,
+   "neighbourhood": "Pohjois-Haaga",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 4015,
+   "1_year_change": "9 %",
+   "5_years_change": "16 %",
+   "10_years_change": "51 %"
+ },
+ {
+   "#": 44,
+   "zip_code": 2240,
+   "neighbourhood": "Friisilä",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 4001,
+   "1_year_change": "3 %",
+   "5_years_change": "5 %",
+   "10_years_change": "48 %"
+ },
+ {
+   "#": 45,
+   "zip_code": 620,
+   "neighbourhood": "Metsälä-Etelä-Oulunkylä",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3971,
+   "1_year_change": "7 %",
+   "5_years_change": "31 %",
+   "10_years_change": "48 %"
+ },
+ {
+   "#": 46,
+   "zip_code": 2700,
+   "neighbourhood": "Kauniainen",
+   "city": "Kauniainen - Grankulla",
+   "avg_price_sq_m_2017": 3942,
+   "1_year_change": "2 %",
+   "5_years_change": "10 %",
+   "10_years_change": "27 %"
+ },
+ {
+   "#": 47,
+   "zip_code": 33180,
+   "neighbourhood": "Lapinniemi-Käpylä",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 3891,
+   "1_year_change": "7 %",
+   "5_years_change": "9 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 48,
+   "zip_code": 2230,
+   "neighbourhood": "Matinkylä",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 3864,
+   "1_year_change": "-2 %",
+   "5_years_change": "12 %",
+   "10_years_change": "40 %"
+ },
+ {
+   "#": 49,
+   "zip_code": 2600,
+   "neighbourhood": "Etelä-Leppävaara",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 3856,
+   "1_year_change": "7 %",
+   "5_years_change": "1 %",
+   "10_years_change": "35 %"
+ },
+ {
+   "#": 50,
+   "zip_code": 1520,
+   "neighbourhood": "Tammisto",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 3854,
+   "1_year_change": "5 %",
+   "5_years_change": "11 %",
+   "10_years_change": "31 %"
+ },
+ {
+   "#": 51,
+   "zip_code": 1510,
+   "neighbourhood": "Kirkonkylä-Veromäki",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 3850,
+   "1_year_change": "3 %",
+   "5_years_change": "4 %",
+   "10_years_change": "36 %"
+ },
+ {
+   "#": 52,
+   "zip_code": 2610,
+   "neighbourhood": "Kilo",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 3834,
+   "1_year_change": "3 %",
+   "5_years_change": "6 %",
+   "10_years_change": "26 %"
+ },
+ {
+   "#": 53,
+   "zip_code": 1700,
+   "neighbourhood": "Kivistö",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 3831,
+   "1_year_change": "15 %",
+   "5_years_change": "44 %",
+   "10_years_change": "75 %"
+ },
+ {
+   "#": 54,
+   "zip_code": 360,
+   "neighbourhood": "Pajamäki",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3809,
+   "1_year_change": "-1 %",
+   "5_years_change": "18 %",
+   "10_years_change": "44 %"
+ },
+ {
+   "#": 55,
+   "zip_code": 2660,
+   "neighbourhood": "Lintuvaara",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 3759,
+   "1_year_change": "7 %",
+   "5_years_change": "11 %",
+   "10_years_change": "30 %"
+ },
+ {
+   "#": 56,
+   "zip_code": 2180,
+   "neighbourhood": "Mankkaa",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 3746,
+   "1_year_change": "4 %",
+   "5_years_change": "3 %",
+   "10_years_change": "25 %"
+ },
+ {
+   "#": 57,
+   "zip_code": 2750,
+   "neighbourhood": "Sepänkylä-Kuurinniitty",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 3733,
+   "1_year_change": "5 %",
+   "5_years_change": "7 %",
+   "10_years_change": "26 %"
+ },
+ {
+   "#": 58,
+   "zip_code": 830,
+   "neighbourhood": "Tammisalo",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3727,
+   "1_year_change": "1 %",
+   "5_years_change": "3 %",
+   "10_years_change": "12 %"
+ },
+ {
+   "#": 59,
+   "zip_code": 2330,
+   "neighbourhood": "Saunalahti-Kattilalaakso",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 3727,
+   "1_year_change": "2 %",
+   "5_years_change": "-1 %",
+   "10_years_change": "32 %"
+ },
+ {
+   "#": 60,
+   "zip_code": 2650,
+   "neighbourhood": "Pohjois-Leppävaara",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 3678,
+   "1_year_change": "-1 %",
+   "5_years_change": "7 %",
+   "10_years_change": "38 %"
+ },
+ {
+   "#": 61,
+   "zip_code": 440,
+   "neighbourhood": "Lassila",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3629,
+   "1_year_change": "1 %",
+   "5_years_change": "12 %",
+   "10_years_change": "25 %"
+ },
+ {
+   "#": 62,
+   "zip_code": 670,
+   "neighbourhood": "Paloheinä",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3601,
+   "1_year_change": "2 %",
+   "5_years_change": "4 %",
+   "10_years_change": "16 %"
+ },
+ {
+   "#": 63,
+   "zip_code": 660,
+   "neighbourhood": "Länsi-Pakila",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3582,
+   "1_year_change": "2 %",
+   "5_years_change": "7 %",
+   "10_years_change": "20 %"
+ },
+ {
+   "#": 64,
+   "zip_code": 2300,
+   "neighbourhood": "Nöykkiönpuro",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 3562,
+   "1_year_change": "6 %",
+   "5_years_change": "6 %",
+   "10_years_change": "20 %"
+ },
+ {
+   "#": 65,
+   "zip_code": 630,
+   "neighbourhood": "Maunula-Suursuo",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3515,
+   "1_year_change": "3 %",
+   "5_years_change": "18 %",
+   "10_years_change": "40 %"
+ },
+ {
+   "#": 66,
+   "zip_code": 33200,
+   "neighbourhood": "Tampere Keskus Läntinen",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 3487,
+   "1_year_change": "4 %",
+   "5_years_change": "12 %",
+   "10_years_change": "37 %"
+ },
+ {
+   "#": 67,
+   "zip_code": 680,
+   "neighbourhood": "Itä-Pakila",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3483,
+   "1_year_change": "-3 %",
+   "5_years_change": "1 %",
+   "10_years_change": "24 %"
+ },
+ {
+   "#": 68,
+   "zip_code": 33100,
+   "neighbourhood": "Tampere Keskus",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 3462,
+   "1_year_change": "3 %",
+   "5_years_change": "16 %",
+   "10_years_change": "42 %"
+ },
+ {
+   "#": 69,
+   "zip_code": 840,
+   "neighbourhood": "Laajasalo",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3457,
+   "1_year_change": "3 %",
+   "5_years_change": "12 %",
+   "10_years_change": "32 %"
+ },
+ {
+   "#": 70,
+   "zip_code": 950,
+   "neighbourhood": "Vartioharju",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3449,
+   "1_year_change": "3 %",
+   "5_years_change": "5 %",
+   "10_years_change": "21 %"
+ },
+ {
+   "#": 71,
+   "zip_code": 2270,
+   "neighbourhood": "Finnoo-Eestinmalmi",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 3422,
+   "1_year_change": "1 %",
+   "5_years_change": "0 %",
+   "10_years_change": "29 %"
+ },
+ {
+   "#": 72,
+   "zip_code": 650,
+   "neighbourhood": "Veräjämäki",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3419,
+   "1_year_change": "-1 %",
+   "5_years_change": "3 %",
+   "10_years_change": "34 %"
+ },
+ {
+   "#": 73,
+   "zip_code": 390,
+   "neighbourhood": "Konala",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3390,
+   "1_year_change": "8 %",
+   "5_years_change": "17 %",
+   "10_years_change": "39 %"
+ },
+ {
+   "#": 74,
+   "zip_code": 1690,
+   "neighbourhood": "Ylästö",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 3370,
+   "1_year_change": "-2 %",
+   "5_years_change": "3 %",
+   "10_years_change": "18 %"
+ },
+ {
+   "#": 75,
+   "zip_code": 640,
+   "neighbourhood": "Oulunkylä-Patola",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3365,
+   "1_year_change": "1 %",
+   "5_years_change": "7 %",
+   "10_years_change": "30 %"
+ },
+ {
+   "#": 76,
+   "zip_code": 2280,
+   "neighbourhood": "Malminmäki-Eestinlaakso",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 3350,
+   "1_year_change": "0 %",
+   "5_years_change": "7 %",
+   "10_years_change": "18 %"
+ },
+ {
+   "#": 77,
+   "zip_code": 33210,
+   "neighbourhood": "Itä-Amuri-Tammerkoski",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 3345,
+   "1_year_change": "3 %",
+   "5_years_change": "15 %",
+   "10_years_change": "31 %"
+ },
+ {
+   "#": 78,
+   "zip_code": 2630,
+   "neighbourhood": "Nihtisilta",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 3336,
+   "1_year_change": "1 %",
+   "5_years_change": "3 %",
+   "10_years_change": "20 %"
+ },
+ {
+   "#": 79,
+   "zip_code": 2260,
+   "neighbourhood": "Kaitaa",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 3296,
+   "1_year_change": "15 %",
+   "5_years_change": "24 %",
+   "10_years_change": "38 %"
+ },
+ {
+   "#": 80,
+   "zip_code": 910,
+   "neighbourhood": "Puotila",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3295,
+   "1_year_change": "1 %",
+   "5_years_change": "8 %",
+   "10_years_change": "37 %"
+ },
+ {
+   "#": 81,
+   "zip_code": 700,
+   "neighbourhood": "Malmi",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3292,
+   "1_year_change": "2 %",
+   "5_years_change": "6 %",
+   "10_years_change": "28 %"
+ },
+ {
+   "#": 82,
+   "zip_code": 820,
+   "neighbourhood": "Roihuvuori",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3279,
+   "1_year_change": "8 %",
+   "5_years_change": "16 %",
+   "10_years_change": "40 %"
+ },
+ {
+   "#": 83,
+   "zip_code": 33230,
+   "neighbourhood": "Länsi-Amuri",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 3274,
+   "1_year_change": "2 %",
+   "5_years_change": "9 %",
+   "10_years_change": "31 %"
+ },
+ {
+   "#": 84,
+   "zip_code": 1390,
+   "neighbourhood": "Ruskeasanta-Ilola",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 3266,
+   "1_year_change": "11 %",
+   "5_years_change": "13 %",
+   "10_years_change": "35 %"
+ },
+ {
+   "#": 85,
+   "zip_code": 730,
+   "neighbourhood": "Tapanila",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3243,
+   "1_year_change": "-1 %",
+   "5_years_change": "4 %",
+   "10_years_change": "21 %"
+ },
+ {
+   "#": 86,
+   "zip_code": 780,
+   "neighbourhood": "Tapaninvainio",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3235,
+   "1_year_change": "1 %",
+   "5_years_change": "4 %",
+   "10_years_change": "18 %"
+ },
+ {
+   "#": 87,
+   "zip_code": 1300,
+   "neighbourhood": "Tikkurila",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 3228,
+   "1_year_change": "7 %",
+   "5_years_change": "8 %",
+   "10_years_change": "31 %"
+ },
+ {
+   "#": 88,
+   "zip_code": 420,
+   "neighbourhood": "Kannelmäki",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3198,
+   "1_year_change": "12 %",
+   "5_years_change": "16 %",
+   "10_years_change": "34 %"
+ },
+ {
+   "#": 89,
+   "zip_code": 2340,
+   "neighbourhood": "Latokaski",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 3193,
+   "1_year_change": "5 %",
+   "5_years_change": "-1 %",
+   "10_years_change": "19 %"
+ },
+ {
+   "#": 90,
+   "zip_code": 33500,
+   "neighbourhood": "Osmonmäki-Petsamo",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 3186,
+   "1_year_change": "4 %",
+   "5_years_change": "15 %",
+   "10_years_change": "38 %"
+ },
+ {
+   "#": 91,
+   "zip_code": 980,
+   "neighbourhood": "Etelä-Vuosaari",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3178,
+   "1_year_change": "1 %",
+   "5_years_change": "12 %",
+   "10_years_change": "22 %"
+ },
+ {
+   "#": 92,
+   "zip_code": 20100,
+   "neighbourhood": "Turku Keskus",
+   "city": "Turku - Åbo",
+   "avg_price_sq_m_2017": 3174,
+   "1_year_change": "2 %",
+   "5_years_change": "19 %",
+   "10_years_change": "43 %"
+ },
+ {
+   "#": 93,
+   "zip_code": 20500,
+   "neighbourhood": "Vesilinna",
+   "city": "Turku - Åbo",
+   "avg_price_sq_m_2017": 3170,
+   "1_year_change": "2 %",
+   "5_years_change": "25 %",
+   "10_years_change": "45 %"
+ },
+ {
+   "#": 94,
+   "zip_code": 2720,
+   "neighbourhood": "Lähderanta",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 3168,
+   "1_year_change": "-7 %",
+   "5_years_change": "5 %",
+   "10_years_change": "42 %"
+ },
+ {
+   "#": 95,
+   "zip_code": 2140,
+   "neighbourhood": "Laajalahti",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 3138,
+   "1_year_change": "0 %",
+   "5_years_change": "2 %",
+   "10_years_change": "19 %"
+ },
+ {
+   "#": 96,
+   "zip_code": 2730,
+   "neighbourhood": "Jupperi",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 3123,
+   "1_year_change": "-5 %",
+   "5_years_change": "-1 %",
+   "10_years_change": "18 %"
+ },
+ {
+   "#": 97,
+   "zip_code": 2210,
+   "neighbourhood": "Olari",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 3113,
+   "1_year_change": "5 %",
+   "5_years_change": "7 %",
+   "10_years_change": "26 %"
+ },
+ {
+   "#": 98,
+   "zip_code": 690,
+   "neighbourhood": "Tuomarinkylä-Torpparinmäki",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3111,
+   "1_year_change": "0 %",
+   "5_years_change": "0 %",
+   "10_years_change": "0 %"
+ },
+ {
+   "#": 99,
+   "zip_code": 1380,
+   "neighbourhood": "Kuusikko-Hakkila",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 3098,
+   "1_year_change": "4 %",
+   "5_years_change": "11 %",
+   "10_years_change": "33 %"
+ },
+ {
+   "#": 100,
+   "zip_code": 2320,
+   "neighbourhood": "Espoonlahti",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 3098,
+   "1_year_change": "4 %",
+   "5_years_change": "6 %",
+   "10_years_change": "21 %"
+ },
+ {
+   "#": 101,
+   "zip_code": 2770,
+   "neighbourhood": "Espoon Keskus",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 3098,
+   "1_year_change": "8 %",
+   "5_years_change": "10 %",
+   "10_years_change": "33 %"
+ },
+ {
+   "#": 102,
+   "zip_code": 870,
+   "neighbourhood": "Etelä-Laajasalo",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3091,
+   "1_year_change": "2 %",
+   "5_years_change": "5 %",
+   "10_years_change": "17 %"
+ },
+ {
+   "#": 103,
+   "zip_code": 930,
+   "neighbourhood": "Itäkeskus-Marjaniemi",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3072,
+   "1_year_change": "1 %",
+   "5_years_change": "0 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 104,
+   "zip_code": 600,
+   "neighbourhood": "Koskela-Helsinki",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3063,
+   "1_year_change": "0 %",
+   "5_years_change": "2 %",
+   "10_years_change": "24 %"
+ },
+ {
+   "#": 105,
+   "zip_code": 2940,
+   "neighbourhood": "Lippajärvi-Järvenperä",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 3043,
+   "1_year_change": "4 %",
+   "5_years_change": "3 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 106,
+   "zip_code": 720,
+   "neighbourhood": "Pukinmäki-Savela",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 3028,
+   "1_year_change": "2 %",
+   "5_years_change": "0 %",
+   "10_years_change": "19 %"
+ },
+ {
+   "#": 107,
+   "zip_code": 20520,
+   "neighbourhood": "Kupittaa",
+   "city": "Turku - Åbo",
+   "avg_price_sq_m_2017": 3027,
+   "1_year_change": "-4 %",
+   "5_years_change": "27 %",
+   "10_years_change": "50 %"
+ },
+ {
+   "#": 108,
+   "zip_code": 33250,
+   "neighbourhood": "Pispala",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 3025,
+   "1_year_change": "5 %",
+   "5_years_change": "17 %",
+   "10_years_change": "32 %"
+ },
+ {
+   "#": 109,
+   "zip_code": 20810,
+   "neighbourhood": "Martti-Korppolaismäki",
+   "city": "Turku - Åbo",
+   "avg_price_sq_m_2017": 3006,
+   "1_year_change": "5 %",
+   "5_years_change": "18 %",
+   "10_years_change": "46 %"
+ },
+ {
+   "#": 110,
+   "zip_code": 1400,
+   "neighbourhood": "Rekola",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 2989,
+   "1_year_change": "-1 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "25 %"
+ },
+ {
+   "#": 111,
+   "zip_code": 430,
+   "neighbourhood": "Maununneva",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 2986,
+   "1_year_change": "-13 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "7 %"
+ },
+ {
+   "#": 112,
+   "zip_code": 1370,
+   "neighbourhood": "Jokiniemi",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 2977,
+   "1_year_change": "1 %",
+   "5_years_change": "9 %",
+   "10_years_change": "30 %"
+ },
+ {
+   "#": 113,
+   "zip_code": 33540,
+   "neighbourhood": "Kaleva",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 2976,
+   "1_year_change": "1 %",
+   "5_years_change": "11 %",
+   "10_years_change": "37 %"
+ },
+ {
+   "#": 114,
+   "zip_code": 20700,
+   "neighbourhood": "Vartiovuori-Samppalinna",
+   "city": "Turku - Åbo",
+   "avg_price_sq_m_2017": 2974,
+   "1_year_change": "1 %",
+   "5_years_change": "21 %",
+   "10_years_change": "35 %"
+ },
+ {
+   "#": 115,
+   "zip_code": 900,
+   "neighbourhood": "Puotinharju",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 2973,
+   "1_year_change": "4 %",
+   "5_years_change": "15 %",
+   "10_years_change": "27 %"
+ },
+ {
+   "#": 116,
+   "zip_code": 1610,
+   "neighbourhood": "Kaivoksela",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 2966,
+   "1_year_change": "0 %",
+   "5_years_change": "12 %",
+   "10_years_change": "41 %"
+ },
+ {
+   "#": 117,
+   "zip_code": 760,
+   "neighbourhood": "Suurmetsä",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 2954,
+   "1_year_change": "-2 %",
+   "5_years_change": "3 %",
+   "10_years_change": "17 %"
+ },
+ {
+   "#": 118,
+   "zip_code": 960,
+   "neighbourhood": "Pohjois-Vuosaari",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 2954,
+   "1_year_change": "1 %",
+   "5_years_change": "11 %",
+   "10_years_change": "34 %"
+ },
+ {
+   "#": 119,
+   "zip_code": 1640,
+   "neighbourhood": "Hämevaara",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 2928,
+   "1_year_change": "-5 %",
+   "5_years_change": "-9 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 120,
+   "zip_code": 1630,
+   "neighbourhood": "Hämeenkylä",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 2895,
+   "1_year_change": "-7 %",
+   "5_years_change": "-1 %",
+   "10_years_change": "13 %"
+ },
+ {
+   "#": 121,
+   "zip_code": 2780,
+   "neighbourhood": "Kauklahti",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 2879,
+   "1_year_change": "2 %",
+   "5_years_change": "4 %",
+   "10_years_change": "18 %"
+ },
+ {
+   "#": 122,
+   "zip_code": 40100,
+   "neighbourhood": "Jyväskylä Keskus",
+   "city": "Jyväskylä",
+   "avg_price_sq_m_2017": 2878,
+   "1_year_change": "1 %",
+   "5_years_change": "15 %",
+   "10_years_change": "39 %"
+ },
+ {
+   "#": 123,
+   "zip_code": 1670,
+   "neighbourhood": "Vantaanlaakso",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 2806,
+   "1_year_change": "-4 %",
+   "5_years_change": "0 %",
+   "10_years_change": "21 %"
+ },
+ {
+   "#": 124,
+   "zip_code": 2760,
+   "neighbourhood": "Tuomarila-Suvela",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 2806,
+   "1_year_change": "0 %",
+   "5_years_change": "2 %",
+   "10_years_change": "28 %"
+ },
+ {
+   "#": 125,
+   "zip_code": 2970,
+   "neighbourhood": "Kalajärvi",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 2805,
+   "1_year_change": "1 %",
+   "5_years_change": "1 %",
+   "10_years_change": "11 %"
+ },
+ {
+   "#": 126,
+   "zip_code": 2360,
+   "neighbourhood": "Soukka",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 2804,
+   "1_year_change": "-2 %",
+   "5_years_change": "10 %",
+   "10_years_change": "25 %"
+ },
+ {
+   "#": 127,
+   "zip_code": 2920,
+   "neighbourhood": "Niipperi",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 2804,
+   "1_year_change": "3 %",
+   "5_years_change": "-7 %",
+   "10_years_change": "21 %"
+ },
+ {
+   "#": 128,
+   "zip_code": 1490,
+   "neighbourhood": "Nikinmäki",
+   "city": "Sipoo - Sibbo",
+   "avg_price_sq_m_2017": 2799,
+   "1_year_change": "-10 %",
+   "5_years_change": "13 %",
+   "10_years_change": "25 %"
+ },
+ {
+   "#": 129,
+   "zip_code": 4330,
+   "neighbourhood": "Lahela",
+   "city": "Tuusula - Tusby",
+   "avg_price_sq_m_2017": 2793,
+   "1_year_change": "11 %",
+   "5_years_change": "16 %",
+   "10_years_change": "23 %"
+ },
+ {
+   "#": 130,
+   "zip_code": 1230,
+   "neighbourhood": "Vaarala",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 2790,
+   "1_year_change": "1 %",
+   "5_years_change": "11 %",
+   "10_years_change": "20 %"
+ },
+ {
+   "#": 131,
+   "zip_code": 1350,
+   "neighbourhood": "Hiekkaharju",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 2779,
+   "1_year_change": "5 %",
+   "5_years_change": "14 %",
+   "10_years_change": "32 %"
+ },
+ {
+   "#": 132,
+   "zip_code": 33240,
+   "neighbourhood": "Tahmela",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 2776,
+   "1_year_change": "-1 %",
+   "5_years_change": "9 %",
+   "10_years_change": "29 %"
+ },
+ {
+   "#": 133,
+   "zip_code": 2620,
+   "neighbourhood": "Karakallio",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 2761,
+   "1_year_change": "-3 %",
+   "5_years_change": "3 %",
+   "10_years_change": "26 %"
+ },
+ {
+   "#": 134,
+   "zip_code": 6100,
+   "neighbourhood": "Porvoo Keskus",
+   "city": "Porvoo - Borgå",
+   "avg_price_sq_m_2017": 2756,
+   "1_year_change": "-2 %",
+   "5_years_change": "1 %",
+   "10_years_change": "24 %"
+ },
+ {
+   "#": 135,
+   "zip_code": 70110,
+   "neighbourhood": "Etu-Niirala",
+   "city": "Kuopio",
+   "avg_price_sq_m_2017": 2756,
+   "1_year_change": "2 %",
+   "5_years_change": "18 %",
+   "10_years_change": "40 %"
+ },
+ {
+   "#": 136,
+   "zip_code": 70300,
+   "neighbourhood": "Linnanpelto",
+   "city": "Kuopio",
+   "avg_price_sq_m_2017": 2756,
+   "1_year_change": "12 %",
+   "5_years_change": "21 %",
+   "10_years_change": "35 %"
+ },
+ {
+   "#": 137,
+   "zip_code": 410,
+   "neighbourhood": "Malminkartano",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 2754,
+   "1_year_change": "4 %",
+   "5_years_change": "6 %",
+   "10_years_change": "34 %"
+ },
+ {
+   "#": 138,
+   "zip_code": 920,
+   "neighbourhood": "Myllypuro",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 2727,
+   "1_year_change": "4 %",
+   "5_years_change": "13 %",
+   "10_years_change": "41 %"
+ },
+ {
+   "#": 139,
+   "zip_code": 750,
+   "neighbourhood": "Puistola",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 2724,
+   "1_year_change": "-1 %",
+   "5_years_change": "2 %",
+   "10_years_change": "19 %"
+ },
+ {
+   "#": 140,
+   "zip_code": 710,
+   "neighbourhood": "Pihlajamäki",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 2701,
+   "1_year_change": "5 %",
+   "5_years_change": "7 %",
+   "10_years_change": "28 %"
+ },
+ {
+   "#": 141,
+   "zip_code": 13220,
+   "neighbourhood": "Sairio",
+   "city": "Hämeenlinna - Tavastehus",
+   "avg_price_sq_m_2017": 2697,
+   "1_year_change": "5 %",
+   "5_years_change": "21 %",
+   "10_years_change": "63 %"
+ },
+ {
+   "#": 142,
+   "zip_code": 1260,
+   "neighbourhood": "Itä-Hakkila",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 2693,
+   "1_year_change": "5 %",
+   "5_years_change": "2 %",
+   "10_years_change": "13 %"
+ },
+ {
+   "#": 143,
+   "zip_code": 70100,
+   "neighbourhood": "Kuopio Keskus",
+   "city": "Kuopio",
+   "avg_price_sq_m_2017": 2688,
+   "1_year_change": "3 %",
+   "5_years_change": "12 %",
+   "10_years_change": "25 %"
+ },
+ {
+   "#": 144,
+   "zip_code": 33700,
+   "neighbourhood": "Messukylä",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 2677,
+   "1_year_change": "7 %",
+   "5_years_change": "4 %",
+   "10_years_change": "20 %"
+ },
+ {
+   "#": 145,
+   "zip_code": 4310,
+   "neighbourhood": "Tuusula Keskus",
+   "city": "Tuusula - Tusby",
+   "avg_price_sq_m_2017": 2622,
+   "1_year_change": "4 %",
+   "5_years_change": "1 %",
+   "10_years_change": "18 %"
+ },
+ {
+   "#": 146,
+   "zip_code": 4430,
+   "neighbourhood": "Kinnari-Mikonkorpi",
+   "city": "Järvenpää - Träskända",
+   "avg_price_sq_m_2017": 2622,
+   "1_year_change": "-1 %",
+   "5_years_change": "1 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 147,
+   "zip_code": 1150,
+   "neighbourhood": "Söderkulla",
+   "city": "Sipoo - Sibbo",
+   "avg_price_sq_m_2017": 2612,
+   "1_year_change": "18 %",
+   "5_years_change": "2 %",
+   "10_years_change": "30 %"
+ },
+ {
+   "#": 148,
+   "zip_code": 33530,
+   "neighbourhood": "Kissanmaa",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 2611,
+   "1_year_change": "4 %",
+   "5_years_change": "15 %",
+   "10_years_change": "36 %"
+ },
+ {
+   "#": 149,
+   "zip_code": 740,
+   "neighbourhood": "Siltamäki",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 2603,
+   "1_year_change": "4 %",
+   "5_years_change": "1 %",
+   "10_years_change": "15 %"
+ },
+ {
+   "#": 150,
+   "zip_code": 970,
+   "neighbourhood": "Mellunmäki",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 2598,
+   "1_year_change": "6 %",
+   "5_years_change": "2 %",
+   "10_years_change": "22 %"
+ },
+ {
+   "#": 151,
+   "zip_code": 15140,
+   "neighbourhood": "Kartano-Paavola",
+   "city": "Lahti",
+   "avg_price_sq_m_2017": 2592,
+   "1_year_change": "5 %",
+   "5_years_change": "10 %",
+   "10_years_change": "34 %"
+ },
+ {
+   "#": 152,
+   "zip_code": 1710,
+   "neighbourhood": "Pähkinärinne",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 2591,
+   "1_year_change": "2 %",
+   "5_years_change": "2 %",
+   "10_years_change": "19 %"
+ },
+ {
+   "#": 153,
+   "zip_code": 90100,
+   "neighbourhood": "Oulu Keskus",
+   "city": "Oulu - Uleåborg",
+   "avg_price_sq_m_2017": 2591,
+   "1_year_change": "3 %",
+   "5_years_change": "12 %",
+   "10_years_change": "34 %"
+ },
+ {
+   "#": 154,
+   "zip_code": 2710,
+   "neighbourhood": "Viherlaakso",
+   "city": "Espoo",
+   "avg_price_sq_m_2017": 2582,
+   "1_year_change": "-5 %",
+   "5_years_change": "-8 %",
+   "10_years_change": "12 %"
+ },
+ {
+   "#": 155,
+   "zip_code": 40700,
+   "neighbourhood": "Mäki-Matti",
+   "city": "Jyväskylä",
+   "avg_price_sq_m_2017": 2574,
+   "1_year_change": "1 %",
+   "5_years_change": "18 %",
+   "10_years_change": "36 %"
+ },
+ {
+   "#": 156,
+   "zip_code": 4220,
+   "neighbourhood": "Ahjo-Kaskela",
+   "city": "Kerava - Kervo",
+   "avg_price_sq_m_2017": 2565,
+   "1_year_change": "1 %",
+   "5_years_change": "2 %",
+   "10_years_change": "24 %"
+ },
+ {
+   "#": 157,
+   "zip_code": 15900,
+   "neighbourhood": "Jalkaranta",
+   "city": "Lahti",
+   "avg_price_sq_m_2017": 2550,
+   "1_year_change": "9 %",
+   "5_years_change": "2 %",
+   "10_years_change": "20 %"
+ },
+ {
+   "#": 158,
+   "zip_code": 40200,
+   "neighbourhood": "Mannila-Taulumäki",
+   "city": "Jyväskylä",
+   "avg_price_sq_m_2017": 2545,
+   "1_year_change": "2 %",
+   "5_years_change": "10 %",
+   "10_years_change": "34 %"
+ },
+ {
+   "#": 159,
+   "zip_code": 1450,
+   "neighbourhood": "Korso",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 2544,
+   "1_year_change": "0 %",
+   "5_years_change": "0 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 160,
+   "zip_code": 4200,
+   "neighbourhood": "Kerava Keskus",
+   "city": "Kerava - Kervo",
+   "avg_price_sq_m_2017": 2544,
+   "1_year_change": "5 %",
+   "5_years_change": "4 %",
+   "10_years_change": "30 %"
+ },
+ {
+   "#": 161,
+   "zip_code": 33900,
+   "neighbourhood": "Härmälä-Rantaperkiö",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 2543,
+   "1_year_change": "0 %",
+   "5_years_change": "9 %",
+   "10_years_change": "28 %"
+ },
+ {
+   "#": 162,
+   "zip_code": 4460,
+   "neighbourhood": "Nummenkylä",
+   "city": "Tuusula - Tusby",
+   "avg_price_sq_m_2017": 2534,
+   "1_year_change": "2 %",
+   "5_years_change": "6 %",
+   "10_years_change": "19 %"
+ },
+ {
+   "#": 163,
+   "zip_code": 4400,
+   "neighbourhood": "Loutti",
+   "city": "Järvenpää - Träskända",
+   "avg_price_sq_m_2017": 2524,
+   "1_year_change": "1 %",
+   "5_years_change": "6 %",
+   "10_years_change": "23 %"
+ },
+ {
+   "#": 164,
+   "zip_code": 80220,
+   "neighbourhood": "Penttilä",
+   "city": "Joensuu",
+   "avg_price_sq_m_2017": 2518,
+   "1_year_change": "1 %",
+   "5_years_change": "23 %",
+   "10_years_change": "84 %"
+ },
+ {
+   "#": 165,
+   "zip_code": 33270,
+   "neighbourhood": "Epilä",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 2517,
+   "1_year_change": "-1 %",
+   "5_years_change": "5 %",
+   "10_years_change": "17 %"
+ },
+ {
+   "#": 166,
+   "zip_code": 20900,
+   "neighbourhood": "Moikoinen-Pikisaari",
+   "city": "Turku - Åbo",
+   "avg_price_sq_m_2017": 2513,
+   "1_year_change": "-2 %",
+   "5_years_change": "7 %",
+   "10_years_change": "25 %"
+ },
+ {
+   "#": 167,
+   "zip_code": 2400,
+   "neighbourhood": "Kirkkonummi Keskus",
+   "city": "Kirkkonummi - Kyrkslätt",
+   "avg_price_sq_m_2017": 2496,
+   "1_year_change": "4 %",
+   "5_years_change": "12 %",
+   "10_years_change": "19 %"
+ },
+ {
+   "#": 168,
+   "zip_code": 15110,
+   "neighbourhood": "Keski-Lahti",
+   "city": "Lahti",
+   "avg_price_sq_m_2017": 2493,
+   "1_year_change": "0 %",
+   "5_years_change": "4 %",
+   "10_years_change": "23 %"
+ },
+ {
+   "#": 169,
+   "zip_code": 4250,
+   "neighbourhood": "Alikerava",
+   "city": "Kerava - Kervo",
+   "avg_price_sq_m_2017": 2490,
+   "1_year_change": "-2 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "16 %"
+ },
+ {
+   "#": 170,
+   "zip_code": 1660,
+   "neighbourhood": "Varisto",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 2477,
+   "1_year_change": "-3 %",
+   "5_years_change": "-12 %",
+   "10_years_change": "10 %"
+ },
+ {
+   "#": 171,
+   "zip_code": 4420,
+   "neighbourhood": "Kyrölä",
+   "city": "Järvenpää - Träskända",
+   "avg_price_sq_m_2017": 2470,
+   "1_year_change": "1 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "13 %"
+ },
+ {
+   "#": 172,
+   "zip_code": 2880,
+   "neighbourhood": "Veikkola",
+   "city": "Kirkkonummi - Kyrkslätt",
+   "avg_price_sq_m_2017": 2466,
+   "1_year_change": "-2 %",
+   "5_years_change": "2 %",
+   "10_years_change": "16 %"
+ },
+ {
+   "#": 173,
+   "zip_code": 1280,
+   "neighbourhood": "Länsimäki",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 2465,
+   "1_year_change": "0 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "15 %"
+ },
+ {
+   "#": 174,
+   "zip_code": 1600,
+   "neighbourhood": "Myyrmäki",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 2465,
+   "1_year_change": "-4 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 175,
+   "zip_code": 70600,
+   "neighbourhood": "Niirala-Huuhanmäki",
+   "city": "Kuopio",
+   "avg_price_sq_m_2017": 2464,
+   "1_year_change": "1 %",
+   "5_years_change": "11 %",
+   "10_years_change": "32 %"
+ },
+ {
+   "#": 176,
+   "zip_code": 65100,
+   "neighbourhood": "Vaasa Keskus",
+   "city": "Vaasa - Vasa",
+   "avg_price_sq_m_2017": 2433,
+   "1_year_change": "2 %",
+   "5_years_change": "11 %",
+   "10_years_change": "45 %"
+ },
+ {
+   "#": 177,
+   "zip_code": 2430,
+   "neighbourhood": "Masala",
+   "city": "Kirkkonummi - Kyrkslätt",
+   "avg_price_sq_m_2017": 2427,
+   "1_year_change": "5 %",
+   "5_years_change": "1 %",
+   "10_years_change": "8 %"
+ },
+ {
+   "#": 178,
+   "zip_code": 37560,
+   "neighbourhood": "Kulju",
+   "city": "Lempäälä",
+   "avg_price_sq_m_2017": 2416,
+   "1_year_change": "4 %",
+   "5_years_change": "17 %",
+   "10_years_change": "40 %"
+ },
+ {
+   "#": 179,
+   "zip_code": 90120,
+   "neighbourhood": "Heinäpää",
+   "city": "Oulu - Uleåborg",
+   "avg_price_sq_m_2017": 2415,
+   "1_year_change": "10 %",
+   "5_years_change": "19 %",
+   "10_years_change": "43 %"
+ },
+ {
+   "#": 180,
+   "zip_code": 1620,
+   "neighbourhood": "Martinlaakso",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 2411,
+   "1_year_change": "4 %",
+   "5_years_change": "6 %",
+   "10_years_change": "23 %"
+ },
+ {
+   "#": 181,
+   "zip_code": 4440,
+   "neighbourhood": "Jamppa",
+   "city": "Järvenpää - Träskända",
+   "avg_price_sq_m_2017": 2401,
+   "1_year_change": "36 %",
+   "5_years_change": "28 %",
+   "10_years_change": "41 %"
+ },
+ {
+   "#": 182,
+   "zip_code": 20300,
+   "neighbourhood": "Pohjola-Kastu",
+   "city": "Turku - Åbo",
+   "avg_price_sq_m_2017": 2390,
+   "1_year_change": "9 %",
+   "5_years_change": "21 %",
+   "10_years_change": "48 %"
+ },
+ {
+   "#": 183,
+   "zip_code": 4300,
+   "neighbourhood": "Hyrylä",
+   "city": "Tuusula - Tusby",
+   "avg_price_sq_m_2017": 2376,
+   "1_year_change": "-6 %",
+   "5_years_change": "-8 %",
+   "10_years_change": "12 %"
+ },
+ {
+   "#": 184,
+   "zip_code": 33580,
+   "neighbourhood": "Atala-Linnainmaa",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 2370,
+   "1_year_change": "3 %",
+   "5_years_change": "2 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 185,
+   "zip_code": 40720,
+   "neighbourhood": "Nisula",
+   "city": "Jyväskylä",
+   "avg_price_sq_m_2017": 2370,
+   "1_year_change": "-2 %",
+   "5_years_change": "10 %",
+   "10_years_change": "27 %"
+ },
+ {
+   "#": 186,
+   "zip_code": 90140,
+   "neighbourhood": "Karjasilta",
+   "city": "Oulu - Uleåborg",
+   "avg_price_sq_m_2017": 2368,
+   "1_year_change": "2 %",
+   "5_years_change": "26 %",
+   "10_years_change": "60 %"
+ },
+ {
+   "#": 187,
+   "zip_code": 53900,
+   "neighbourhood": "Pallo-Tysterniemi-Leiri",
+   "city": "Lappeenranta - Villmanstrand",
+   "avg_price_sq_m_2017": 2365,
+   "1_year_change": "3 %",
+   "5_years_change": "5 %",
+   "10_years_change": "22 %"
+ },
+ {
+   "#": 188,
+   "zip_code": 13200,
+   "neighbourhood": "Keinusaari",
+   "city": "Hämeenlinna - Tavastehus",
+   "avg_price_sq_m_2017": 2358,
+   "1_year_change": "-2 %",
+   "5_years_change": "5 %",
+   "10_years_change": "30 %"
+ },
+ {
+   "#": 189,
+   "zip_code": 1800,
+   "neighbourhood": "Klaukkala Keskus",
+   "city": "Nurmijärvi",
+   "avg_price_sq_m_2017": 2356,
+   "1_year_change": "-1 %",
+   "5_years_change": "2 %",
+   "10_years_change": "13 %"
+ },
+ {
+   "#": 190,
+   "zip_code": 21280,
+   "neighbourhood": "Kuloinen",
+   "city": "Raisio - Reso",
+   "avg_price_sq_m_2017": 2354,
+   "1_year_change": "7 %",
+   "5_years_change": "9 %",
+   "10_years_change": "20 %"
+ },
+ {
+   "#": 191,
+   "zip_code": 40500,
+   "neighbourhood": "Keljo-Ristonmaa",
+   "city": "Jyväskylä",
+   "avg_price_sq_m_2017": 2349,
+   "1_year_change": "3 %",
+   "5_years_change": "13 %",
+   "10_years_change": "25 %"
+ },
+ {
+   "#": 192,
+   "zip_code": 53600,
+   "neighbourhood": "Kesämäki",
+   "city": "Lappeenranta - Villmanstrand",
+   "avg_price_sq_m_2017": 2347,
+   "1_year_change": "11 %",
+   "5_years_change": "7 %",
+   "10_years_change": "39 %"
+ },
+ {
+   "#": 193,
+   "zip_code": 53100,
+   "neighbourhood": "Lappeenranta keskus",
+   "city": "Lappeenranta - Villmanstrand",
+   "avg_price_sq_m_2017": 2338,
+   "1_year_change": "0 %",
+   "5_years_change": "4 %",
+   "10_years_change": "20 %"
+ },
+ {
+   "#": 194,
+   "zip_code": 90520,
+   "neighbourhood": "Taskila-Toppila",
+   "city": "Oulu - Uleåborg",
+   "avg_price_sq_m_2017": 2336,
+   "1_year_change": "11 %",
+   "5_years_change": "94 %",
+   "10_years_change": "53 %"
+ },
+ {
+   "#": 195,
+   "zip_code": 33560,
+   "neighbourhood": "Takahuhti",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 2329,
+   "1_year_change": "2 %",
+   "5_years_change": "4 %",
+   "10_years_change": "27 %"
+ },
+ {
+   "#": 196,
+   "zip_code": 33800,
+   "neighbourhood": "Nekala",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 2322,
+   "1_year_change": "7 %",
+   "5_years_change": "24 %",
+   "10_years_change": "50 %"
+ },
+ {
+   "#": 197,
+   "zip_code": 33400,
+   "neighbourhood": "Luoteis-Tampere",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 2320,
+   "1_year_change": "-1 %",
+   "5_years_change": "12 %",
+   "10_years_change": "20 %"
+ },
+ {
+   "#": 198,
+   "zip_code": 13100,
+   "neighbourhood": "Hämeenlinna Keskus",
+   "city": "Hämeenlinna - Tavastehus",
+   "avg_price_sq_m_2017": 2317,
+   "1_year_change": "6 %",
+   "5_years_change": "6 %",
+   "10_years_change": "25 %"
+ },
+ {
+   "#": 199,
+   "zip_code": 80100,
+   "neighbourhood": "Joensuu Keskus, Pohjoinen",
+   "city": "Joensuu",
+   "avg_price_sq_m_2017": 2314,
+   "1_year_change": "4 %",
+   "5_years_change": "0 %",
+   "10_years_change": "35 %"
+ },
+ {
+   "#": 200,
+   "zip_code": 33960,
+   "neighbourhood": "Suuppa",
+   "city": "Pirkkala - Birkala",
+   "avg_price_sq_m_2017": 2305,
+   "1_year_change": "0 %",
+   "5_years_change": "5 %",
+   "10_years_change": "24 %"
+ },
+ {
+   "#": 201,
+   "zip_code": 70900,
+   "neighbourhood": "Toivala",
+   "city": "Siilinjärvi",
+   "avg_price_sq_m_2017": 2284,
+   "1_year_change": "22 %",
+   "5_years_change": "14 %",
+   "10_years_change": "32 %"
+ },
+ {
+   "#": 202,
+   "zip_code": 15100,
+   "neighbourhood": "Lahti Asemanseutu",
+   "city": "Lahti",
+   "avg_price_sq_m_2017": 2275,
+   "1_year_change": "2 %",
+   "5_years_change": "8 %",
+   "10_years_change": "27 %"
+ },
+ {
+   "#": 203,
+   "zip_code": 33820,
+   "neighbourhood": "Koivistonkylä",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 2275,
+   "1_year_change": "1 %",
+   "5_years_change": "7 %",
+   "10_years_change": "19 %"
+ },
+ {
+   "#": 204,
+   "zip_code": 1730,
+   "neighbourhood": "Vantaanpuisto",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 2267,
+   "1_year_change": "-11 %",
+   "5_years_change": "22 %",
+   "10_years_change": "31 %"
+ },
+ {
+   "#": 205,
+   "zip_code": 90230,
+   "neighbourhood": "Värttö-Maikkula",
+   "city": "Oulu - Uleåborg",
+   "avg_price_sq_m_2017": 2266,
+   "1_year_change": "0 %",
+   "5_years_change": "10 %",
+   "10_years_change": "16 %"
+ },
+ {
+   "#": 206,
+   "zip_code": 33950,
+   "neighbourhood": "Killo",
+   "city": "Pirkkala - Birkala",
+   "avg_price_sq_m_2017": 2264,
+   "1_year_change": "0 %",
+   "5_years_change": "9 %",
+   "10_years_change": "38 %"
+ },
+ {
+   "#": 207,
+   "zip_code": 6400,
+   "neighbourhood": "Gammelbacka",
+   "city": "Porvoo - Borgå",
+   "avg_price_sq_m_2017": 2262,
+   "1_year_change": "14 %",
+   "5_years_change": "6 %",
+   "10_years_change": "23 %"
+ },
+ {
+   "#": 208,
+   "zip_code": 40520,
+   "neighbourhood": "Kuokkala-Ristikivi",
+   "city": "Jyväskylä",
+   "avg_price_sq_m_2017": 2254,
+   "1_year_change": "3 %",
+   "5_years_change": "4 %",
+   "10_years_change": "23 %"
+ },
+ {
+   "#": 209,
+   "zip_code": 33520,
+   "neighbourhood": "Keskussairaala-alue-Kauppi",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 2248,
+   "1_year_change": "3 %",
+   "5_years_change": "10 %",
+   "10_years_change": "28 %"
+ },
+ {
+   "#": 210,
+   "zip_code": 770,
+   "neighbourhood": "Jakomäki - Alppikylä",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 2246,
+   "1_year_change": "8 %",
+   "5_years_change": "7 %",
+   "10_years_change": "31 %"
+ },
+ {
+   "#": 211,
+   "zip_code": 33450,
+   "neighbourhood": "Siivikkala",
+   "city": "Ylöjärvi",
+   "avg_price_sq_m_2017": 2246,
+   "1_year_change": "12 %",
+   "5_years_change": "13 %",
+   "10_years_change": "25 %"
+ },
+ {
+   "#": 212,
+   "zip_code": 940,
+   "neighbourhood": "Kontula - Vesala",
+   "city": "Helsinki",
+   "avg_price_sq_m_2017": 2245,
+   "1_year_change": "0 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "8 %"
+ },
+ {
+   "#": 213,
+   "zip_code": 8150,
+   "neighbourhood": "Keskilohja",
+   "city": "Lohja - Lojo",
+   "avg_price_sq_m_2017": 2238,
+   "1_year_change": "5 %",
+   "5_years_change": "7 %",
+   "10_years_change": "21 %"
+ },
+ {
+   "#": 214,
+   "zip_code": 33610,
+   "neighbourhood": "Olkahinen-Tasanne",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 2233,
+   "1_year_change": "4 %",
+   "5_years_change": "2 %",
+   "10_years_change": "9 %"
+ },
+ {
+   "#": 215,
+   "zip_code": 1650,
+   "neighbourhood": "Vapaala",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 2229,
+   "1_year_change": "0 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "16 %"
+ },
+ {
+   "#": 216,
+   "zip_code": 20200,
+   "neighbourhood": "Iso-Heikkilä",
+   "city": "Turku - Åbo",
+   "avg_price_sq_m_2017": 2225,
+   "1_year_change": "3 %",
+   "5_years_change": "14 %",
+   "10_years_change": "42 %"
+ },
+ {
+   "#": 217,
+   "zip_code": 2420,
+   "neighbourhood": "Jorvas",
+   "city": "Kirkkonummi - Kyrkslätt",
+   "avg_price_sq_m_2017": 2224,
+   "1_year_change": "6 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "9 %"
+ },
+ {
+   "#": 218,
+   "zip_code": 8100,
+   "neighbourhood": "Lohja Keskus",
+   "city": "Lohja - Lojo",
+   "avg_price_sq_m_2017": 2208,
+   "1_year_change": "-4 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "19 %"
+ },
+ {
+   "#": 219,
+   "zip_code": 40600,
+   "neighbourhood": "Mattilanpelto",
+   "city": "Jyväskylä",
+   "avg_price_sq_m_2017": 2206,
+   "1_year_change": "9 %",
+   "5_years_change": "10 %",
+   "10_years_change": "23 %"
+ },
+ {
+   "#": 220,
+   "zip_code": 4130,
+   "neighbourhood": "Sipoo",
+   "city": "Sipoo - Sibbo",
+   "avg_price_sq_m_2017": 2205,
+   "1_year_change": "-6 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "7 %"
+ },
+ {
+   "#": 221,
+   "zip_code": 1820,
+   "neighbourhood": "Haikala",
+   "city": "Nurmijärvi",
+   "avg_price_sq_m_2017": 2204,
+   "1_year_change": "-1 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "6 %"
+ },
+ {
+   "#": 222,
+   "zip_code": 20660,
+   "neighbourhood": "Littoinen",
+   "city": "Kaarina - S:t Karins",
+   "avg_price_sq_m_2017": 2197,
+   "1_year_change": "0 %",
+   "5_years_change": "-3 %",
+   "10_years_change": "21 %"
+ },
+ {
+   "#": 223,
+   "zip_code": 33300,
+   "neighbourhood": "Rahola",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 2195,
+   "1_year_change": "-3 %",
+   "5_years_change": "12 %",
+   "10_years_change": "32 %"
+ },
+ {
+   "#": 224,
+   "zip_code": 67700,
+   "neighbourhood": "Kirkonmäki-Isokylä",
+   "city": "Kokkola - Karleby",
+   "avg_price_sq_m_2017": 2192,
+   "1_year_change": "23 %",
+   "5_years_change": "51 %",
+   "10_years_change": "73 %"
+ },
+ {
+   "#": 225,
+   "zip_code": 39160,
+   "neighbourhood": "Julkujärvi",
+   "city": "Ylöjärvi",
+   "avg_price_sq_m_2017": 2189,
+   "1_year_change": "11 %",
+   "5_years_change": "11 %",
+   "10_years_change": "31 %"
+ },
+ {
+   "#": 226,
+   "zip_code": 1480,
+   "neighbourhood": "Mikkola",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 2185,
+   "1_year_change": "3 %",
+   "5_years_change": "11 %",
+   "10_years_change": "22 %"
+ },
+ {
+   "#": 227,
+   "zip_code": 80200,
+   "neighbourhood": "Niinivaara",
+   "city": "Joensuu",
+   "avg_price_sq_m_2017": 2183,
+   "1_year_change": "0 %",
+   "5_years_change": "-1 %",
+   "10_years_change": "18 %"
+ },
+ {
+   "#": 228,
+   "zip_code": 65300,
+   "neighbourhood": "Asevelikylä",
+   "city": "Vaasa - Vasa",
+   "avg_price_sq_m_2017": 2175,
+   "1_year_change": "0 %",
+   "5_years_change": "14 %",
+   "10_years_change": "62 %"
+ },
+ {
+   "#": 229,
+   "zip_code": 4320,
+   "neighbourhood": "Riihikallio",
+   "city": "Tuusula - Tusby",
+   "avg_price_sq_m_2017": 2173,
+   "1_year_change": "1 %",
+   "5_years_change": "1 %",
+   "10_years_change": "18 %"
+ },
+ {
+   "#": 230,
+   "zip_code": 1900,
+   "neighbourhood": "Nurmijärvi Keskus",
+   "city": "Nurmijärvi",
+   "avg_price_sq_m_2017": 2165,
+   "1_year_change": "9 %",
+   "5_years_change": "6 %",
+   "10_years_change": "18 %"
+ },
+ {
+   "#": 231,
+   "zip_code": 4230,
+   "neighbourhood": "Pihkaniitty",
+   "city": "Kerava - Kervo",
+   "avg_price_sq_m_2017": 2162,
+   "1_year_change": "2 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "10 %"
+ },
+ {
+   "#": 232,
+   "zip_code": 65630,
+   "neighbourhood": "Karperö",
+   "city": "Mustasaari - Korsholm",
+   "avg_price_sq_m_2017": 2148,
+   "1_year_change": "23 %",
+   "5_years_change": "25 %",
+   "10_years_change": "54 %"
+ },
+ {
+   "#": 233,
+   "zip_code": 1360,
+   "neighbourhood": "Koivukylä-Havukoski",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 2143,
+   "1_year_change": "1 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "22 %"
+ },
+ {
+   "#": 234,
+   "zip_code": 37140,
+   "neighbourhood": "Harjuniitty",
+   "city": "Nokia",
+   "avg_price_sq_m_2017": 2134,
+   "1_year_change": "3 %",
+   "5_years_change": "10 %",
+   "10_years_change": "29 %"
+ },
+ {
+   "#": 235,
+   "zip_code": 15610,
+   "neighbourhood": "Laune-Nikkilä",
+   "city": "Lahti",
+   "avg_price_sq_m_2017": 2133,
+   "1_year_change": "11 %",
+   "5_years_change": "11 %",
+   "10_years_change": "22 %"
+ },
+ {
+   "#": 236,
+   "zip_code": 70620,
+   "neighbourhood": "Haapaniemi",
+   "city": "Kuopio",
+   "avg_price_sq_m_2017": 2132,
+   "1_year_change": "14 %",
+   "5_years_change": "17 %",
+   "10_years_change": "26 %"
+ },
+ {
+   "#": 237,
+   "zip_code": 20720,
+   "neighbourhood": "Vasaramäki",
+   "city": "Turku - Åbo",
+   "avg_price_sq_m_2017": 2127,
+   "1_year_change": "1 %",
+   "5_years_change": "15 %",
+   "10_years_change": "28 %"
+ },
+ {
+   "#": 238,
+   "zip_code": 20380,
+   "neighbourhood": "Räntämäki-Saramäki",
+   "city": "Turku - Åbo",
+   "avg_price_sq_m_2017": 2125,
+   "1_year_change": "-1 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 239,
+   "zip_code": 1200,
+   "neighbourhood": "Hakunila",
+   "city": "Vantaa - Vanda",
+   "avg_price_sq_m_2017": 2124,
+   "1_year_change": "-5 %",
+   "5_years_change": "0 %",
+   "10_years_change": "13 %"
+ },
+ {
+   "#": 240,
+   "zip_code": 33710,
+   "neighbourhood": "Kaukajärvi",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 2111,
+   "1_year_change": "5 %",
+   "5_years_change": "7 %",
+   "10_years_change": "22 %"
+ },
+ {
+   "#": 241,
+   "zip_code": 2460,
+   "neighbourhood": "Kantvik",
+   "city": "Kirkkonummi - Kyrkslätt",
+   "avg_price_sq_m_2017": 2109,
+   "1_year_change": "2 %",
+   "5_years_change": "22 %",
+   "10_years_change": "48 %"
+ },
+ {
+   "#": 242,
+   "zip_code": 80110,
+   "neighbourhood": "Joensuu Keskus Eteläinen",
+   "city": "Joensuu",
+   "avg_price_sq_m_2017": 2109,
+   "1_year_change": "-7 %",
+   "5_years_change": "-10 %",
+   "10_years_change": "9 %"
+ },
+ {
+   "#": 243,
+   "zip_code": 5830,
+   "neighbourhood": "Kirjavatolppa-Kruununpuisto",
+   "city": "Hyvinkää - Hyvinge",
+   "avg_price_sq_m_2017": 2108,
+   "1_year_change": "3 %",
+   "5_years_change": "-1 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 244,
+   "zip_code": 21100,
+   "neighbourhood": "Naantali Keskus",
+   "city": "Naantali - Nådendal",
+   "avg_price_sq_m_2017": 2108,
+   "1_year_change": "5 %",
+   "5_years_change": "7 %",
+   "10_years_change": "20 %"
+ },
+ {
+   "#": 245,
+   "zip_code": 5800,
+   "neighbourhood": "Hyvinkää Keskus",
+   "city": "Hyvinkää - Hyvinge",
+   "avg_price_sq_m_2017": 2104,
+   "1_year_change": "4 %",
+   "5_years_change": "2 %",
+   "10_years_change": "18 %"
+ },
+ {
+   "#": 246,
+   "zip_code": 6150,
+   "neighbourhood": "Kevätkumpu",
+   "city": "Porvoo - Borgå",
+   "avg_price_sq_m_2017": 2093,
+   "1_year_change": "0 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "11 %"
+ },
+ {
+   "#": 247,
+   "zip_code": 96100,
+   "neighbourhood": "Rovaniemi Keskus",
+   "city": "Rovaniemi",
+   "avg_price_sq_m_2017": 2082,
+   "1_year_change": "5 %",
+   "5_years_change": "12 %",
+   "10_years_change": "49 %"
+ },
+ {
+   "#": 248,
+   "zip_code": 4260,
+   "neighbourhood": "Savio",
+   "city": "Kerava - Kervo",
+   "avg_price_sq_m_2017": 2073,
+   "1_year_change": "-1 %",
+   "5_years_change": "0 %",
+   "10_years_change": "16 %"
+ },
+ {
+   "#": 249,
+   "zip_code": 50100,
+   "neighbourhood": "Mikkeli Keskus",
+   "city": "Mikkeli - S:t Michel",
+   "avg_price_sq_m_2017": 2068,
+   "1_year_change": "-1 %",
+   "5_years_change": "5 %",
+   "10_years_change": "22 %"
+ },
+ {
+   "#": 250,
+   "zip_code": 10600,
+   "neighbourhood": "Tammisaari Keskus",
+   "city": "Raasepori - Raseborg",
+   "avg_price_sq_m_2017": 2067,
+   "1_year_change": "-1 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "10 %"
+ },
+ {
+   "#": 251,
+   "zip_code": 70820,
+   "neighbourhood": "Litmanen",
+   "city": "Kuopio",
+   "avg_price_sq_m_2017": 2067,
+   "1_year_change": "1 %",
+   "5_years_change": "3 %",
+   "10_years_change": "22 %"
+ },
+ {
+   "#": 252,
+   "zip_code": 33730,
+   "neighbourhood": "Leinola-Vehmainen",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 2066,
+   "1_year_change": "-1 %",
+   "5_years_change": "-1 %",
+   "10_years_change": "8 %"
+ },
+ {
+   "#": 253,
+   "zip_code": 67100,
+   "neighbourhood": "Kokkola Keskus",
+   "city": "Kokkola - Karleby",
+   "avg_price_sq_m_2017": 2062,
+   "1_year_change": "1 %",
+   "5_years_change": "11 %",
+   "10_years_change": "53 %"
+ },
+ {
+   "#": 254,
+   "zip_code": 99130,
+   "neighbourhood": "Sirkka-Rauhala",
+   "city": "Kittilä",
+   "avg_price_sq_m_2017": 2059,
+   "1_year_change": "-1 %",
+   "5_years_change": "1 %",
+   "10_years_change": "4 %"
+ },
+ {
+   "#": 255,
+   "zip_code": 5400,
+   "neighbourhood": "Jokela",
+   "city": "Tuusula - Tusby",
+   "avg_price_sq_m_2017": 2056,
+   "1_year_change": "9 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "18 %"
+ },
+ {
+   "#": 256,
+   "zip_code": 37550,
+   "neighbourhood": "Kuivaspää",
+   "city": "Lempäälä",
+   "avg_price_sq_m_2017": 2056,
+   "1_year_change": "3 %",
+   "5_years_change": "10 %",
+   "10_years_change": "24 %"
+ },
+ {
+   "#": 257,
+   "zip_code": 50190,
+   "neighbourhood": "Tuppurala",
+   "city": "Mikkeli - S:t Michel",
+   "avg_price_sq_m_2017": 2053,
+   "1_year_change": "-1 %",
+   "5_years_change": "13 %",
+   "10_years_change": "19 %"
+ },
+ {
+   "#": 258,
+   "zip_code": 90530,
+   "neighbourhood": "Välivainio",
+   "city": "Oulu - Uleåborg",
+   "avg_price_sq_m_2017": 2034,
+   "1_year_change": "2 %",
+   "5_years_change": "21 %",
+   "10_years_change": "59 %"
+ },
+ {
+   "#": 259,
+   "zip_code": 60200,
+   "neighbourhood": "Törnävä",
+   "city": "Seinäjoki",
+   "avg_price_sq_m_2017": 2032,
+   "1_year_change": "3 %",
+   "5_years_change": "6 %",
+   "10_years_change": "37 %"
+ },
+ {
+   "#": 260,
+   "zip_code": 40530,
+   "neighbourhood": "Keljonkangas",
+   "city": "Jyväskylä",
+   "avg_price_sq_m_2017": 2024,
+   "1_year_change": "3 %",
+   "5_years_change": "2 %",
+   "10_years_change": "17 %"
+ },
+ {
+   "#": 261,
+   "zip_code": 40270,
+   "neighbourhood": "Pappilanrinne-Pappilanvuori",
+   "city": "Jyväskylä",
+   "avg_price_sq_m_2017": 2020,
+   "1_year_change": "4 %",
+   "5_years_change": "12 %",
+   "10_years_change": "25 %"
+ },
+ {
+   "#": 262,
+   "zip_code": 80710,
+   "neighbourhood": "Lehmo",
+   "city": "Kontiolahti",
+   "avg_price_sq_m_2017": 2020,
+   "1_year_change": "-1 %",
+   "5_years_change": "6 %",
+   "10_years_change": "21 %"
+ },
+ {
+   "#": 263,
+   "zip_code": 3100,
+   "neighbourhood": "Nummela",
+   "city": "Vihti - Vichtis",
+   "avg_price_sq_m_2017": 2017,
+   "1_year_change": "-4 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "10 %"
+ },
+ {
+   "#": 264,
+   "zip_code": 60510,
+   "neighbourhood": "Hyllykallio",
+   "city": "Seinäjoki",
+   "avg_price_sq_m_2017": 2006,
+   "1_year_change": "1 %",
+   "5_years_change": "6 %",
+   "10_years_change": "37 %"
+ },
+ {
+   "#": 265,
+   "zip_code": 36110,
+   "neighbourhood": "Ruutana",
+   "city": "Kangasala",
+   "avg_price_sq_m_2017": 1988,
+   "1_year_change": "5 %",
+   "5_years_change": "2 %",
+   "10_years_change": "12 %"
+ },
+ {
+   "#": 266,
+   "zip_code": 21290,
+   "neighbourhood": "Rusko",
+   "city": "Rusko",
+   "avg_price_sq_m_2017": 1986,
+   "1_year_change": "-3 %",
+   "5_years_change": "9 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 267,
+   "zip_code": 60320,
+   "neighbourhood": "Alakylä-Jouppi",
+   "city": "Seinäjoki",
+   "avg_price_sq_m_2017": 1986,
+   "1_year_change": "6 %",
+   "5_years_change": "10 %",
+   "10_years_change": "45 %"
+ },
+ {
+   "#": 268,
+   "zip_code": 33340,
+   "neighbourhood": "Haukiluoma-Ikuri",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 1983,
+   "1_year_change": "1 %",
+   "5_years_change": "2 %",
+   "10_years_change": "6 %"
+ },
+ {
+   "#": 269,
+   "zip_code": 2580,
+   "neighbourhood": "Siuntio Asemanseutu",
+   "city": "Siuntio - Sjundeå",
+   "avg_price_sq_m_2017": 1982,
+   "1_year_change": "6 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "5 %"
+ },
+ {
+   "#": 270,
+   "zip_code": 33430,
+   "neighbourhood": "Vuorentausta",
+   "city": "Ylöjärvi",
+   "avg_price_sq_m_2017": 1976,
+   "1_year_change": "2 %",
+   "5_years_change": "3 %",
+   "10_years_change": "13 %"
+ },
+ {
+   "#": 271,
+   "zip_code": 36240,
+   "neighbourhood": "Nattari",
+   "city": "Kangasala",
+   "avg_price_sq_m_2017": 1976,
+   "1_year_change": "5 %",
+   "5_years_change": "6 %",
+   "10_years_change": "24 %"
+ },
+ {
+   "#": 272,
+   "zip_code": 13130,
+   "neighbourhood": "Kauriala",
+   "city": "Hämeenlinna - Tavastehus",
+   "avg_price_sq_m_2017": 1967,
+   "1_year_change": "-2 %",
+   "5_years_change": "0 %",
+   "10_years_change": "16 %"
+ },
+ {
+   "#": 273,
+   "zip_code": 5820,
+   "neighbourhood": "Mustamännistö",
+   "city": "Hyvinkää - Hyvinge",
+   "avg_price_sq_m_2017": 1962,
+   "1_year_change": "5 %",
+   "5_years_change": "19 %",
+   "10_years_change": "52 %"
+ },
+ {
+   "#": 274,
+   "zip_code": 8680,
+   "neighbourhood": "Muijala",
+   "city": "Lohja - Lojo",
+   "avg_price_sq_m_2017": 1952,
+   "1_year_change": "-1 %",
+   "5_years_change": "-10 %",
+   "10_years_change": "-6 %"
+ },
+ {
+   "#": 275,
+   "zip_code": 90420,
+   "neighbourhood": "Metsokangas",
+   "city": "Oulu - Uleåborg",
+   "avg_price_sq_m_2017": 1950,
+   "1_year_change": "-1 %",
+   "5_years_change": "8 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 276,
+   "zip_code": 50130,
+   "neighbourhood": "Nuijamies",
+   "city": "Mikkeli - S:t Michel",
+   "avg_price_sq_m_2017": 1949,
+   "1_year_change": "1 %",
+   "5_years_change": "5 %",
+   "10_years_change": "29 %"
+ },
+ {
+   "#": 277,
+   "zip_code": 95980,
+   "neighbourhood": "Ylläsjärvi",
+   "city": "Kolari",
+   "avg_price_sq_m_2017": 1948,
+   "1_year_change": "31 %",
+   "5_years_change": "-10 %",
+   "10_years_change": "1 %"
+ },
+ {
+   "#": 278,
+   "zip_code": 28100,
+   "neighbourhood": "Pori Keskus",
+   "city": "Pori - Björneborg",
+   "avg_price_sq_m_2017": 1943,
+   "1_year_change": "-2 %",
+   "5_years_change": "3 %",
+   "10_years_change": "24 %"
+ },
+ {
+   "#": 279,
+   "zip_code": 33480,
+   "neighbourhood": "Manninmäki-Haavisto",
+   "city": "Ylöjärvi",
+   "avg_price_sq_m_2017": 1939,
+   "1_year_change": "-3 %",
+   "5_years_change": "3 %",
+   "10_years_change": "11 %"
+ },
+ {
+   "#": 280,
+   "zip_code": 53500,
+   "neighbourhood": "Parkkarila-Harapainen-Reijola",
+   "city": "Lappeenranta - Villmanstrand",
+   "avg_price_sq_m_2017": 1933,
+   "1_year_change": "2 %",
+   "5_years_change": "0 %",
+   "10_years_change": "32 %"
+ },
+ {
+   "#": 281,
+   "zip_code": 80230,
+   "neighbourhood": "Hukanhauta",
+   "city": "Joensuu",
+   "avg_price_sq_m_2017": 1926,
+   "1_year_change": "5 %",
+   "5_years_change": "10 %",
+   "10_years_change": "29 %"
+ },
+ {
+   "#": 282,
+   "zip_code": 96300,
+   "neighbourhood": "Niemelänkangas-Korvanniemi",
+   "city": "Rovaniemi",
+   "avg_price_sq_m_2017": 1922,
+   "1_year_change": "10 %",
+   "5_years_change": "11 %",
+   "10_years_change": "36 %"
+ },
+ {
+   "#": 283,
+   "zip_code": 60100,
+   "neighbourhood": "Seinäjoki Keskus",
+   "city": "Seinäjoki",
+   "avg_price_sq_m_2017": 1921,
+   "1_year_change": "-3 %",
+   "5_years_change": "2 %",
+   "10_years_change": "40 %"
+ },
+ {
+   "#": 284,
+   "zip_code": 80330,
+   "neighbourhood": "Reijola",
+   "city": "Joensuu",
+   "avg_price_sq_m_2017": 1919,
+   "1_year_change": "0 %",
+   "5_years_change": "8 %",
+   "10_years_change": "38 %"
+ },
+ {
+   "#": 285,
+   "zip_code": 4600,
+   "neighbourhood": "Mäntsälä Keskus",
+   "city": "Mäntsälä",
+   "avg_price_sq_m_2017": 1913,
+   "1_year_change": "2 %",
+   "5_years_change": "-8 %",
+   "10_years_change": "10 %"
+ },
+ {
+   "#": 286,
+   "zip_code": 4500,
+   "neighbourhood": "Kellokoski",
+   "city": "Tuusula - Tusby",
+   "avg_price_sq_m_2017": 1909,
+   "1_year_change": "-14 %",
+   "5_years_change": "-8 %",
+   "10_years_change": "12 %"
+ },
+ {
+   "#": 287,
+   "zip_code": 96200,
+   "neighbourhood": "Sahanperä-Ratantaus",
+   "city": "Rovaniemi",
+   "avg_price_sq_m_2017": 1908,
+   "1_year_change": "4 %",
+   "5_years_change": "8 %",
+   "10_years_change": "21 %"
+ },
+ {
+   "#": 288,
+   "zip_code": 20780,
+   "neighbourhood": "Kaarina Keskus",
+   "city": "Kaarina - S:t Karins",
+   "avg_price_sq_m_2017": 1903,
+   "1_year_change": "2 %",
+   "5_years_change": "14 %",
+   "10_years_change": "16 %"
+ },
+ {
+   "#": 289,
+   "zip_code": 65200,
+   "neighbourhood": "Palosaari",
+   "city": "Vaasa - Vasa",
+   "avg_price_sq_m_2017": 1903,
+   "1_year_change": "0 %",
+   "5_years_change": "5 %",
+   "10_years_change": "27 %"
+ },
+ {
+   "#": 290,
+   "zip_code": 70800,
+   "neighbourhood": "Pitkälahti",
+   "city": "Kuopio",
+   "avg_price_sq_m_2017": 1902,
+   "1_year_change": "1 %",
+   "5_years_change": "-5 %",
+   "10_years_change": "3 %"
+ },
+ {
+   "#": 291,
+   "zip_code": 5900,
+   "neighbourhood": "Vieremä",
+   "city": "Hyvinkää - Hyvinge",
+   "avg_price_sq_m_2017": 1901,
+   "1_year_change": "5 %",
+   "5_years_change": "4 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 292,
+   "zip_code": 4340,
+   "neighbourhood": "Mattila",
+   "city": "Tuusula - Tusby",
+   "avg_price_sq_m_2017": 1900,
+   "1_year_change": "-4 %",
+   "5_years_change": "-1 %",
+   "10_years_change": "16 %"
+ },
+ {
+   "#": 293,
+   "zip_code": 5200,
+   "neighbourhood": "Rajamäki",
+   "city": "Nurmijärvi",
+   "avg_price_sq_m_2017": 1897,
+   "1_year_change": "-3 %",
+   "5_years_change": "-3 %",
+   "10_years_change": "7 %"
+ },
+ {
+   "#": 294,
+   "zip_code": 96900,
+   "neighbourhood": "Saarenkylä",
+   "city": "Rovaniemi",
+   "avg_price_sq_m_2017": 1897,
+   "1_year_change": "6 %",
+   "5_years_change": "6 %",
+   "10_years_change": "10 %"
+ },
+ {
+   "#": 295,
+   "zip_code": 37500,
+   "neighbourhood": "Lempäälä Keskus",
+   "city": "Lempäälä",
+   "avg_price_sq_m_2017": 1896,
+   "1_year_change": "-4 %",
+   "5_years_change": "-1 %",
+   "10_years_change": "12 %"
+ },
+ {
+   "#": 296,
+   "zip_code": 21160,
+   "neighbourhood": "Merimasku",
+   "city": "Naantali - Nådendal",
+   "avg_price_sq_m_2017": 1887,
+   "1_year_change": "-8 %",
+   "5_years_change": "3 %",
+   "10_years_change": "15 %"
+ },
+ {
+   "#": 297,
+   "zip_code": 36200,
+   "neighbourhood": "Kangasala Keskus",
+   "city": "Kangasala",
+   "avg_price_sq_m_2017": 1887,
+   "1_year_change": "2 %",
+   "5_years_change": "-3 %",
+   "10_years_change": "12 %"
+ },
+ {
+   "#": 298,
+   "zip_code": 67300,
+   "neighbourhood": "Halkokari",
+   "city": "Kokkola - Karleby",
+   "avg_price_sq_m_2017": 1883,
+   "1_year_change": "-1 %",
+   "5_years_change": "1 %",
+   "10_years_change": "33 %"
+ },
+ {
+   "#": 299,
+   "zip_code": 11910,
+   "neighbourhood": "Lasi-Kumela",
+   "city": "Janakkala",
+   "avg_price_sq_m_2017": 1880,
+   "1_year_change": "8 %",
+   "5_years_change": "5 %",
+   "10_years_change": "24 %"
+ },
+ {
+   "#": 300,
+   "zip_code": 40320,
+   "neighbourhood": "Seppälän Teollisuusalue",
+   "city": "Jyväskylä",
+   "avg_price_sq_m_2017": 1880,
+   "1_year_change": "8 %",
+   "5_years_change": "19 %",
+   "10_years_change": "27 %"
+ },
+ {
+   "#": 301,
+   "zip_code": 7170,
+   "neighbourhood": "Keski-Pornainen",
+   "city": "Pornainen - Borgnäs",
+   "avg_price_sq_m_2017": 1875,
+   "1_year_change": "0 %",
+   "5_years_change": "7 %",
+   "10_years_change": "7 %"
+ },
+ {
+   "#": 302,
+   "zip_code": 20540,
+   "neighbourhood": "Nummi-Ylioppilaskylä",
+   "city": "Turku - Åbo",
+   "avg_price_sq_m_2017": 1867,
+   "1_year_change": "2 %",
+   "5_years_change": "7 %",
+   "10_years_change": "22 %"
+ },
+ {
+   "#": 303,
+   "zip_code": 40250,
+   "neighbourhood": "Ritoniemi-Lohikoski",
+   "city": "Jyväskylä",
+   "avg_price_sq_m_2017": 1866,
+   "1_year_change": "3 %",
+   "5_years_change": "3 %",
+   "10_years_change": "20 %"
+ },
+ {
+   "#": 304,
+   "zip_code": 6450,
+   "neighbourhood": "Eestinmäki-Ernestas",
+   "city": "Porvoo - Borgå",
+   "avg_price_sq_m_2017": 1865,
+   "1_year_change": "-12 %",
+   "5_years_change": "-5 %",
+   "10_years_change": "-1 %"
+ },
+ {
+   "#": 305,
+   "zip_code": 21420,
+   "neighbourhood": "Lieto Keskus",
+   "city": "Lieto - Lundo",
+   "avg_price_sq_m_2017": 1856,
+   "1_year_change": "4 %",
+   "5_years_change": "9 %",
+   "10_years_change": "20 %"
+ },
+ {
+   "#": 306,
+   "zip_code": 33470,
+   "neighbourhood": "Ylöjärvi Keskus",
+   "city": "Ylöjärvi",
+   "avg_price_sq_m_2017": 1855,
+   "1_year_change": "-3 %",
+   "5_years_change": "2 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 307,
+   "zip_code": 60120,
+   "neighbourhood": "Pohja",
+   "city": "Seinäjoki",
+   "avg_price_sq_m_2017": 1855,
+   "1_year_change": "-1 %",
+   "5_years_change": "15 %",
+   "10_years_change": "44 %"
+ },
+ {
+   "#": 308,
+   "zip_code": 20880,
+   "neighbourhood": "Uittamo",
+   "city": "Turku - Åbo",
+   "avg_price_sq_m_2017": 1853,
+   "1_year_change": "4 %",
+   "5_years_change": "4 %",
+   "10_years_change": "11 %"
+ },
+ {
+   "#": 309,
+   "zip_code": 36220,
+   "neighbourhood": "Suorama",
+   "city": "Kangasala",
+   "avg_price_sq_m_2017": 1848,
+   "1_year_change": "2 %",
+   "5_years_change": "11 %",
+   "10_years_change": "30 %"
+ },
+ {
+   "#": 310,
+   "zip_code": 48310,
+   "neighbourhood": "Mussalo",
+   "city": "Kotka",
+   "avg_price_sq_m_2017": 1847,
+   "1_year_change": "-1 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "15 %"
+ },
+ {
+   "#": 311,
+   "zip_code": 80140,
+   "neighbourhood": "Noljakka",
+   "city": "Joensuu",
+   "avg_price_sq_m_2017": 1846,
+   "1_year_change": "-6 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "13 %"
+ },
+ {
+   "#": 312,
+   "zip_code": 15700,
+   "neighbourhood": "Hennala-Jokimaa",
+   "city": "Hollola",
+   "avg_price_sq_m_2017": 1844,
+   "1_year_change": "8 %",
+   "5_years_change": "11 %",
+   "10_years_change": "50 %"
+ },
+ {
+   "#": 313,
+   "zip_code": 90500,
+   "neighbourhood": "Tuira",
+   "city": "Oulu - Uleåborg",
+   "avg_price_sq_m_2017": 1840,
+   "1_year_change": "3 %",
+   "5_years_change": "13 %",
+   "10_years_change": "24 %"
+ },
+ {
+   "#": 314,
+   "zip_code": 5460,
+   "neighbourhood": "Hakalanmäki-Hakala",
+   "city": "Hyvinkää - Hyvinge",
+   "avg_price_sq_m_2017": 1832,
+   "1_year_change": "-4 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "0 %"
+ },
+ {
+   "#": 315,
+   "zip_code": 33330,
+   "neighbourhood": "Myllypuro-Kalkku",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 1832,
+   "1_year_change": "5 %",
+   "5_years_change": "7 %",
+   "10_years_change": "38 %"
+ },
+ {
+   "#": 316,
+   "zip_code": 67400,
+   "neighbourhood": "Rytimäki",
+   "city": "Kokkola - Karleby",
+   "avg_price_sq_m_2017": 1831,
+   "1_year_change": "19 %",
+   "5_years_change": "6 %",
+   "10_years_change": "41 %"
+ },
+ {
+   "#": 317,
+   "zip_code": 15150,
+   "neighbourhood": "Möysä",
+   "city": "Lahti",
+   "avg_price_sq_m_2017": 1828,
+   "1_year_change": "11 %",
+   "5_years_change": "1 %",
+   "10_years_change": "28 %"
+ },
+ {
+   "#": 318,
+   "zip_code": 90540,
+   "neighbourhood": "Kuivasjärvi",
+   "city": "Oulu - Uleåborg",
+   "avg_price_sq_m_2017": 1827,
+   "1_year_change": "4 %",
+   "5_years_change": "10 %",
+   "10_years_change": "18 %"
+ },
+ {
+   "#": 319,
+   "zip_code": 57130,
+   "neighbourhood": "Savonlinna Keskus",
+   "city": "Savonlinna - Nyslott",
+   "avg_price_sq_m_2017": 1826,
+   "1_year_change": "5 %",
+   "5_years_change": "7 %",
+   "10_years_change": "26 %"
+ },
+ {
+   "#": 320,
+   "zip_code": 21250,
+   "neighbourhood": "Masku",
+   "city": "Masku",
+   "avg_price_sq_m_2017": 1825,
+   "1_year_change": "-1 %",
+   "5_years_change": "4 %",
+   "10_years_change": "22 %"
+ },
+ {
+   "#": 321,
+   "zip_code": 41310,
+   "neighbourhood": "Leppävesi",
+   "city": "Laukaa",
+   "avg_price_sq_m_2017": 1824,
+   "1_year_change": "-2 %",
+   "5_years_change": "5 %",
+   "10_years_change": "18 %"
+ },
+ {
+   "#": 322,
+   "zip_code": 20320,
+   "neighbourhood": "Kuninkoja-Mälikkälä",
+   "city": "Turku - Åbo",
+   "avg_price_sq_m_2017": 1823,
+   "1_year_change": "2 %",
+   "5_years_change": "5 %",
+   "10_years_change": "19 %"
+ },
+ {
+   "#": 323,
+   "zip_code": 37120,
+   "neighbourhood": "Koskenmäki",
+   "city": "Nokia",
+   "avg_price_sq_m_2017": 1823,
+   "1_year_change": "-1 %",
+   "5_years_change": "3 %",
+   "10_years_change": "25 %"
+ },
+ {
+   "#": 324,
+   "zip_code": 65280,
+   "neighbourhood": "Gerby",
+   "city": "Vaasa - Vasa",
+   "avg_price_sq_m_2017": 1815,
+   "1_year_change": "0 %",
+   "5_years_change": "1 %",
+   "10_years_change": "13 %"
+ },
+ {
+   "#": 325,
+   "zip_code": 13300,
+   "neighbourhood": "Käikälä",
+   "city": "Hämeenlinna - Tavastehus",
+   "avg_price_sq_m_2017": 1810,
+   "1_year_change": "-1 %",
+   "5_years_change": "-3 %",
+   "10_years_change": "11 %"
+ },
+ {
+   "#": 326,
+   "zip_code": 8500,
+   "neighbourhood": "Ventelä-Millola",
+   "city": "Lohja - Lojo",
+   "avg_price_sq_m_2017": 1798,
+   "1_year_change": "-4 %",
+   "5_years_change": "-13 %",
+   "10_years_change": "3 %"
+ },
+ {
+   "#": 327,
+   "zip_code": 99830,
+   "neighbourhood": "Saariselkä",
+   "city": "Inari - Enare",
+   "avg_price_sq_m_2017": 1798,
+   "1_year_change": "-13 %",
+   "5_years_change": "-8 %",
+   "10_years_change": "12 %"
+ },
+ {
+   "#": 328,
+   "zip_code": 15320,
+   "neighbourhood": "Ahtiala",
+   "city": "Lahti",
+   "avg_price_sq_m_2017": 1795,
+   "1_year_change": "-5 %",
+   "5_years_change": "-3 %",
+   "10_years_change": "15 %"
+ },
+ {
+   "#": 329,
+   "zip_code": 90440,
+   "neighbourhood": "Kempele Keskus",
+   "city": "Kempele",
+   "avg_price_sq_m_2017": 1789,
+   "1_year_change": "13 %",
+   "5_years_change": "21 %",
+   "10_years_change": "30 %"
+ },
+ {
+   "#": 330,
+   "zip_code": 67200,
+   "neighbourhood": "Kiviniitty-Tullimäki",
+   "city": "Kokkola - Karleby",
+   "avg_price_sq_m_2017": 1781,
+   "1_year_change": "-3 %",
+   "5_years_change": "15 %",
+   "10_years_change": "54 %"
+ },
+ {
+   "#": 331,
+   "zip_code": 70260,
+   "neighbourhood": "Julkula",
+   "city": "Kuopio",
+   "avg_price_sq_m_2017": 1778,
+   "1_year_change": "-2 %",
+   "5_years_change": "-5 %",
+   "10_years_change": "3 %"
+ },
+ {
+   "#": 332,
+   "zip_code": 36270,
+   "neighbourhood": "Huutijärvi",
+   "city": "Kangasala",
+   "avg_price_sq_m_2017": 1767,
+   "1_year_change": "6 %",
+   "5_years_change": "5 %",
+   "10_years_change": "11 %"
+ },
+ {
+   "#": 333,
+   "zip_code": 90630,
+   "neighbourhood": "Korvensuora",
+   "city": "Oulu - Uleåborg",
+   "avg_price_sq_m_2017": 1767,
+   "1_year_change": "4 %",
+   "5_years_change": "7 %",
+   "10_years_change": "11 %"
+ },
+ {
+   "#": 334,
+   "zip_code": 40400,
+   "neighbourhood": "Halssila",
+   "city": "Jyväskylä",
+   "avg_price_sq_m_2017": 1766,
+   "1_year_change": "3 %",
+   "5_years_change": "1 %",
+   "10_years_change": "20 %"
+ },
+ {
+   "#": 335,
+   "zip_code": 7230,
+   "neighbourhood": "Monninkylä",
+   "city": "Askola",
+   "avg_price_sq_m_2017": 1757,
+   "1_year_change": "0 %",
+   "5_years_change": "-11 %",
+   "10_years_change": "1 %"
+ },
+ {
+   "#": 336,
+   "zip_code": 20760,
+   "neighbourhood": "Piispanristi",
+   "city": "Kaarina - S:t Karins",
+   "avg_price_sq_m_2017": 1750,
+   "1_year_change": "-4 %",
+   "5_years_change": "-7 %",
+   "10_years_change": "13 %"
+ },
+ {
+   "#": 337,
+   "zip_code": 33420,
+   "neighbourhood": "Lamminpää",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 1749,
+   "1_year_change": "1 %",
+   "5_years_change": "-7 %",
+   "10_years_change": "5 %"
+ },
+ {
+   "#": 338,
+   "zip_code": 21110,
+   "neighbourhood": "Taimo-Nuhjala-Lietsala",
+   "city": "Naantali - Nådendal",
+   "avg_price_sq_m_2017": 1746,
+   "1_year_change": "-4 %",
+   "5_years_change": "1 %",
+   "10_years_change": "8 %"
+ },
+ {
+   "#": 339,
+   "zip_code": 20740,
+   "neighbourhood": "Ilpoinen-Harittu",
+   "city": "Turku - Åbo",
+   "avg_price_sq_m_2017": 1744,
+   "1_year_change": "1 %",
+   "5_years_change": "3 %",
+   "10_years_change": "8 %"
+ },
+ {
+   "#": 340,
+   "zip_code": 21620,
+   "neighbourhood": "Kuusisto",
+   "city": "Kaarina - S:t Karins",
+   "avg_price_sq_m_2017": 1743,
+   "1_year_change": "-15 %",
+   "5_years_change": "-7 %",
+   "10_years_change": "-12 %"
+ },
+ {
+   "#": 341,
+   "zip_code": 3400,
+   "neighbourhood": "Vihti Kirkonkylä",
+   "city": "Vihti - Vichtis",
+   "avg_price_sq_m_2017": 1740,
+   "1_year_change": "-2 %",
+   "5_years_change": "-10 %",
+   "10_years_change": "9 %"
+ },
+ {
+   "#": 342,
+   "zip_code": 90450,
+   "neighbourhood": "Honkanen",
+   "city": "Kempele",
+   "avg_price_sq_m_2017": 1733,
+   "1_year_change": "5 %",
+   "5_years_change": "10 %",
+   "10_years_change": "10 %"
+ },
+ {
+   "#": 343,
+   "zip_code": 40950,
+   "neighbourhood": "Muurame Keskus",
+   "city": "Muurame",
+   "avg_price_sq_m_2017": 1715,
+   "1_year_change": "-2 %",
+   "5_years_change": "2 %",
+   "10_years_change": "21 %"
+ },
+ {
+   "#": 344,
+   "zip_code": 33720,
+   "neighbourhood": "Hervanta",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 1713,
+   "1_year_change": "-4 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "11 %"
+ },
+ {
+   "#": 345,
+   "zip_code": 40420,
+   "neighbourhood": "Jyskä",
+   "city": "Jyväskylä",
+   "avg_price_sq_m_2017": 1713,
+   "1_year_change": "-6 %",
+   "5_years_change": "17 %",
+   "10_years_change": "16 %"
+ },
+ {
+   "#": 346,
+   "zip_code": 95400,
+   "neighbourhood": "Tornio Keskus",
+   "city": "Tornio - Torneå",
+   "avg_price_sq_m_2017": 1709,
+   "1_year_change": "10 %",
+   "5_years_change": "8 %",
+   "10_years_change": "26 %"
+ },
+ {
+   "#": 347,
+   "zip_code": 5840,
+   "neighbourhood": "Hyvinkäänkylä-Vehkoja",
+   "city": "Hyvinkää - Hyvinge",
+   "avg_price_sq_m_2017": 1704,
+   "1_year_change": "-6 %",
+   "5_years_change": "-9 %",
+   "10_years_change": "-1 %"
+ },
+ {
+   "#": 348,
+   "zip_code": 40740,
+   "neighbourhood": "Kortepohja",
+   "city": "Jyväskylä",
+   "avg_price_sq_m_2017": 1701,
+   "1_year_change": "-3 %",
+   "5_years_change": "8 %",
+   "10_years_change": "23 %"
+ },
+ {
+   "#": 349,
+   "zip_code": 70150,
+   "neighbourhood": "Neulamäki",
+   "city": "Kuopio",
+   "avg_price_sq_m_2017": 1698,
+   "1_year_change": "0 %",
+   "5_years_change": "-5 %",
+   "10_years_change": "4 %"
+ },
+ {
+   "#": 350,
+   "zip_code": 15800,
+   "neighbourhood": "Kärpänen",
+   "city": "Lahti",
+   "avg_price_sq_m_2017": 1696,
+   "1_year_change": "0 %",
+   "5_years_change": "2 %",
+   "10_years_change": "29 %"
+ },
+ {
+   "#": 351,
+   "zip_code": 37130,
+   "neighbourhood": "Alhoniitty",
+   "city": "Nokia",
+   "avg_price_sq_m_2017": 1689,
+   "1_year_change": "-2 %",
+   "5_years_change": "0 %",
+   "10_years_change": "8 %"
+ },
+ {
+   "#": 352,
+   "zip_code": 65610,
+   "neighbourhood": "Mustasaari Keskus",
+   "city": "Mustasaari - Korsholm",
+   "avg_price_sq_m_2017": 1689,
+   "1_year_change": "-1 %",
+   "5_years_change": "-3 %",
+   "10_years_change": "29 %"
+ },
+ {
+   "#": 353,
+   "zip_code": 11100,
+   "neighbourhood": "Riihimäki Keskus",
+   "city": "Riihimäki",
+   "avg_price_sq_m_2017": 1688,
+   "1_year_change": "2 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 354,
+   "zip_code": 33840,
+   "neighbourhood": "Peltolammi",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 1687,
+   "1_year_change": "4 %",
+   "5_years_change": "6 %",
+   "10_years_change": "19 %"
+ },
+ {
+   "#": 355,
+   "zip_code": 70780,
+   "neighbourhood": "Jynkkä",
+   "city": "Kuopio",
+   "avg_price_sq_m_2017": 1686,
+   "1_year_change": "-3 %",
+   "5_years_change": "-7 %",
+   "10_years_change": "3 %"
+ },
+ {
+   "#": 356,
+   "zip_code": 70910,
+   "neighbourhood": "Vuorela",
+   "city": "Siilinjärvi",
+   "avg_price_sq_m_2017": 1686,
+   "1_year_change": "-1 %",
+   "5_years_change": "1 %",
+   "10_years_change": "15 %"
+ },
+ {
+   "#": 357,
+   "zip_code": 33310,
+   "neighbourhood": "Tesoma",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 1683,
+   "1_year_change": "14 %",
+   "5_years_change": "10 %",
+   "10_years_change": "29 %"
+ },
+ {
+   "#": 358,
+   "zip_code": 8700,
+   "neighbourhood": "Virkkala",
+   "city": "Lohja - Lojo",
+   "avg_price_sq_m_2017": 1679,
+   "1_year_change": "21 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "17 %"
+ },
+ {
+   "#": 359,
+   "zip_code": 28600,
+   "neighbourhood": "Vähärauma",
+   "city": "Pori - Björneborg",
+   "avg_price_sq_m_2017": 1677,
+   "1_year_change": "10 %",
+   "5_years_change": "11 %",
+   "10_years_change": "40 %"
+ },
+ {
+   "#": 360,
+   "zip_code": 13210,
+   "neighbourhood": "Hätilä",
+   "city": "Hämeenlinna - Tavastehus",
+   "avg_price_sq_m_2017": 1675,
+   "1_year_change": "-5 %",
+   "5_years_change": "-5 %",
+   "10_years_change": "5 %"
+ },
+ {
+   "#": 361,
+   "zip_code": 50600,
+   "neighbourhood": "Karikko",
+   "city": "Mikkeli - S:t Michel",
+   "avg_price_sq_m_2017": 1672,
+   "1_year_change": "-4 %",
+   "5_years_change": "-3 %",
+   "10_years_change": "10 %"
+ },
+ {
+   "#": 362,
+   "zip_code": 96460,
+   "neighbourhood": "Pöykkölä",
+   "city": "Rovaniemi",
+   "avg_price_sq_m_2017": 1668,
+   "1_year_change": "-3 %",
+   "5_years_change": "6 %",
+   "10_years_change": "23 %"
+ },
+ {
+   "#": 363,
+   "zip_code": 70200,
+   "neighbourhood": "Puijonlaakso",
+   "city": "Kuopio",
+   "avg_price_sq_m_2017": 1667,
+   "1_year_change": "-7 %",
+   "5_years_change": "-3 %",
+   "10_years_change": "2 %"
+ },
+ {
+   "#": 364,
+   "zip_code": 39100,
+   "neighbourhood": "Hämeenkyrö Keskus",
+   "city": "Hämeenkyrö - Tavastkyro",
+   "avg_price_sq_m_2017": 1666,
+   "1_year_change": "20 %",
+   "5_years_change": "19 %",
+   "10_years_change": "36 %"
+ },
+ {
+   "#": 365,
+   "zip_code": 33410,
+   "neighbourhood": "Lentävänniemi",
+   "city": "Tampere - Tammerfors",
+   "avg_price_sq_m_2017": 1662,
+   "1_year_change": "-5 %",
+   "5_years_change": "5 %",
+   "10_years_change": "12 %"
+ },
+ {
+   "#": 366,
+   "zip_code": 80170,
+   "neighbourhood": "Utra",
+   "city": "Joensuu",
+   "avg_price_sq_m_2017": 1655,
+   "1_year_change": "-1 %",
+   "5_years_change": "-5 %",
+   "10_years_change": "11 %"
+ },
+ {
+   "#": 367,
+   "zip_code": 13500,
+   "neighbourhood": "Jukola",
+   "city": "Hattula",
+   "avg_price_sq_m_2017": 1650,
+   "1_year_change": "4 %",
+   "5_years_change": "-8 %",
+   "10_years_change": "8 %"
+ },
+ {
+   "#": 368,
+   "zip_code": 95450,
+   "neighbourhood": "Kirkonmäki",
+   "city": "Tornio - Torneå",
+   "avg_price_sq_m_2017": 1650,
+   "1_year_change": "11 %",
+   "5_years_change": "8 %",
+   "10_years_change": "28 %"
+ },
+ {
+   "#": 369,
+   "zip_code": 37150,
+   "neighbourhood": "Kankaantaka",
+   "city": "Nokia",
+   "avg_price_sq_m_2017": 1647,
+   "1_year_change": "3 %",
+   "5_years_change": "-3 %",
+   "10_years_change": "10 %"
+ },
+ {
+   "#": 370,
+   "zip_code": 88610,
+   "neighbourhood": "Vuokatti",
+   "city": "Sotkamo",
+   "avg_price_sq_m_2017": 1639,
+   "1_year_change": "-14 %",
+   "5_years_change": "-16 %",
+   "10_years_change": "10 %"
+ },
+ {
+   "#": 371,
+   "zip_code": 40630,
+   "neighbourhood": "Kypärämäki",
+   "city": "Jyväskylä",
+   "avg_price_sq_m_2017": 1630,
+   "1_year_change": "6 %",
+   "5_years_change": "0 %",
+   "10_years_change": "19 %"
+ },
+ {
+   "#": 372,
+   "zip_code": 80400,
+   "neighbourhood": "Ylämylly",
+   "city": "Liperi",
+   "avg_price_sq_m_2017": 1629,
+   "1_year_change": "4 %",
+   "5_years_change": "4 %",
+   "10_years_change": "29 %"
+ },
+ {
+   "#": 373,
+   "zip_code": 11130,
+   "neighbourhood": "Peltosaari-Patastenmäki",
+   "city": "Riihimäki",
+   "avg_price_sq_m_2017": 1628,
+   "1_year_change": "2 %",
+   "5_years_change": "-5 %",
+   "10_years_change": "39 %"
+ },
+ {
+   "#": 374,
+   "zip_code": 21500,
+   "neighbourhood": "Piikkiö",
+   "city": "Kaarina - S:t Karins",
+   "avg_price_sq_m_2017": 1628,
+   "1_year_change": "-1 %",
+   "5_years_change": "-1 %",
+   "10_years_change": "12 %"
+ },
+ {
+   "#": 375,
+   "zip_code": 37100,
+   "neighbourhood": "Nokia Keskus",
+   "city": "Nokia",
+   "avg_price_sq_m_2017": 1628,
+   "1_year_change": "-7 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "9 %"
+ },
+ {
+   "#": 376,
+   "zip_code": 7900,
+   "neighbourhood": "Loviisa Keskus",
+   "city": "Loviisa - Lovisa",
+   "avg_price_sq_m_2017": 1626,
+   "1_year_change": "1 %",
+   "5_years_change": "-1 %",
+   "10_years_change": "30 %"
+ },
+ {
+   "#": 377,
+   "zip_code": 65320,
+   "neighbourhood": "Huutoniemi",
+   "city": "Vaasa - Vasa",
+   "avg_price_sq_m_2017": 1623,
+   "1_year_change": "-10 %",
+   "5_years_change": "1 %",
+   "10_years_change": "24 %"
+ },
+ {
+   "#": 378,
+   "zip_code": 70340,
+   "neighbourhood": "Inkilänmäki",
+   "city": "Kuopio",
+   "avg_price_sq_m_2017": 1620,
+   "1_year_change": "-9 %",
+   "5_years_change": "5 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 379,
+   "zip_code": 70500,
+   "neighbourhood": "Männistö",
+   "city": "Kuopio",
+   "avg_price_sq_m_2017": 1620,
+   "1_year_change": "-3 %",
+   "5_years_change": "-1 %",
+   "10_years_change": "7 %"
+ },
+ {
+   "#": 380,
+   "zip_code": 96190,
+   "neighbourhood": "Lapinrinne-Ahokangas",
+   "city": "Rovaniemi",
+   "avg_price_sq_m_2017": 1620,
+   "1_year_change": "-4 %",
+   "5_years_change": "4 %",
+   "10_years_change": "19 %"
+ },
+ {
+   "#": 381,
+   "zip_code": 10210,
+   "neighbourhood": "Inkoo Keskus",
+   "city": "Inkoo - Ingå",
+   "avg_price_sq_m_2017": 1618,
+   "1_year_change": "-1 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "7 %"
+ },
+ {
+   "#": 382,
+   "zip_code": 28300,
+   "neighbourhood": "Kalaholma-Väinölä",
+   "city": "Pori - Björneborg",
+   "avg_price_sq_m_2017": 1617,
+   "1_year_change": "-9 %",
+   "5_years_change": "-5 %",
+   "10_years_change": "20 %"
+ },
+ {
+   "#": 383,
+   "zip_code": 90310,
+   "neighbourhood": "Madekoski",
+   "city": "Oulu - Uleåborg",
+   "avg_price_sq_m_2017": 1617,
+   "1_year_change": "-2 %",
+   "5_years_change": "-7 %",
+   "10_years_change": "-3 %"
+ },
+ {
+   "#": 384,
+   "zip_code": 80260,
+   "neighbourhood": "Kettuvaara",
+   "city": "Joensuu",
+   "avg_price_sq_m_2017": 1616,
+   "1_year_change": "-9 %",
+   "5_years_change": "-8 %",
+   "10_years_change": "11 %"
+ },
+ {
+   "#": 385,
+   "zip_code": 60220,
+   "neighbourhood": "Huhtala",
+   "city": "Seinäjoki",
+   "avg_price_sq_m_2017": 1611,
+   "1_year_change": "-11 %",
+   "5_years_change": "-10 %",
+   "10_years_change": "27 %"
+ },
+ {
+   "#": 386,
+   "zip_code": 85100,
+   "neighbourhood": "Kalajoki Keskus",
+   "city": "Kalajoki",
+   "avg_price_sq_m_2017": 1611,
+   "1_year_change": "7 %",
+   "5_years_change": "19 %",
+   "10_years_change": "52 %"
+ },
+ {
+   "#": 387,
+   "zip_code": 15230,
+   "neighbourhood": "Kytölä",
+   "city": "Lahti",
+   "avg_price_sq_m_2017": 1610,
+   "1_year_change": "-5 %",
+   "5_years_change": "3 %",
+   "10_years_change": "39 %"
+ },
+ {
+   "#": 388,
+   "zip_code": 95410,
+   "neighbourhood": "Kiviranta",
+   "city": "Tornio - Torneå",
+   "avg_price_sq_m_2017": 1609,
+   "1_year_change": "15 %",
+   "5_years_change": "23 %",
+   "10_years_change": "49 %"
+ },
+ {
+   "#": 389,
+   "zip_code": 90570,
+   "neighbourhood": "Kaijonharju-Linnanmaa",
+   "city": "Oulu - Uleåborg",
+   "avg_price_sq_m_2017": 1608,
+   "1_year_change": "-15 %",
+   "5_years_change": "8 %",
+   "10_years_change": "17 %"
+ },
+ {
+   "#": 390,
+   "zip_code": 28130,
+   "neighbourhood": "Impola",
+   "city": "Pori - Björneborg",
+   "avg_price_sq_m_2017": 1604,
+   "1_year_change": "3 %",
+   "5_years_change": "9 %",
+   "10_years_change": "29 %"
+ },
+ {
+   "#": 391,
+   "zip_code": 90650,
+   "neighbourhood": "Haapalehto",
+   "city": "Oulu - Uleåborg",
+   "avg_price_sq_m_2017": 1604,
+   "1_year_change": "-3 %",
+   "5_years_change": "-1 %",
+   "10_years_change": "11 %"
+ },
+ {
+   "#": 392,
+   "zip_code": 3250,
+   "neighbourhood": "Ojakkala",
+   "city": "Vihti - Vichtis",
+   "avg_price_sq_m_2017": 1592,
+   "1_year_change": "-7 %",
+   "5_years_change": "-20 %",
+   "10_years_change": "-9 %"
+ },
+ {
+   "#": 393,
+   "zip_code": 11710,
+   "neighbourhood": "Herajoki",
+   "city": "Riihimäki",
+   "avg_price_sq_m_2017": 1592,
+   "1_year_change": "-12 %",
+   "5_years_change": "-11 %",
+   "10_years_change": "2 %"
+ },
+ {
+   "#": 394,
+   "zip_code": 21120,
+   "neighbourhood": "Viherjäinen",
+   "city": "Raisio - Reso",
+   "avg_price_sq_m_2017": 1584,
+   "1_year_change": "0 %",
+   "5_years_change": "6 %",
+   "10_years_change": "-9 %"
+ },
+ {
+   "#": 395,
+   "zip_code": 21200,
+   "neighbourhood": "Raisio Keskus",
+   "city": "Raisio - Reso",
+   "avg_price_sq_m_2017": 1584,
+   "1_year_change": "2 %",
+   "5_years_change": "2 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 396,
+   "zip_code": 12700,
+   "neighbourhood": "Loppi kk",
+   "city": "Loppi",
+   "avg_price_sq_m_2017": 1581,
+   "1_year_change": "1 %",
+   "5_years_change": "19 %",
+   "10_years_change": "24 %"
+ },
+ {
+   "#": 397,
+   "zip_code": 10650,
+   "neighbourhood": "Flyet",
+   "city": "Raasepori - Raseborg",
+   "avg_price_sq_m_2017": 1580,
+   "1_year_change": "-3 %",
+   "5_years_change": "19 %",
+   "10_years_change": "6 %"
+ },
+ {
+   "#": 398,
+   "zip_code": 13800,
+   "neighbourhood": "Katinala",
+   "city": "Hattula",
+   "avg_price_sq_m_2017": 1579,
+   "1_year_change": "-12 %",
+   "5_years_change": "-12 %",
+   "10_years_change": "2 %"
+ },
+ {
+   "#": 399,
+   "zip_code": 21270,
+   "neighbourhood": "Nousiainen",
+   "city": "Nousiainen - Nousis",
+   "avg_price_sq_m_2017": 1579,
+   "1_year_change": "7 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "22 %"
+ },
+ {
+   "#": 400,
+   "zip_code": 65230,
+   "neighbourhood": "Vetokannas",
+   "city": "Vaasa - Vasa",
+   "avg_price_sq_m_2017": 1579,
+   "1_year_change": "-4 %",
+   "5_years_change": "1 %",
+   "10_years_change": "29 %"
+ },
+ {
+   "#": 401,
+   "zip_code": 80160,
+   "neighbourhood": "Rantakylä-Latola",
+   "city": "Joensuu",
+   "avg_price_sq_m_2017": 1579,
+   "1_year_change": "5 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "20 %"
+ },
+ {
+   "#": 402,
+   "zip_code": 15950,
+   "neighbourhood": "Kiikkula",
+   "city": "Lahti",
+   "avg_price_sq_m_2017": 1578,
+   "1_year_change": "-8 %",
+   "5_years_change": "-7 %",
+   "10_years_change": "5 %"
+ },
+ {
+   "#": 403,
+   "zip_code": 33880,
+   "neighbourhood": "Höytämö",
+   "city": "Lempäälä",
+   "avg_price_sq_m_2017": 1577,
+   "1_year_change": "-7 %",
+   "5_years_change": "6 %",
+   "10_years_change": "11 %"
+ },
+ {
+   "#": 404,
+   "zip_code": 50500,
+   "neighbourhood": "Tuukkala-Kaituenmäki",
+   "city": "Mikkeli - S:t Michel",
+   "avg_price_sq_m_2017": 1576,
+   "1_year_change": "9 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "4 %"
+ },
+ {
+   "#": 405,
+   "zip_code": 60550,
+   "neighbourhood": "Nurmo Keskus",
+   "city": "Seinäjoki",
+   "avg_price_sq_m_2017": 1573,
+   "1_year_change": "-5 %",
+   "5_years_change": "2 %",
+   "10_years_change": "57 %"
+ },
+ {
+   "#": 406,
+   "zip_code": 57100,
+   "neighbourhood": "Heikinpohja-Piispanmäki",
+   "city": "Savonlinna - Nyslott",
+   "avg_price_sq_m_2017": 1569,
+   "1_year_change": "-9 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "17 %"
+ },
+ {
+   "#": 407,
+   "zip_code": 13720,
+   "neighbourhood": "Parola",
+   "city": "Hattula",
+   "avg_price_sq_m_2017": 1567,
+   "1_year_change": "-4 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "7 %"
+ },
+ {
+   "#": 408,
+   "zip_code": 15870,
+   "neighbourhood": "Salpakangas",
+   "city": "Hollola",
+   "avg_price_sq_m_2017": 1567,
+   "1_year_change": "28 %",
+   "5_years_change": "-5 %",
+   "10_years_change": "6 %"
+ },
+ {
+   "#": 409,
+   "zip_code": 28220,
+   "neighbourhood": "Ruosniemi",
+   "city": "Pori - Björneborg",
+   "avg_price_sq_m_2017": 1567,
+   "1_year_change": "-4 %",
+   "5_years_change": "6 %",
+   "10_years_change": "30 %"
+ },
+ {
+   "#": 410,
+   "zip_code": 90250,
+   "neighbourhood": "Kaukovainio",
+   "city": "Oulu - Uleåborg",
+   "avg_price_sq_m_2017": 1567,
+   "1_year_change": "3 %",
+   "5_years_change": "24 %",
+   "10_years_change": "25 %"
+ },
+ {
+   "#": 411,
+   "zip_code": 60150,
+   "neighbourhood": "Kasperi",
+   "city": "Seinäjoki",
+   "avg_price_sq_m_2017": 1566,
+   "1_year_change": "6 %",
+   "5_years_change": "12 %",
+   "10_years_change": "37 %"
+ },
+ {
+   "#": 412,
+   "zip_code": 70700,
+   "neighbourhood": "Särkiniemi",
+   "city": "Kuopio",
+   "avg_price_sq_m_2017": 1558,
+   "1_year_change": "-11 %",
+   "5_years_change": "-13 %",
+   "10_years_change": "1 %"
+ },
+ {
+   "#": 413,
+   "zip_code": 71800,
+   "neighbourhood": "Siilinjärvi Keskus",
+   "city": "Siilinjärvi",
+   "avg_price_sq_m_2017": 1552,
+   "1_year_change": "-3 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "5 %"
+ },
+ {
+   "#": 414,
+   "zip_code": 53850,
+   "neighbourhood": "Skinnarila",
+   "city": "Lappeenranta - Villmanstrand",
+   "avg_price_sq_m_2017": 1547,
+   "1_year_change": "4 %",
+   "5_years_change": "3 %",
+   "10_years_change": "13 %"
+ },
+ {
+   "#": 415,
+   "zip_code": 90240,
+   "neighbourhood": "Iinatti",
+   "city": "Oulu - Uleåborg",
+   "avg_price_sq_m_2017": 1542,
+   "1_year_change": "-4 %",
+   "5_years_change": "-3 %",
+   "10_years_change": "-3 %"
+ },
+ {
+   "#": 416,
+   "zip_code": 21210,
+   "neighbourhood": "Hakinmäki",
+   "city": "Raisio - Reso",
+   "avg_price_sq_m_2017": 1539,
+   "1_year_change": "12 %",
+   "5_years_change": "3 %",
+   "10_years_change": "9 %"
+ },
+ {
+   "#": 417,
+   "zip_code": 87200,
+   "neighbourhood": "Teppana",
+   "city": "Kajaani - Kajana",
+   "avg_price_sq_m_2017": 1539,
+   "1_year_change": "0 %",
+   "5_years_change": "-3 %",
+   "10_years_change": "17 %"
+ },
+ {
+   "#": 418,
+   "zip_code": 8350,
+   "neighbourhood": "Routio",
+   "city": "Lohja - Lojo",
+   "avg_price_sq_m_2017": 1534,
+   "1_year_change": "1 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "2 %"
+ },
+ {
+   "#": 419,
+   "zip_code": 11120,
+   "neighbourhood": "Pohjois-Riihimäki",
+   "city": "Riihimäki",
+   "avg_price_sq_m_2017": 1532,
+   "1_year_change": "1 %",
+   "5_years_change": "-1 %",
+   "10_years_change": "10 %"
+ },
+ {
+   "#": 420,
+   "zip_code": 28660,
+   "neighbourhood": "Pietniemi-Leppäkorpi",
+   "city": "Pori - Björneborg",
+   "avg_price_sq_m_2017": 1515,
+   "1_year_change": "0 %",
+   "5_years_change": "1 %",
+   "10_years_change": "23 %"
+ },
+ {
+   "#": 421,
+   "zip_code": 14500,
+   "neighbourhood": "Iittala",
+   "city": "Hämeenlinna - Tavastehus",
+   "avg_price_sq_m_2017": 1509,
+   "1_year_change": "27 %",
+   "5_years_change": "17 %",
+   "10_years_change": "28 %"
+ },
+ {
+   "#": 422,
+   "zip_code": 65350,
+   "neighbourhood": "Suvilahti",
+   "city": "Vaasa - Vasa",
+   "avg_price_sq_m_2017": 1509,
+   "1_year_change": "-4 %",
+   "5_years_change": "0 %",
+   "10_years_change": "32 %"
+ },
+ {
+   "#": 423,
+   "zip_code": 13600,
+   "neighbourhood": "Ojoinen",
+   "city": "Hämeenlinna - Tavastehus",
+   "avg_price_sq_m_2017": 1507,
+   "1_year_change": "1 %",
+   "5_years_change": "-5 %",
+   "10_years_change": "8 %"
+ },
+ {
+   "#": 424,
+   "zip_code": 50170,
+   "neighbourhood": "Peitsari",
+   "city": "Mikkeli - S:t Michel",
+   "avg_price_sq_m_2017": 1505,
+   "1_year_change": "-5 %",
+   "5_years_change": "-19 %",
+   "10_years_change": "-9 %"
+ },
+ {
+   "#": 425,
+   "zip_code": 96400,
+   "neighbourhood": "Pullinranta-Kiiruna",
+   "city": "Rovaniemi",
+   "avg_price_sq_m_2017": 1500,
+   "1_year_change": "1 %",
+   "5_years_change": "-15 %",
+   "10_years_change": "6 %"
+ },
+ {
+   "#": 426,
+   "zip_code": 87100,
+   "neighbourhood": "Kajaani Keskus",
+   "city": "Kajaani - Kajana",
+   "avg_price_sq_m_2017": 1497,
+   "1_year_change": "1 %",
+   "5_years_change": "-5 %",
+   "10_years_change": "16 %"
+ },
+ {
+   "#": 427,
+   "zip_code": 10900,
+   "neighbourhood": "Hanko Keskus",
+   "city": "Hanko - Hangö",
+   "avg_price_sq_m_2017": 1490,
+   "1_year_change": "-9 %",
+   "5_years_change": "7 %",
+   "10_years_change": "3 %"
+ },
+ {
+   "#": 428,
+   "zip_code": 62100,
+   "neighbourhood": "Lapua Keskus",
+   "city": "Lapua - Lappo",
+   "avg_price_sq_m_2017": 1487,
+   "1_year_change": "12 %",
+   "5_years_change": "4 %",
+   "10_years_change": "28 %"
+ },
+ {
+   "#": 429,
+   "zip_code": 70420,
+   "neighbourhood": "Päiväranta",
+   "city": "Kuopio",
+   "avg_price_sq_m_2017": 1486,
+   "1_year_change": "-7 %",
+   "5_years_change": "-12 %",
+   "10_years_change": "-1 %"
+ },
+ {
+   "#": 430,
+   "zip_code": 48100,
+   "neighbourhood": "Kotkansaari",
+   "city": "Kotka",
+   "avg_price_sq_m_2017": 1485,
+   "1_year_change": "-4 %",
+   "5_years_change": "-14 %",
+   "10_years_change": "0 %"
+ },
+ {
+   "#": 431,
+   "zip_code": 15200,
+   "neighbourhood": "Kiveriö",
+   "city": "Lahti",
+   "avg_price_sq_m_2017": 1484,
+   "1_year_change": "7 %",
+   "5_years_change": "4 %",
+   "10_years_change": "19 %"
+ },
+ {
+   "#": 432,
+   "zip_code": 15520,
+   "neighbourhood": "Saksala",
+   "city": "Lahti",
+   "avg_price_sq_m_2017": 1480,
+   "1_year_change": "2 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "16 %"
+ },
+ {
+   "#": 433,
+   "zip_code": 21260,
+   "neighbourhood": "Ihala",
+   "city": "Raisio - Reso",
+   "avg_price_sq_m_2017": 1480,
+   "1_year_change": "-14 %",
+   "5_years_change": "-27 %",
+   "10_years_change": "-8 %"
+ },
+ {
+   "#": 434,
+   "zip_code": 45120,
+   "neighbourhood": "Kotkankallio-Vahteranmäki",
+   "city": "Kouvola",
+   "avg_price_sq_m_2017": 1469,
+   "1_year_change": "4 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "15 %"
+ },
+ {
+   "#": 435,
+   "zip_code": 2490,
+   "neighbourhood": "Pikkala",
+   "city": "Siuntio - Sjundeå",
+   "avg_price_sq_m_2017": 1468,
+   "1_year_change": "12 %",
+   "5_years_change": "0 %",
+   "10_years_change": "-9 %"
+ },
+ {
+   "#": 436,
+   "zip_code": 14200,
+   "neighbourhood": "Turenki",
+   "city": "Janakkala",
+   "avg_price_sq_m_2017": 1468,
+   "1_year_change": "17 %",
+   "5_years_change": "4 %",
+   "10_years_change": "20 %"
+ },
+ {
+   "#": 437,
+   "zip_code": 40800,
+   "neighbourhood": "Vaajakoski",
+   "city": "Jyväskylä",
+   "avg_price_sq_m_2017": 1467,
+   "1_year_change": "-4 %",
+   "5_years_change": "2 %",
+   "10_years_change": "15 %"
+ },
+ {
+   "#": 438,
+   "zip_code": 28430,
+   "neighbourhood": "Kartano-Harmaalinna",
+   "city": "Pori - Björneborg",
+   "avg_price_sq_m_2017": 1465,
+   "1_year_change": "11 %",
+   "5_years_change": "2 %",
+   "10_years_change": "29 %"
+ },
+ {
+   "#": 439,
+   "zip_code": 84100,
+   "neighbourhood": "Ylivieska Keskus",
+   "city": "Ylivieska",
+   "avg_price_sq_m_2017": 1462,
+   "1_year_change": "-1 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "17 %"
+ },
+ {
+   "#": 440,
+   "zip_code": 38200,
+   "neighbourhood": "Vammala Keskus",
+   "city": "Sastamala",
+   "avg_price_sq_m_2017": 1461,
+   "1_year_change": "-7 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "20 %"
+ },
+ {
+   "#": 441,
+   "zip_code": 15210,
+   "neighbourhood": "Kivistönmäki",
+   "city": "Lahti",
+   "avg_price_sq_m_2017": 1459,
+   "1_year_change": "5 %",
+   "5_years_change": "4 %",
+   "10_years_change": "24 %"
+ },
+ {
+   "#": 442,
+   "zip_code": 54915,
+   "neighbourhood": "Saimaanharju-Kyläniemi",
+   "city": "Taipalsaari",
+   "avg_price_sq_m_2017": 1456,
+   "1_year_change": "-5 %",
+   "5_years_change": "-5 %",
+   "10_years_change": "2 %"
+ },
+ {
+   "#": 443,
+   "zip_code": 66100,
+   "neighbourhood": "Maalahti",
+   "city": "Maalahti - Malax",
+   "avg_price_sq_m_2017": 1455,
+   "1_year_change": "-25 %",
+   "5_years_change": "-5 %",
+   "10_years_change": "27 %"
+ },
+ {
+   "#": 444,
+   "zip_code": 66400,
+   "neighbourhood": "Laihia Keskus",
+   "city": "Laihia - Laihela",
+   "avg_price_sq_m_2017": 1455,
+   "1_year_change": "-1 %",
+   "5_years_change": "7 %",
+   "10_years_change": "44 %"
+ },
+ {
+   "#": 445,
+   "zip_code": 26200,
+   "neighbourhood": "Merirauma-Kappelinluhta",
+   "city": "Rauma - Raumo",
+   "avg_price_sq_m_2017": 1447,
+   "1_year_change": "3 %",
+   "5_years_change": "-5 %",
+   "10_years_change": "6 %"
+ },
+ {
+   "#": 446,
+   "zip_code": 90150,
+   "neighbourhood": "Höyhtyä",
+   "city": "Oulu - Uleåborg",
+   "avg_price_sq_m_2017": 1447,
+   "1_year_change": "-5 %",
+   "5_years_change": "0 %",
+   "10_years_change": "-3 %"
+ },
+ {
+   "#": 447,
+   "zip_code": 53200,
+   "neighbourhood": "Kaukas-Tirilä",
+   "city": "Lappeenranta - Villmanstrand",
+   "avg_price_sq_m_2017": 1444,
+   "1_year_change": "-6 %",
+   "5_years_change": "0 %",
+   "10_years_change": "1 %"
+ },
+ {
+   "#": 448,
+   "zip_code": 71850,
+   "neighbourhood": "Leppäkaarre",
+   "city": "Siilinjärvi",
+   "avg_price_sq_m_2017": 1442,
+   "1_year_change": "-3 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "0 %"
+ },
+ {
+   "#": 449,
+   "zip_code": 21380,
+   "neighbourhood": "Aura Keskus",
+   "city": "Aura",
+   "avg_price_sq_m_2017": 1433,
+   "1_year_change": "5 %",
+   "5_years_change": "10 %",
+   "10_years_change": "16 %"
+ },
+ {
+   "#": 450,
+   "zip_code": 74100,
+   "neighbourhood": "Iisalmi Keskus, Eteläinen",
+   "city": "Iisalmi - Idensalmi",
+   "avg_price_sq_m_2017": 1433,
+   "1_year_change": "-7 %",
+   "5_years_change": "-10 %",
+   "10_years_change": "7 %"
+ },
+ {
+   "#": 451,
+   "zip_code": 28200,
+   "neighbourhood": "Toejoki",
+   "city": "Pori - Björneborg",
+   "avg_price_sq_m_2017": 1427,
+   "1_year_change": "-3 %",
+   "5_years_change": "-1 %",
+   "10_years_change": "18 %"
+ },
+ {
+   "#": 452,
+   "zip_code": 3600,
+   "neighbourhood": "Karkkila Keskus",
+   "city": "Karkkila - Högfors",
+   "avg_price_sq_m_2017": 1424,
+   "1_year_change": "5 %",
+   "5_years_change": "-5 %",
+   "10_years_change": "-9 %"
+ },
+ {
+   "#": 453,
+   "zip_code": 45100,
+   "neighbourhood": "Kouvola Keskus",
+   "city": "Kouvola",
+   "avg_price_sq_m_2017": 1423,
+   "1_year_change": "-3 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "9 %"
+ },
+ {
+   "#": 454,
+   "zip_code": 26100,
+   "neighbourhood": "Rauma Keskus",
+   "city": "Rauma - Raumo",
+   "avg_price_sq_m_2017": 1419,
+   "1_year_change": "3 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "6 %"
+ },
+ {
+   "#": 455,
+   "zip_code": 10300,
+   "neighbourhood": "Karjaa Keskus",
+   "city": "Raasepori - Raseborg",
+   "avg_price_sq_m_2017": 1417,
+   "1_year_change": "-1 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "3 %"
+ },
+ {
+   "#": 456,
+   "zip_code": 60800,
+   "neighbourhood": "Ilmajoki Keskus",
+   "city": "Ilmajoki",
+   "avg_price_sq_m_2017": 1417,
+   "1_year_change": "-12 %",
+   "5_years_change": "1 %",
+   "10_years_change": "19 %"
+ },
+ {
+   "#": 457,
+   "zip_code": 15300,
+   "neighbourhood": "Myllypohja-Koiskala",
+   "city": "Lahti",
+   "avg_price_sq_m_2017": 1416,
+   "1_year_change": "-16 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "9 %"
+ },
+ {
+   "#": 458,
+   "zip_code": 90800,
+   "neighbourhood": "Pateniemi",
+   "city": "Oulu - Uleåborg",
+   "avg_price_sq_m_2017": 1415,
+   "1_year_change": "-3 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "-7 %"
+ },
+ {
+   "#": 459,
+   "zip_code": 35100,
+   "neighbourhood": "Orivesi Asemanseutu",
+   "city": "Orivesi",
+   "avg_price_sq_m_2017": 1412,
+   "1_year_change": "32 %",
+   "5_years_change": "25 %",
+   "10_years_change": "22 %"
+ },
+ {
+   "#": 460,
+   "zip_code": 53300,
+   "neighbourhood": "Lauritsala-Mälkiä",
+   "city": "Lappeenranta - Villmanstrand",
+   "avg_price_sq_m_2017": 1399,
+   "1_year_change": "-4 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "11 %"
+ },
+ {
+   "#": 461,
+   "zip_code": 28610,
+   "neighbourhood": "Musa-Tiiliruukki",
+   "city": "Pori - Björneborg",
+   "avg_price_sq_m_2017": 1397,
+   "1_year_change": "2 %",
+   "5_years_change": "-3 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 462,
+   "zip_code": 24100,
+   "neighbourhood": "Salo Keskus",
+   "city": "Salo",
+   "avg_price_sq_m_2017": 1393,
+   "1_year_change": "-1 %",
+   "5_years_change": "-7 %",
+   "10_years_change": "2 %"
+ },
+ {
+   "#": 463,
+   "zip_code": 36600,
+   "neighbourhood": "Pälkäne Keskus",
+   "city": "Pälkäne",
+   "avg_price_sq_m_2017": 1390,
+   "1_year_change": "4 %",
+   "5_years_change": "-10 %",
+   "10_years_change": "7 %"
+ },
+ {
+   "#": 464,
+   "zip_code": 49400,
+   "neighbourhood": "Hamina Keskus",
+   "city": "Hamina - Fredrikshamn",
+   "avg_price_sq_m_2017": 1384,
+   "1_year_change": "17 %",
+   "5_years_change": "3 %",
+   "10_years_change": "4 %"
+ },
+ {
+   "#": 465,
+   "zip_code": 68620,
+   "neighbourhood": "Skutnäs-Västermalm",
+   "city": "Pietarsaari - Jakobstad",
+   "avg_price_sq_m_2017": 1377,
+   "1_year_change": "7 %",
+   "5_years_change": "18 %",
+   "10_years_change": "26 %"
+ },
+ {
+   "#": 466,
+   "zip_code": 24280,
+   "neighbourhood": "Tupuri-Hähkänä",
+   "city": "Salo",
+   "avg_price_sq_m_2017": 1372,
+   "1_year_change": "-1 %",
+   "5_years_change": "-11 %",
+   "10_years_change": "-4 %"
+ },
+ {
+   "#": 467,
+   "zip_code": 23100,
+   "neighbourhood": "Mynämäki Keskus",
+   "city": "Mynämäki",
+   "avg_price_sq_m_2017": 1371,
+   "1_year_change": "4 %",
+   "5_years_change": "2 %",
+   "10_years_change": "21 %"
+ },
+ {
+   "#": 468,
+   "zip_code": 40900,
+   "neighbourhood": "Säynätsalo",
+   "city": "Jyväskylä",
+   "avg_price_sq_m_2017": 1370,
+   "1_year_change": "0 %",
+   "5_years_change": "41 %",
+   "10_years_change": "8 %"
+ },
+ {
+   "#": 469,
+   "zip_code": 68300,
+   "neighbourhood": "Kälviä Keskus",
+   "city": "Kokkola - Karleby",
+   "avg_price_sq_m_2017": 1365,
+   "1_year_change": "18 %",
+   "5_years_change": "34 %",
+   "10_years_change": "41 %"
+ },
+ {
+   "#": 470,
+   "zip_code": 2410,
+   "neighbourhood": "Gesterby",
+   "city": "Kirkkonummi - Kyrkslätt",
+   "avg_price_sq_m_2017": 1364,
+   "1_year_change": "-11 %",
+   "5_years_change": "-21 %",
+   "10_years_change": "-7 %"
+ },
+ {
+   "#": 471,
+   "zip_code": 70280,
+   "neighbourhood": "Länsi-Puijo",
+   "city": "Kuopio",
+   "avg_price_sq_m_2017": 1359,
+   "1_year_change": "-10 %",
+   "5_years_change": "-13 %",
+   "10_years_change": "-1 %"
+ },
+ {
+   "#": 472,
+   "zip_code": 55100,
+   "neighbourhood": "Imatra Keskus",
+   "city": "Imatra",
+   "avg_price_sq_m_2017": 1357,
+   "1_year_change": "7 %",
+   "5_years_change": "1 %",
+   "10_years_change": "9 %"
+ },
+ {
+   "#": 473,
+   "zip_code": 88600,
+   "neighbourhood": "Sotkamo Keskus",
+   "city": "Sotkamo",
+   "avg_price_sq_m_2017": 1353,
+   "1_year_change": "-2 %",
+   "5_years_change": "-9 %",
+   "10_years_change": "12 %"
+ },
+ {
+   "#": 474,
+   "zip_code": 86600,
+   "neighbourhood": "Haapavesi Keskus",
+   "city": "Haapavesi",
+   "avg_price_sq_m_2017": 1352,
+   "1_year_change": "4 %",
+   "5_years_change": "4 %",
+   "10_years_change": "68 %"
+ },
+ {
+   "#": 475,
+   "zip_code": 20360,
+   "neighbourhood": "Kärsämäki-Urusvuori-Halinen",
+   "city": "Turku - Åbo",
+   "avg_price_sq_m_2017": 1350,
+   "1_year_change": "1 %",
+   "5_years_change": "0 %",
+   "10_years_change": "15 %"
+ },
+ {
+   "#": 476,
+   "zip_code": 17200,
+   "neighbourhood": "Vääksy Keskus",
+   "city": "Asikkala",
+   "avg_price_sq_m_2017": 1349,
+   "1_year_change": "15 %",
+   "5_years_change": "4 %",
+   "10_years_change": "11 %"
+ },
+ {
+   "#": 477,
+   "zip_code": 53810,
+   "neighbourhood": "Kuusimäki-Lavola",
+   "city": "Lappeenranta - Villmanstrand",
+   "avg_price_sq_m_2017": 1347,
+   "1_year_change": "-5 %",
+   "5_years_change": "-5 %",
+   "10_years_change": "2 %"
+ },
+ {
+   "#": 478,
+   "zip_code": 53920,
+   "neighbourhood": "Voisalmi",
+   "city": "Lappeenranta - Villmanstrand",
+   "avg_price_sq_m_2017": 1345,
+   "1_year_change": "-1 %",
+   "5_years_change": "-3 %",
+   "10_years_change": "6 %"
+ },
+ {
+   "#": 479,
+   "zip_code": 12310,
+   "neighbourhood": "Ryttylä",
+   "city": "Hausjärvi",
+   "avg_price_sq_m_2017": 1342,
+   "1_year_change": "3 %",
+   "5_years_change": "-13 %",
+   "10_years_change": "32 %"
+ },
+ {
+   "#": 480,
+   "zip_code": 21220,
+   "neighbourhood": "Somersoja",
+   "city": "Raisio - Reso",
+   "avg_price_sq_m_2017": 1341,
+   "1_year_change": "0 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "-1 %"
+ },
+ {
+   "#": 481,
+   "zip_code": 90550,
+   "neighbourhood": "Pyykkösjärvi-Puolivälikangas",
+   "city": "Oulu - Uleåborg",
+   "avg_price_sq_m_2017": 1341,
+   "1_year_change": "12 %",
+   "5_years_change": "1 %",
+   "10_years_change": "7 %"
+ },
+ {
+   "#": 482,
+   "zip_code": 87250,
+   "neighbourhood": "Kättö-Kätönlahti",
+   "city": "Kajaani - Kajana",
+   "avg_price_sq_m_2017": 1338,
+   "1_year_change": "-15 %",
+   "5_years_change": "-21 %",
+   "10_years_change": "-9 %"
+ },
+ {
+   "#": 483,
+   "zip_code": 27100,
+   "neighbourhood": "Eurajoki Keskus",
+   "city": "Eurajoki - Euraåminne",
+   "avg_price_sq_m_2017": 1337,
+   "1_year_change": "14 %",
+   "5_years_change": "3 %",
+   "10_years_change": "21 %"
+ },
+ {
+   "#": 484,
+   "zip_code": 8200,
+   "neighbourhood": "Ojamo",
+   "city": "Lohja - Lojo",
+   "avg_price_sq_m_2017": 1333,
+   "1_year_change": "-9 %",
+   "5_years_change": "-17 %",
+   "10_years_change": "-13 %"
+ },
+ {
+   "#": 485,
+   "zip_code": 92100,
+   "neighbourhood": "Raahe Keskus",
+   "city": "Raahe - Brahestad",
+   "avg_price_sq_m_2017": 1333,
+   "1_year_change": "1 %",
+   "5_years_change": "1 %",
+   "10_years_change": "18 %"
+ },
+ {
+   "#": 486,
+   "zip_code": 21600,
+   "neighbourhood": "Parainen Keskus",
+   "city": "Parainen - Pargas",
+   "avg_price_sq_m_2017": 1332,
+   "1_year_change": "-3 %",
+   "5_years_change": "-14 %",
+   "10_years_change": "8 %"
+ },
+ {
+   "#": 487,
+   "zip_code": 41340,
+   "neighbourhood": "Laukaa Keskus",
+   "city": "Laukaa",
+   "avg_price_sq_m_2017": 1327,
+   "1_year_change": "-14 %",
+   "5_years_change": "-18 %",
+   "10_years_change": "9 %"
+ },
+ {
+   "#": 488,
+   "zip_code": 28400,
+   "neighbourhood": "Ulvila Keskus",
+   "city": "Ulvila - Ulvsby",
+   "avg_price_sq_m_2017": 1323,
+   "1_year_change": "-2 %",
+   "5_years_change": "-5 %",
+   "10_years_change": "11 %"
+ },
+ {
+   "#": 489,
+   "zip_code": 92140,
+   "neighbourhood": "Pattijoki Keskus",
+   "city": "Raahe - Brahestad",
+   "avg_price_sq_m_2017": 1322,
+   "1_year_change": "8 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "13 %"
+ },
+ {
+   "#": 490,
+   "zip_code": 28120,
+   "neighbourhood": "Käppärä-Isomäki",
+   "city": "Pori - Björneborg",
+   "avg_price_sq_m_2017": 1321,
+   "1_year_change": "-4 %",
+   "5_years_change": "-8 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 491,
+   "zip_code": 50120,
+   "neighbourhood": "Siekkilä",
+   "city": "Mikkeli - S:t Michel",
+   "avg_price_sq_m_2017": 1320,
+   "1_year_change": "8 %",
+   "5_years_change": "-3 %",
+   "10_years_change": "2 %"
+ },
+ {
+   "#": 492,
+   "zip_code": 5880,
+   "neighbourhood": "Paavola-Vaivero",
+   "city": "Hyvinkää - Hyvinge",
+   "avg_price_sq_m_2017": 1317,
+   "1_year_change": "-6 %",
+   "5_years_change": "-9 %",
+   "10_years_change": "-8 %"
+ },
+ {
+   "#": 493,
+   "zip_code": 16300,
+   "neighbourhood": "Orimattila Keskus",
+   "city": "Orimattila",
+   "avg_price_sq_m_2017": 1316,
+   "1_year_change": "2 %",
+   "5_years_change": "2 %",
+   "10_years_change": "11 %"
+ },
+ {
+   "#": 494,
+   "zip_code": 57710,
+   "neighbourhood": "Kellarpelto-Rantakoivikko",
+   "city": "Savonlinna - Nyslott",
+   "avg_price_sq_m_2017": 1308,
+   "1_year_change": "11 %",
+   "5_years_change": "4 %",
+   "10_years_change": "15 %"
+ },
+ {
+   "#": 495,
+   "zip_code": 68600,
+   "neighbourhood": "Pietarsaari Keskus",
+   "city": "Pietarsaari - Jakobstad",
+   "avg_price_sq_m_2017": 1304,
+   "1_year_change": "0 %",
+   "5_years_change": "6 %",
+   "10_years_change": "7 %"
+ },
+ {
+   "#": 496,
+   "zip_code": 21530,
+   "neighbourhood": "Paimio Keskus",
+   "city": "Paimio - Pemar",
+   "avg_price_sq_m_2017": 1295,
+   "1_year_change": "-13 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "-1 %"
+ },
+ {
+   "#": 497,
+   "zip_code": 38210,
+   "neighbourhood": "Vammala Asemanseutu",
+   "city": "Sastamala",
+   "avg_price_sq_m_2017": 1291,
+   "1_year_change": "-7 %",
+   "5_years_change": "11 %",
+   "10_years_change": "54 %"
+ },
+ {
+   "#": 498,
+   "zip_code": 37600,
+   "neighbourhood": "Valkeakoski Keskus",
+   "city": "Valkeakoski",
+   "avg_price_sq_m_2017": 1289,
+   "1_year_change": "10 %",
+   "5_years_change": "6 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 499,
+   "zip_code": 30100,
+   "neighbourhood": "Forssa Keskus",
+   "city": "Tammela",
+   "avg_price_sq_m_2017": 1286,
+   "1_year_change": "4 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "12 %"
+ },
+ {
+   "#": 500,
+   "zip_code": 48800,
+   "neighbourhood": "Otsola-Mäntykangas",
+   "city": "Kotka",
+   "avg_price_sq_m_2017": 1284,
+   "1_year_change": "3 %",
+   "5_years_change": "-18 %",
+   "10_years_change": "-11 %"
+ },
+ {
+   "#": 501,
+   "zip_code": 15840,
+   "neighbourhood": "Riihelä",
+   "city": "Lahti",
+   "avg_price_sq_m_2017": 1283,
+   "1_year_change": "3 %",
+   "5_years_change": "-7 %",
+   "10_years_change": "0 %"
+ },
+ {
+   "#": 502,
+   "zip_code": 95420,
+   "neighbourhood": "Miukki-Palosaari-Luotomäki",
+   "city": "Tornio - Torneå",
+   "avg_price_sq_m_2017": 1277,
+   "1_year_change": "-1 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "15 %"
+ },
+ {
+   "#": 503,
+   "zip_code": 20610,
+   "neighbourhood": "Varissuo",
+   "city": "Turku - Åbo",
+   "avg_price_sq_m_2017": 1273,
+   "1_year_change": "5 %",
+   "5_years_change": "1 %",
+   "10_years_change": "12 %"
+ },
+ {
+   "#": 504,
+   "zip_code": 65380,
+   "neighbourhood": "Vanha Vaasa",
+   "city": "Vaasa - Vasa",
+   "avg_price_sq_m_2017": 1267,
+   "1_year_change": "9 %",
+   "5_years_change": "-16 %",
+   "10_years_change": "5 %"
+ },
+ {
+   "#": 505,
+   "zip_code": 91900,
+   "neighbourhood": "Liminka Keskus",
+   "city": "Liminka - Limingo",
+   "avg_price_sq_m_2017": 1265,
+   "1_year_change": "1 %",
+   "5_years_change": "-1 %",
+   "10_years_change": "-3 %"
+ },
+ {
+   "#": 506,
+   "zip_code": 38700,
+   "neighbourhood": "Kankaanpää Keskus",
+   "city": "Kankaanpää",
+   "avg_price_sq_m_2017": 1264,
+   "1_year_change": "0 %",
+   "5_years_change": "0 %",
+   "10_years_change": "18 %"
+ },
+ {
+   "#": 507,
+   "zip_code": 18100,
+   "neighbourhood": "Heinola Keskus",
+   "city": "Heinola",
+   "avg_price_sq_m_2017": 1261,
+   "1_year_change": "-13 %",
+   "5_years_change": "-10 %",
+   "10_years_change": "-8 %"
+ },
+ {
+   "#": 508,
+   "zip_code": 45720,
+   "neighbourhood": "Kotiharju-Ruhjonmäki",
+   "city": "Kouvola",
+   "avg_price_sq_m_2017": 1261,
+   "1_year_change": "10 %",
+   "5_years_change": "-12 %",
+   "10_years_change": "4 %"
+ },
+ {
+   "#": 509,
+   "zip_code": 36420,
+   "neighbourhood": "Sahalahti Keskus",
+   "city": "Kangasala",
+   "avg_price_sq_m_2017": 1250,
+   "1_year_change": "1 %",
+   "5_years_change": "-14 %",
+   "10_years_change": "9 %"
+ },
+ {
+   "#": 510,
+   "zip_code": 23800,
+   "neighbourhood": "Laitila Keskus",
+   "city": "Laitila",
+   "avg_price_sq_m_2017": 1248,
+   "1_year_change": "18 %",
+   "5_years_change": "8 %",
+   "10_years_change": "37 %"
+ },
+ {
+   "#": 511,
+   "zip_code": 27800,
+   "neighbourhood": "Säkylä Keskus",
+   "city": "Säkylä",
+   "avg_price_sq_m_2017": 1248,
+   "1_year_change": "1 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "-2 %"
+ },
+ {
+   "#": 512,
+   "zip_code": 28360,
+   "neighbourhood": "Vanhakoivisto",
+   "city": "Pori - Björneborg",
+   "avg_price_sq_m_2017": 1246,
+   "1_year_change": "-6 %",
+   "5_years_change": "-16 %",
+   "10_years_change": "-1 %"
+ },
+ {
+   "#": 513,
+   "zip_code": 40640,
+   "neighbourhood": "Keltinmäki",
+   "city": "Jyväskylä",
+   "avg_price_sq_m_2017": 1246,
+   "1_year_change": "-2 %",
+   "5_years_change": "-7 %",
+   "10_years_change": "3 %"
+ },
+ {
+   "#": 514,
+   "zip_code": 5860,
+   "neighbourhood": "Talvisilta",
+   "city": "Hyvinkää - Hyvinge",
+   "avg_price_sq_m_2017": 1245,
+   "1_year_change": "-11 %",
+   "5_years_change": "-22 %",
+   "10_years_change": "-5 %"
+ },
+ {
+   "#": 515,
+   "zip_code": 70460,
+   "neighbourhood": "Saarijärvi",
+   "city": "Kuopio",
+   "avg_price_sq_m_2017": 1245,
+   "1_year_change": "-7 %",
+   "5_years_change": "-13 %",
+   "10_years_change": "-6 %"
+ },
+ {
+   "#": 516,
+   "zip_code": 74120,
+   "neighbourhood": "Iisalmi Keskus Pohjoinen",
+   "city": "Iisalmi - Idensalmi",
+   "avg_price_sq_m_2017": 1238,
+   "1_year_change": "-7 %",
+   "5_years_change": "-11 %",
+   "10_years_change": "2 %"
+ },
+ {
+   "#": 517,
+   "zip_code": 24800,
+   "neighbourhood": "Halikko Keskus",
+   "city": "Salo",
+   "avg_price_sq_m_2017": 1237,
+   "1_year_change": "7 %",
+   "5_years_change": "-9 %",
+   "10_years_change": "1 %"
+ },
+ {
+   "#": 518,
+   "zip_code": 57170,
+   "neighbourhood": "Sortteerinlahti-Talvisalo",
+   "city": "Savonlinna - Nyslott",
+   "avg_price_sq_m_2017": 1235,
+   "1_year_change": "9 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "9 %"
+ },
+ {
+   "#": 519,
+   "zip_code": 33850,
+   "neighbourhood": "Multisilta",
+   "city": "Pirkkala - Birkala",
+   "avg_price_sq_m_2017": 1231,
+   "1_year_change": "0 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "5 %"
+ },
+ {
+   "#": 520,
+   "zip_code": 35300,
+   "neighbourhood": "Orivesi Keskus",
+   "city": "Orivesi",
+   "avg_price_sq_m_2017": 1225,
+   "1_year_change": "-8 %",
+   "5_years_change": "-3 %",
+   "10_years_change": "16 %"
+ },
+ {
+   "#": 521,
+   "zip_code": 45370,
+   "neighbourhood": "Valkeala kk",
+   "city": "Kouvola",
+   "avg_price_sq_m_2017": 1223,
+   "1_year_change": "-3 %",
+   "5_years_change": "-9 %",
+   "10_years_change": "-2 %"
+ },
+ {
+   "#": 522,
+   "zip_code": 23500,
+   "neighbourhood": "Uusikaupunki Keskus",
+   "city": "Uusikaupunki - Nystad",
+   "avg_price_sq_m_2017": 1221,
+   "1_year_change": "13 %",
+   "5_years_change": "13 %",
+   "10_years_change": "37 %"
+ },
+ {
+   "#": 523,
+   "zip_code": 99800,
+   "neighbourhood": "Ivalo",
+   "city": "Inari - Enare",
+   "avg_price_sq_m_2017": 1219,
+   "1_year_change": "-5 %",
+   "5_years_change": "0 %",
+   "10_years_change": "33 %"
+ },
+ {
+   "#": 524,
+   "zip_code": 28500,
+   "neighbourhood": "Keskussairaala-alue-Tiilimäki",
+   "city": "Pori - Björneborg",
+   "avg_price_sq_m_2017": 1217,
+   "1_year_change": "5 %",
+   "5_years_change": "11 %",
+   "10_years_change": "16 %"
+ },
+ {
+   "#": 525,
+   "zip_code": 15860,
+   "neighbourhood": "Kartano",
+   "city": "Hollola",
+   "avg_price_sq_m_2017": 1212,
+   "1_year_change": "-3 %",
+   "5_years_change": "-8 %",
+   "10_years_change": "2 %"
+ },
+ {
+   "#": 526,
+   "zip_code": 20240,
+   "neighbourhood": "Pansio-Perno",
+   "city": "Turku - Åbo",
+   "avg_price_sq_m_2017": 1212,
+   "1_year_change": "11 %",
+   "5_years_change": "3 %",
+   "10_years_change": "6 %"
+ },
+ {
+   "#": 527,
+   "zip_code": 15240,
+   "neighbourhood": "Mukkula",
+   "city": "Lahti",
+   "avg_price_sq_m_2017": 1211,
+   "1_year_change": "-4 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "4 %"
+ },
+ {
+   "#": 528,
+   "zip_code": 26660,
+   "neighbourhood": "Paroalho",
+   "city": "Rauma - Raumo",
+   "avg_price_sq_m_2017": 1210,
+   "1_year_change": "6 %",
+   "5_years_change": "-9 %",
+   "10_years_change": "5 %"
+ },
+ {
+   "#": 529,
+   "zip_code": 87700,
+   "neighbourhood": "Lohtaja-Kettu",
+   "city": "Kajaani - Kajana",
+   "avg_price_sq_m_2017": 1207,
+   "1_year_change": "-2 %",
+   "5_years_change": "-17 %",
+   "10_years_change": "3 %"
+ },
+ {
+   "#": 530,
+   "zip_code": 32200,
+   "neighbourhood": "Loimaa Keskus",
+   "city": "Loimaa",
+   "avg_price_sq_m_2017": 1205,
+   "1_year_change": "-4 %",
+   "5_years_change": "1 %",
+   "10_years_change": "5 %"
+ },
+ {
+   "#": 531,
+   "zip_code": 20750,
+   "neighbourhood": "Huhkola-Lauste-Vaala",
+   "city": "Turku - Åbo",
+   "avg_price_sq_m_2017": 1203,
+   "1_year_change": "0 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "10 %"
+ },
+ {
+   "#": 532,
+   "zip_code": 85500,
+   "neighbourhood": "Nivala Keskus",
+   "city": "Nivala",
+   "avg_price_sq_m_2017": 1203,
+   "1_year_change": "-1 %",
+   "5_years_change": "-3 %",
+   "10_years_change": "12 %"
+ },
+ {
+   "#": 533,
+   "zip_code": 91800,
+   "neighbourhood": "Tyrnävä",
+   "city": "Tyrnävä",
+   "avg_price_sq_m_2017": 1197,
+   "1_year_change": "-6 %",
+   "5_years_change": "2 %",
+   "10_years_change": "7 %"
+ },
+ {
+   "#": 534,
+   "zip_code": 15880,
+   "neighbourhood": "Soramäki",
+   "city": "Hollola",
+   "avg_price_sq_m_2017": 1196,
+   "1_year_change": "-17 %",
+   "5_years_change": "-18 %",
+   "10_years_change": "-7 %"
+ },
+ {
+   "#": 535,
+   "zip_code": 50160,
+   "neighbourhood": "Kattilansilta",
+   "city": "Mikkeli - S:t Michel",
+   "avg_price_sq_m_2017": 1195,
+   "1_year_change": "8 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "7 %"
+ },
+ {
+   "#": 536,
+   "zip_code": 62900,
+   "neighbourhood": "Alajärvi Keskus",
+   "city": "Alajärvi",
+   "avg_price_sq_m_2017": 1195,
+   "1_year_change": "5 %",
+   "5_years_change": "0 %",
+   "10_years_change": "17 %"
+ },
+ {
+   "#": 537,
+   "zip_code": 87150,
+   "neighbourhood": "Purola",
+   "city": "Kajaani - Kajana",
+   "avg_price_sq_m_2017": 1195,
+   "1_year_change": "-14 %",
+   "5_years_change": "1 %",
+   "10_years_change": "21 %"
+ },
+ {
+   "#": 538,
+   "zip_code": 45360,
+   "neighbourhood": "Kukkuramäki",
+   "city": "Kouvola",
+   "avg_price_sq_m_2017": 1194,
+   "1_year_change": "-3 %",
+   "5_years_change": "-9 %",
+   "10_years_change": "-7 %"
+ },
+ {
+   "#": 539,
+   "zip_code": 93600,
+   "neighbourhood": "Kuusamo Keskus",
+   "city": "Kuusamo",
+   "avg_price_sq_m_2017": 1193,
+   "1_year_change": "-12 %",
+   "5_years_change": "-19 %",
+   "10_years_change": "5 %"
+ },
+ {
+   "#": 540,
+   "zip_code": 37830,
+   "neighbourhood": "Viiala Keskus",
+   "city": "Akaa",
+   "avg_price_sq_m_2017": 1192,
+   "1_year_change": "7 %",
+   "5_years_change": "2 %",
+   "10_years_change": "15 %"
+ },
+ {
+   "#": 541,
+   "zip_code": 61800,
+   "neighbourhood": "Kauhajoki Keskus",
+   "city": "Kauhajoki",
+   "avg_price_sq_m_2017": 1192,
+   "1_year_change": "-4 %",
+   "5_years_change": "-11 %",
+   "10_years_change": "19 %"
+ },
+ {
+   "#": 542,
+   "zip_code": 40340,
+   "neighbourhood": "Huhtasuo",
+   "city": "Jyväskylä",
+   "avg_price_sq_m_2017": 1190,
+   "1_year_change": "5 %",
+   "5_years_change": "4 %",
+   "10_years_change": "2 %"
+ },
+ {
+   "#": 543,
+   "zip_code": 57200,
+   "neighbourhood": "Miekonniemi-Venäjänniemi",
+   "city": "Savonlinna - Nyslott",
+   "avg_price_sq_m_2017": 1189,
+   "1_year_change": "-8 %",
+   "5_years_change": "-10 %",
+   "10_years_change": "2 %"
+ },
+ {
+   "#": 544,
+   "zip_code": 74130,
+   "neighbourhood": "Kihmula",
+   "city": "Iisalmi - Idensalmi",
+   "avg_price_sq_m_2017": 1189,
+   "1_year_change": "-5 %",
+   "5_years_change": "-16 %",
+   "10_years_change": "10 %"
+ },
+ {
+   "#": 545,
+   "zip_code": 37800,
+   "neighbourhood": "Toijala keskus",
+   "city": "Akaa",
+   "avg_price_sq_m_2017": 1186,
+   "1_year_change": "0 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "4 %"
+ },
+ {
+   "#": 546,
+   "zip_code": 68630,
+   "neighbourhood": "Kyrkostrand",
+   "city": "Pietarsaari - Jakobstad",
+   "avg_price_sq_m_2017": 1185,
+   "1_year_change": "-9 %",
+   "5_years_change": "12 %",
+   "10_years_change": "-2 %"
+ },
+ {
+   "#": 547,
+   "zip_code": 45610,
+   "neighbourhood": "Koria",
+   "city": "Kouvola",
+   "avg_price_sq_m_2017": 1183,
+   "1_year_change": "1 %",
+   "5_years_change": "3 %",
+   "10_years_change": "15 %"
+ },
+ {
+   "#": 548,
+   "zip_code": 48400,
+   "neighbourhood": "Sutela",
+   "city": "Kotka",
+   "avg_price_sq_m_2017": 1182,
+   "1_year_change": "-6 %",
+   "5_years_change": "-12 %",
+   "10_years_change": "-8 %"
+ },
+ {
+   "#": 549,
+   "zip_code": 31300,
+   "neighbourhood": "Tammela Keskus",
+   "city": "Tammela",
+   "avg_price_sq_m_2017": 1180,
+   "1_year_change": "-3 %",
+   "5_years_change": "-5 %",
+   "10_years_change": "3 %"
+ },
+ {
+   "#": 550,
+   "zip_code": 15170,
+   "neighbourhood": "Tenava-Tonttila",
+   "city": "Lahti",
+   "avg_price_sq_m_2017": 1177,
+   "1_year_change": "-4 %",
+   "5_years_change": "-9 %",
+   "10_years_change": "4 %"
+ },
+ {
+   "#": 551,
+   "zip_code": 20210,
+   "neighbourhood": "Pahaniemi",
+   "city": "Turku - Åbo",
+   "avg_price_sq_m_2017": 1167,
+   "1_year_change": "-8 %",
+   "5_years_change": "-5 %",
+   "10_years_change": "0 %"
+ },
+ {
+   "#": 552,
+   "zip_code": 81100,
+   "neighbourhood": "Kontiolahti",
+   "city": "Kontiolahti",
+   "avg_price_sq_m_2017": 1167,
+   "1_year_change": "-17 %",
+   "5_years_change": "-23 %",
+   "10_years_change": "-5 %"
+ },
+ {
+   "#": 553,
+   "zip_code": 13250,
+   "neighbourhood": "Katuma",
+   "city": "Hämeenlinna - Tavastehus",
+   "avg_price_sq_m_2017": 1163,
+   "1_year_change": "22 %",
+   "5_years_change": "-11 %",
+   "10_years_change": "19 %"
+ },
+ {
+   "#": 554,
+   "zip_code": 27510,
+   "neighbourhood": "Eura Keskus",
+   "city": "Eura",
+   "avg_price_sq_m_2017": 1161,
+   "1_year_change": "11 %",
+   "5_years_change": "0 %",
+   "10_years_change": "1 %"
+ },
+ {
+   "#": 555,
+   "zip_code": 61400,
+   "neighbourhood": "Ylistaro Keskus",
+   "city": "Seinäjoki",
+   "avg_price_sq_m_2017": 1157,
+   "1_year_change": "-2 %",
+   "5_years_change": "-9 %",
+   "10_years_change": "43 %"
+ },
+ {
+   "#": 556,
+   "zip_code": 23310,
+   "neighbourhood": "Taivassalo",
+   "city": "Taivassalo - Tövsala",
+   "avg_price_sq_m_2017": 1156,
+   "1_year_change": "20 %",
+   "5_years_change": "5 %",
+   "10_years_change": "13 %"
+ },
+ {
+   "#": 557,
+   "zip_code": 44500,
+   "neighbourhood": "Viitasaari Keskus",
+   "city": "Viitasaari",
+   "avg_price_sq_m_2017": 1155,
+   "1_year_change": "10 %",
+   "5_years_change": "8 %",
+   "10_years_change": "33 %"
+ },
+ {
+   "#": 558,
+   "zip_code": 24130,
+   "neighbourhood": "Ylhäisi",
+   "city": "Salo",
+   "avg_price_sq_m_2017": 1152,
+   "1_year_change": "-1 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "-8 %"
+ },
+ {
+   "#": 559,
+   "zip_code": 37630,
+   "neighbourhood": "Vääräkoivu",
+   "city": "Valkeakoski",
+   "avg_price_sq_m_2017": 1152,
+   "1_year_change": "-4 %",
+   "5_years_change": "-7 %",
+   "10_years_change": "-7 %"
+ },
+ {
+   "#": 560,
+   "zip_code": 25500,
+   "neighbourhood": "Perniö Keskus",
+   "city": "Salo",
+   "avg_price_sq_m_2017": 1150,
+   "1_year_change": "12 %",
+   "5_years_change": "7 %",
+   "10_years_change": "15 %"
+ },
+ {
+   "#": 561,
+   "zip_code": 31600,
+   "neighbourhood": "Jokioinen Keskus",
+   "city": "Jokioinen - Jockis",
+   "avg_price_sq_m_2017": 1149,
+   "1_year_change": "-3 %",
+   "5_years_change": "0 %",
+   "10_years_change": "12 %"
+ },
+ {
+   "#": 562,
+   "zip_code": 42100,
+   "neighbourhood": "Jämsä Keskus",
+   "city": "Jämsä",
+   "avg_price_sq_m_2017": 1149,
+   "1_year_change": "7 %",
+   "5_years_change": "-12 %",
+   "10_years_change": "-9 %"
+ },
+ {
+   "#": 563,
+   "zip_code": 64100,
+   "neighbourhood": "Kristiinankaupunki Keskus",
+   "city": "Kristiinankaupunki - Kristinestad",
+   "avg_price_sq_m_2017": 1142,
+   "1_year_change": "25 %",
+   "5_years_change": "30 %",
+   "10_years_change": "70 %"
+ },
+ {
+   "#": 564,
+   "zip_code": 96910,
+   "neighbourhood": "Syväsenvaara",
+   "city": "Rovaniemi",
+   "avg_price_sq_m_2017": 1142,
+   "1_year_change": "-22 %",
+   "5_years_change": "-22 %",
+   "10_years_change": "0 %"
+ },
+ {
+   "#": 565,
+   "zip_code": 54100,
+   "neighbourhood": "Joutseno Keskus",
+   "city": "Lappeenranta - Villmanstrand",
+   "avg_price_sq_m_2017": 1141,
+   "1_year_change": "-18 %",
+   "5_years_change": "-12 %",
+   "10_years_change": "-1 %"
+ },
+ {
+   "#": 566,
+   "zip_code": 56100,
+   "neighbourhood": "Ruokolahti Keskus",
+   "city": "Ruokolahti",
+   "avg_price_sq_m_2017": 1134,
+   "1_year_change": "-2 %",
+   "5_years_change": "-7 %",
+   "10_years_change": "1 %"
+ },
+ {
+   "#": 567,
+   "zip_code": 7920,
+   "neighbourhood": "Etelä-Harju",
+   "city": "Loviisa - Lovisa",
+   "avg_price_sq_m_2017": 1133,
+   "1_year_change": "-8 %",
+   "5_years_change": "-1 %",
+   "10_years_change": "6 %"
+ },
+ {
+   "#": 568,
+   "zip_code": 30420,
+   "neighbourhood": "Tölö",
+   "city": "Forssa",
+   "avg_price_sq_m_2017": 1130,
+   "1_year_change": "-3 %",
+   "5_years_change": "-5 %",
+   "10_years_change": "1 %"
+ },
+ {
+   "#": 569,
+   "zip_code": 92130,
+   "neighbourhood": "Isoholmi-Antinkangas",
+   "city": "Raahe - Brahestad",
+   "avg_price_sq_m_2017": 1129,
+   "1_year_change": "2 %",
+   "5_years_change": "-1 %",
+   "10_years_change": "8 %"
+ },
+ {
+   "#": 570,
+   "zip_code": 20460,
+   "neighbourhood": "Jäkärlä",
+   "city": "Turku - Åbo",
+   "avg_price_sq_m_2017": 1128,
+   "1_year_change": "-3 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "5 %"
+ },
+ {
+   "#": 571,
+   "zip_code": 37200,
+   "neighbourhood": "Siuro",
+   "city": "Nokia",
+   "avg_price_sq_m_2017": 1126,
+   "1_year_change": "-2 %",
+   "5_years_change": "11 %",
+   "10_years_change": "-4 %"
+ },
+ {
+   "#": 572,
+   "zip_code": 31400,
+   "neighbourhood": "Somero Keskus",
+   "city": "Somero",
+   "avg_price_sq_m_2017": 1123,
+   "1_year_change": "-5 %",
+   "5_years_change": "4 %",
+   "10_years_change": "10 %"
+ },
+ {
+   "#": 573,
+   "zip_code": 15830,
+   "neighbourhood": "Metsäkangas",
+   "city": "Lahti",
+   "avg_price_sq_m_2017": 1122,
+   "1_year_change": "-7 %",
+   "5_years_change": "-13 %",
+   "10_years_change": "-3 %"
+ },
+ {
+   "#": 574,
+   "zip_code": 12100,
+   "neighbourhood": "Oitti",
+   "city": "Hausjärvi",
+   "avg_price_sq_m_2017": 1119,
+   "1_year_change": "5 %",
+   "5_years_change": "-9 %",
+   "10_years_change": "3 %"
+ },
+ {
+   "#": 575,
+   "zip_code": 15500,
+   "neighbourhood": "Liipola",
+   "city": "Lahti",
+   "avg_price_sq_m_2017": 1118,
+   "1_year_change": "1 %",
+   "5_years_change": "-8 %",
+   "10_years_change": "0 %"
+ },
+ {
+   "#": 576,
+   "zip_code": 87300,
+   "neighbourhood": "Palokangas",
+   "city": "Kajaani - Kajana",
+   "avg_price_sq_m_2017": 1118,
+   "1_year_change": "-7 %",
+   "5_years_change": "-8 %",
+   "10_years_change": "18 %"
+ },
+ {
+   "#": 577,
+   "zip_code": 32700,
+   "neighbourhood": "Huittinen Keskus",
+   "city": "Huittinen",
+   "avg_price_sq_m_2017": 1115,
+   "1_year_change": "-1 %",
+   "5_years_change": "7 %",
+   "10_years_change": "15 %"
+ },
+ {
+   "#": 578,
+   "zip_code": 91100,
+   "neighbourhood": "Ii Keskus",
+   "city": "Ii",
+   "avg_price_sq_m_2017": 1115,
+   "1_year_change": "-1 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "-1 %"
+ },
+ {
+   "#": 579,
+   "zip_code": 3620,
+   "neighbourhood": "Polari",
+   "city": "Karkkila - Högfors",
+   "avg_price_sq_m_2017": 1114,
+   "1_year_change": "-3 %",
+   "5_years_change": "-14 %",
+   "10_years_change": "-22 %"
+ },
+ {
+   "#": 580,
+   "zip_code": 44100,
+   "neighbourhood": "Äänekoski Keskus",
+   "city": "Äänekoski",
+   "avg_price_sq_m_2017": 1114,
+   "1_year_change": "-4 %",
+   "5_years_change": "2 %",
+   "10_years_change": "4 %"
+ },
+ {
+   "#": 581,
+   "zip_code": 41800,
+   "neighbourhood": "Korpilahti Keskus",
+   "city": "Jyväskylä",
+   "avg_price_sq_m_2017": 1113,
+   "1_year_change": "-8 %",
+   "5_years_change": "-9 %",
+   "10_years_change": "9 %"
+ },
+ {
+   "#": 582,
+   "zip_code": 66900,
+   "neighbourhood": "Uusikaarlepyy Keskus",
+   "city": "Uusikaarlepyy - Nykarleby",
+   "avg_price_sq_m_2017": 1111,
+   "1_year_change": "10 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "6 %"
+ },
+ {
+   "#": 583,
+   "zip_code": 27500,
+   "neighbourhood": "Kauttua",
+   "city": "Eura",
+   "avg_price_sq_m_2017": 1107,
+   "1_year_change": "-3 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "28 %"
+ },
+ {
+   "#": 584,
+   "zip_code": 45130,
+   "neighbourhood": "Korjala-Kaunisnurmi",
+   "city": "Kouvola",
+   "avg_price_sq_m_2017": 1104,
+   "1_year_change": "-4 %",
+   "5_years_change": "-17 %",
+   "10_years_change": "-5 %"
+ },
+ {
+   "#": 585,
+   "zip_code": 28760,
+   "neighbourhood": "Kyläsaari",
+   "city": "Pori - Björneborg",
+   "avg_price_sq_m_2017": 1099,
+   "1_year_change": "-1 %",
+   "5_years_change": "-9 %",
+   "10_years_change": "13 %"
+ },
+ {
+   "#": 586,
+   "zip_code": 53950,
+   "neighbourhood": "Kivisalmi",
+   "city": "Lappeenranta - Villmanstrand",
+   "avg_price_sq_m_2017": 1090,
+   "1_year_change": "-15 %",
+   "5_years_change": "-18 %",
+   "10_years_change": "-8 %"
+ },
+ {
+   "#": 587,
+   "zip_code": 90560,
+   "neighbourhood": "Koskela-Oulu",
+   "city": "Oulu - Uleåborg",
+   "avg_price_sq_m_2017": 1089,
+   "1_year_change": "-10 %",
+   "5_years_change": "-14 %",
+   "10_years_change": "-20 %"
+ },
+ {
+   "#": 588,
+   "zip_code": 21800,
+   "neighbourhood": "Kyrö",
+   "city": "Pöytyä",
+   "avg_price_sq_m_2017": 1080,
+   "1_year_change": "-1 %",
+   "5_years_change": "3 %",
+   "10_years_change": "15 %"
+ },
+ {
+   "#": 589,
+   "zip_code": 42700,
+   "neighbourhood": "Keuruu Keskus",
+   "city": "Keuruu",
+   "avg_price_sq_m_2017": 1078,
+   "1_year_change": "1 %",
+   "5_years_change": "5 %",
+   "10_years_change": "20 %"
+ },
+ {
+   "#": 590,
+   "zip_code": 25900,
+   "neighbourhood": "Taalintehdas",
+   "city": "Kemiönsaari - Kimitoön",
+   "avg_price_sq_m_2017": 1068,
+   "1_year_change": "10 %",
+   "5_years_change": "-11 %",
+   "10_years_change": "11 %"
+ },
+ {
+   "#": 591,
+   "zip_code": 48600,
+   "neighbourhood": "Karhula",
+   "city": "Kotka",
+   "avg_price_sq_m_2017": 1068,
+   "1_year_change": "-10 %",
+   "5_years_change": "-10 %",
+   "10_years_change": "-8 %"
+ },
+ {
+   "#": 592,
+   "zip_code": 41160,
+   "neighbourhood": "Tikkakoski",
+   "city": "Jyväskylä",
+   "avg_price_sq_m_2017": 1067,
+   "1_year_change": "-22 %",
+   "5_years_change": "-23 %",
+   "10_years_change": "-13 %"
+ },
+ {
+   "#": 593,
+   "zip_code": 21570,
+   "neighbourhood": "Sauvo Keskus",
+   "city": "Sauvo - Sagu",
+   "avg_price_sq_m_2017": 1066,
+   "1_year_change": "-19 %",
+   "5_years_change": "-5 %",
+   "10_years_change": "-3 %"
+ },
+ {
+   "#": 594,
+   "zip_code": 45160,
+   "neighbourhood": "Lehtomäki",
+   "city": "Kouvola",
+   "avg_price_sq_m_2017": 1063,
+   "1_year_change": "15 %",
+   "5_years_change": "-5 %",
+   "10_years_change": "-5 %"
+ },
+ {
+   "#": 595,
+   "zip_code": 69600,
+   "neighbourhood": "Kaustinen Keskus",
+   "city": "Kaustinen - Kaustby",
+   "avg_price_sq_m_2017": 1055,
+   "1_year_change": "-20 %",
+   "5_years_change": "0 %",
+   "10_years_change": "19 %"
+ },
+ {
+   "#": 596,
+   "zip_code": 48770,
+   "neighbourhood": "Ristinkallio",
+   "city": "Kotka",
+   "avg_price_sq_m_2017": 1048,
+   "1_year_change": "16 %",
+   "5_years_change": "-12 %",
+   "10_years_change": "-11 %"
+ },
+ {
+   "#": 597,
+   "zip_code": 91500,
+   "neighbourhood": "Muhos Keskus",
+   "city": "Muhos",
+   "avg_price_sq_m_2017": 1043,
+   "1_year_change": "1 %",
+   "5_years_change": "-7 %",
+   "10_years_change": "2 %"
+ },
+ {
+   "#": 598,
+   "zip_code": 61300,
+   "neighbourhood": "Kurikka Keskus",
+   "city": "Kurikka",
+   "avg_price_sq_m_2017": 1042,
+   "1_year_change": "-4 %",
+   "5_years_change": "-17 %",
+   "10_years_change": "4 %"
+ },
+ {
+   "#": 599,
+   "zip_code": 94720,
+   "neighbourhood": "Peurasaari",
+   "city": "Kemi",
+   "avg_price_sq_m_2017": 1042,
+   "1_year_change": "-12 %",
+   "5_years_change": "-11 %",
+   "10_years_change": "-3 %"
+ },
+ {
+   "#": 600,
+   "zip_code": 24240,
+   "neighbourhood": "Rappula",
+   "city": "Salo",
+   "avg_price_sq_m_2017": 1041,
+   "1_year_change": "-11 %",
+   "5_years_change": "-27 %",
+   "10_years_change": "-18 %"
+ },
+ {
+   "#": 601,
+   "zip_code": 87400,
+   "neighbourhood": "Petäisenniska",
+   "city": "Kajaani - Kajana",
+   "avg_price_sq_m_2017": 1038,
+   "1_year_change": "-2 %",
+   "5_years_change": "-13 %",
+   "10_years_change": "-3 %"
+ },
+ {
+   "#": 602,
+   "zip_code": 95430,
+   "neighbourhood": "Suensaari",
+   "city": "Tornio - Torneå",
+   "avg_price_sq_m_2017": 1035,
+   "1_year_change": "-15 %",
+   "5_years_change": "-11 %",
+   "10_years_change": "2 %"
+ },
+ {
+   "#": 603,
+   "zip_code": 24260,
+   "neighbourhood": "Ollikkala",
+   "city": "Salo",
+   "avg_price_sq_m_2017": 1032,
+   "1_year_change": "-2 %",
+   "5_years_change": "-16 %",
+   "10_years_change": "-11 %"
+ },
+ {
+   "#": 604,
+   "zip_code": 57210,
+   "neighbourhood": "Nojanmaa",
+   "city": "Savonlinna - Nyslott",
+   "avg_price_sq_m_2017": 1032,
+   "1_year_change": "-6 %",
+   "5_years_change": "-12 %",
+   "10_years_change": "5 %"
+ },
+ {
+   "#": 605,
+   "zip_code": 31500,
+   "neighbourhood": "Koski Tl",
+   "city": "Koski Tl",
+   "avg_price_sq_m_2017": 1030,
+   "1_year_change": "34 %",
+   "5_years_change": "5 %",
+   "10_years_change": "36 %"
+ },
+ {
+   "#": 606,
+   "zip_code": 94600,
+   "neighbourhood": "Ristikangas-Kivikko",
+   "city": "Kemi",
+   "avg_price_sq_m_2017": 1030,
+   "1_year_change": "21 %",
+   "5_years_change": "-11 %",
+   "10_years_change": "-1 %"
+ },
+ {
+   "#": 607,
+   "zip_code": 65370,
+   "neighbourhood": "Ristinummi",
+   "city": "Vaasa - Vasa",
+   "avg_price_sq_m_2017": 1028,
+   "1_year_change": "1 %",
+   "5_years_change": "-11 %",
+   "10_years_change": "13 %"
+ },
+ {
+   "#": 608,
+   "zip_code": 90580,
+   "neighbourhood": "Rajakylä",
+   "city": "Oulu - Uleåborg",
+   "avg_price_sq_m_2017": 1028,
+   "1_year_change": "-6 %",
+   "5_years_change": "-23 %",
+   "10_years_change": "-19 %"
+ },
+ {
+   "#": 609,
+   "zip_code": 49410,
+   "neighbourhood": "Poitsila",
+   "city": "Hamina - Fredrikshamn",
+   "avg_price_sq_m_2017": 1027,
+   "1_year_change": "14 %",
+   "5_years_change": "5 %",
+   "10_years_change": "-7 %"
+ },
+ {
+   "#": 610,
+   "zip_code": 45200,
+   "neighbourhood": "Tornionmäki",
+   "city": "Kouvola",
+   "avg_price_sq_m_2017": 1023,
+   "1_year_change": "-5 %",
+   "5_years_change": "-11 %",
+   "10_years_change": "-6 %"
+ },
+ {
+   "#": 611,
+   "zip_code": 61500,
+   "neighbourhood": "Isokyrö Keskus",
+   "city": "Isokyrö - Storkyro",
+   "avg_price_sq_m_2017": 1021,
+   "1_year_change": "18 %",
+   "5_years_change": "10 %",
+   "10_years_change": "46 %"
+ },
+ {
+   "#": 612,
+   "zip_code": 75530,
+   "neighbourhood": "Porokylä",
+   "city": "Nurmes",
+   "avg_price_sq_m_2017": 1021,
+   "1_year_change": "17 %",
+   "5_years_change": "6 %",
+   "10_years_change": "33 %"
+ },
+ {
+   "#": 613,
+   "zip_code": 67800,
+   "neighbourhood": "Koivuhaka",
+   "city": "Kokkola - Karleby",
+   "avg_price_sq_m_2017": 1019,
+   "1_year_change": "-4 %",
+   "5_years_change": "-11 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 614,
+   "zip_code": 12400,
+   "neighbourhood": "Tervakoski",
+   "city": "Janakkala",
+   "avg_price_sq_m_2017": 1018,
+   "1_year_change": "-12 %",
+   "5_years_change": "-16 %",
+   "10_years_change": "-2 %"
+ },
+ {
+   "#": 615,
+   "zip_code": 55120,
+   "neighbourhood": "Mansikkala-Tuulikallio",
+   "city": "Imatra",
+   "avg_price_sq_m_2017": 1017,
+   "1_year_change": "18 %",
+   "5_years_change": "0 %",
+   "10_years_change": "-6 %"
+ },
+ {
+   "#": 616,
+   "zip_code": 38460,
+   "neighbourhood": "Mouhijärvi Keskus",
+   "city": "Sastamala",
+   "avg_price_sq_m_2017": 1015,
+   "1_year_change": "-21 %",
+   "5_years_change": "-19 %",
+   "10_years_change": "16 %"
+ },
+ {
+   "#": 617,
+   "zip_code": 16900,
+   "neighbourhood": "Lammi kk",
+   "city": "Hämeenlinna - Tavastehus",
+   "avg_price_sq_m_2017": 1010,
+   "1_year_change": "-2 %",
+   "5_years_change": "-18 %",
+   "10_years_change": "3 %"
+ },
+ {
+   "#": 618,
+   "zip_code": 19650,
+   "neighbourhood": "Joutsa Keskus",
+   "city": "Joutsa",
+   "avg_price_sq_m_2017": 1009,
+   "1_year_change": "2 %",
+   "5_years_change": "6 %",
+   "10_years_change": "11 %"
+ },
+ {
+   "#": 619,
+   "zip_code": 26820,
+   "neighbourhood": "Sampaanala",
+   "city": "Rauma - Raumo",
+   "avg_price_sq_m_2017": 1009,
+   "1_year_change": "6 %",
+   "5_years_change": "-10 %",
+   "10_years_change": "0 %"
+ },
+ {
+   "#": 620,
+   "zip_code": 16600,
+   "neighbourhood": "Järvelä",
+   "city": "Kärkölä",
+   "avg_price_sq_m_2017": 1004,
+   "1_year_change": "8 %",
+   "5_years_change": "-16 %",
+   "10_years_change": "-7 %"
+ },
+ {
+   "#": 621,
+   "zip_code": 45740,
+   "neighbourhood": "Maunuksela",
+   "city": "Iitti",
+   "avg_price_sq_m_2017": 1000,
+   "1_year_change": "9 %",
+   "5_years_change": "-14 %",
+   "10_years_change": "-12 %"
+ },
+ {
+   "#": 622,
+   "zip_code": 45700,
+   "neighbourhood": "Kuusankoski Keskus",
+   "city": "Kouvola",
+   "avg_price_sq_m_2017": 999,
+   "1_year_change": "-10 %",
+   "5_years_change": "-12 %",
+   "10_years_change": "-2 %"
+ },
+ {
+   "#": 623,
+   "zip_code": 21870,
+   "neighbourhood": "Riihikoski",
+   "city": "Pöytyä",
+   "avg_price_sq_m_2017": 998,
+   "1_year_change": "-16 %",
+   "5_years_change": "-20 %",
+   "10_years_change": "-4 %"
+ },
+ {
+   "#": 624,
+   "zip_code": 23600,
+   "neighbourhood": "Kalanti Keskus",
+   "city": "Uusikaupunki - Nystad",
+   "avg_price_sq_m_2017": 997,
+   "1_year_change": "7 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "17 %"
+ },
+ {
+   "#": 625,
+   "zip_code": 96440,
+   "neighbourhood": "Ounasrinne",
+   "city": "Rovaniemi",
+   "avg_price_sq_m_2017": 996,
+   "1_year_change": "1 %",
+   "5_years_change": "-13 %",
+   "10_years_change": "-3 %"
+ },
+ {
+   "#": 626,
+   "zip_code": 69100,
+   "neighbourhood": "Kannus Keskus",
+   "city": "Kannus",
+   "avg_price_sq_m_2017": 994,
+   "1_year_change": "9 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "31 %"
+ },
+ {
+   "#": 627,
+   "zip_code": 44150,
+   "neighbourhood": "Likolahti-Karhunlähde",
+   "city": "Äänekoski",
+   "avg_price_sq_m_2017": 993,
+   "1_year_change": "15 %",
+   "5_years_change": "8 %",
+   "10_years_change": "15 %"
+ },
+ {
+   "#": 628,
+   "zip_code": 39500,
+   "neighbourhood": "Ikaalinen Keskus",
+   "city": "Ikaalinen - Ikalis",
+   "avg_price_sq_m_2017": 992,
+   "1_year_change": "-6 %",
+   "5_years_change": "-11 %",
+   "10_years_change": "-10 %"
+ },
+ {
+   "#": 629,
+   "zip_code": 48200,
+   "neighbourhood": "Hovinsaari",
+   "city": "Kotka",
+   "avg_price_sq_m_2017": 990,
+   "1_year_change": "4 %",
+   "5_years_change": "-11 %",
+   "10_years_change": "0 %"
+ },
+ {
+   "#": 630,
+   "zip_code": 64200,
+   "neighbourhood": "Närpiö Keskus",
+   "city": "Närpiö - Närpes",
+   "avg_price_sq_m_2017": 986,
+   "1_year_change": "-13 %",
+   "5_years_change": "-7 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 631,
+   "zip_code": 78400,
+   "neighbourhood": "Luttila",
+   "city": "Varkaus",
+   "avg_price_sq_m_2017": 986,
+   "1_year_change": "8 %",
+   "5_years_change": "3 %",
+   "10_years_change": "-3 %"
+ },
+ {
+   "#": 632,
+   "zip_code": 21140,
+   "neighbourhood": "Rymättylä Keskus",
+   "city": "Naantali - Nådendal",
+   "avg_price_sq_m_2017": 984,
+   "1_year_change": "11 %",
+   "5_years_change": "2 %",
+   "10_years_change": "-22 %"
+ },
+ {
+   "#": 633,
+   "zip_code": 31760,
+   "neighbourhood": "Urjala Keskus",
+   "city": "Urjala",
+   "avg_price_sq_m_2017": 980,
+   "1_year_change": "6 %",
+   "5_years_change": "-15 %",
+   "10_years_change": "-4 %"
+ },
+ {
+   "#": 634,
+   "zip_code": 62300,
+   "neighbourhood": "Härmä",
+   "city": "Kauhava",
+   "avg_price_sq_m_2017": 978,
+   "1_year_change": "-13 %",
+   "5_years_change": "1 %",
+   "10_years_change": "17 %"
+ },
+ {
+   "#": 635,
+   "zip_code": 62375,
+   "neighbourhood": "Ylihärmä Keskus-Vesiluoma",
+   "city": "Kauhava",
+   "avg_price_sq_m_2017": 978,
+   "1_year_change": "9 %",
+   "5_years_change": "21 %",
+   "10_years_change": "9 %"
+ },
+ {
+   "#": 636,
+   "zip_code": 43500,
+   "neighbourhood": "Karstula Keskus",
+   "city": "Karstula",
+   "avg_price_sq_m_2017": 977,
+   "1_year_change": "9 %",
+   "5_years_change": "1 %",
+   "10_years_change": "22 %"
+ },
+ {
+   "#": 637,
+   "zip_code": 48700,
+   "neighbourhood": "Kyminlinna",
+   "city": "Kotka",
+   "avg_price_sq_m_2017": 977,
+   "1_year_change": "-1 %",
+   "5_years_change": "-7 %",
+   "10_years_change": "-2 %"
+ },
+ {
+   "#": 638,
+   "zip_code": 87500,
+   "neighbourhood": "Lehtikangas",
+   "city": "Kajaani - Kajana",
+   "avg_price_sq_m_2017": 976,
+   "1_year_change": "5 %",
+   "5_years_change": "-22 %",
+   "10_years_change": "-8 %"
+ },
+ {
+   "#": 639,
+   "zip_code": 94450,
+   "neighbourhood": "Lassila-Jokisuu",
+   "city": "Keminmaa",
+   "avg_price_sq_m_2017": 976,
+   "1_year_change": "-14 %",
+   "5_years_change": "-17 %",
+   "10_years_change": "-7 %"
+ },
+ {
+   "#": 640,
+   "zip_code": 14700,
+   "neighbourhood": "Hauho kk",
+   "city": "Hämeenlinna - Tavastehus",
+   "avg_price_sq_m_2017": 973,
+   "1_year_change": "12 %",
+   "5_years_change": "-11 %",
+   "10_years_change": "-5 %"
+ },
+ {
+   "#": 641,
+   "zip_code": 94400,
+   "neighbourhood": "Keminmaa Keskus",
+   "city": "Keminmaa",
+   "avg_price_sq_m_2017": 970,
+   "1_year_change": "-4 %",
+   "5_years_change": "5 %",
+   "10_years_change": "29 %"
+ },
+ {
+   "#": 642,
+   "zip_code": 74700,
+   "neighbourhood": "Kiuruvesi Keskus",
+   "city": "Kiuruvesi",
+   "avg_price_sq_m_2017": 967,
+   "1_year_change": "14 %",
+   "5_years_change": "1 %",
+   "10_years_change": "24 %"
+ },
+ {
+   "#": 643,
+   "zip_code": 23200,
+   "neighbourhood": "Vinkkilä",
+   "city": "Vehmaa",
+   "avg_price_sq_m_2017": 965,
+   "1_year_change": "-6 %",
+   "5_years_change": "4 %",
+   "10_years_change": "45 %"
+ },
+ {
+   "#": 644,
+   "zip_code": 28450,
+   "neighbourhood": "Vanha-Ulvila",
+   "city": "Ulvila - Ulvsby",
+   "avg_price_sq_m_2017": 965,
+   "1_year_change": "-16 %",
+   "5_years_change": "-13 %",
+   "10_years_change": "-5 %"
+ },
+ {
+   "#": 645,
+   "zip_code": 41520,
+   "neighbourhood": "Hankasalmi Keskus",
+   "city": "Hankasalmi",
+   "avg_price_sq_m_2017": 965,
+   "1_year_change": "23 %",
+   "5_years_change": "3 %",
+   "10_years_change": "5 %"
+ },
+ {
+   "#": 646,
+   "zip_code": 86300,
+   "neighbourhood": "Oulainen Keskus",
+   "city": "Oulainen",
+   "avg_price_sq_m_2017": 964,
+   "1_year_change": "-6 %",
+   "5_years_change": "-13 %",
+   "10_years_change": "4 %"
+ },
+ {
+   "#": 647,
+   "zip_code": 51900,
+   "neighbourhood": "Juva Keskus",
+   "city": "Juva",
+   "avg_price_sq_m_2017": 962,
+   "1_year_change": "-15 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "-2 %"
+ },
+ {
+   "#": 648,
+   "zip_code": 99600,
+   "neighbourhood": "Sodankylä Keskus",
+   "city": "Sodankylä",
+   "avg_price_sq_m_2017": 952,
+   "1_year_change": "-6 %",
+   "5_years_change": "-18 %",
+   "10_years_change": "39 %"
+ },
+ {
+   "#": 649,
+   "zip_code": 79100,
+   "neighbourhood": "Leppävirta Keskus",
+   "city": "Leppävirta",
+   "avg_price_sq_m_2017": 951,
+   "1_year_change": "5 %",
+   "5_years_change": "-18 %",
+   "10_years_change": "-5 %"
+ },
+ {
+   "#": 650,
+   "zip_code": 63300,
+   "neighbourhood": "Alavus Keskus",
+   "city": "Alavus",
+   "avg_price_sq_m_2017": 946,
+   "1_year_change": "-25 %",
+   "5_years_change": "-18 %",
+   "10_years_change": "-7 %"
+ },
+ {
+   "#": 651,
+   "zip_code": 10420,
+   "neighbourhood": "Pohjankuru",
+   "city": "Raasepori - Raseborg",
+   "avg_price_sq_m_2017": 945,
+   "1_year_change": "7 %",
+   "5_years_change": "-12 %",
+   "10_years_change": "3 %"
+ },
+ {
+   "#": 652,
+   "zip_code": 52550,
+   "neighbourhood": "Hirvensalmi Keskus",
+   "city": "Hirvensalmi",
+   "avg_price_sq_m_2017": 937,
+   "1_year_change": "-11 %",
+   "5_years_change": "-17 %",
+   "10_years_change": "-9 %"
+ },
+ {
+   "#": 653,
+   "zip_code": 93100,
+   "neighbourhood": "Pudasjärvi Keskus",
+   "city": "Pudasjärvi",
+   "avg_price_sq_m_2017": 924,
+   "1_year_change": "-3 %",
+   "5_years_change": "5 %",
+   "10_years_change": "20 %"
+ },
+ {
+   "#": 654,
+   "zip_code": 38710,
+   "neighbourhood": "Myllymäki",
+   "city": "Kankaanpää",
+   "avg_price_sq_m_2017": 923,
+   "1_year_change": "0 %",
+   "5_years_change": "3 %",
+   "10_years_change": "13 %"
+ },
+ {
+   "#": 655,
+   "zip_code": 54800,
+   "neighbourhood": "Savitaipale Keskus",
+   "city": "Savitaipale",
+   "avg_price_sq_m_2017": 923,
+   "1_year_change": "7 %",
+   "5_years_change": "-34 %",
+   "10_years_change": "-9 %"
+ },
+ {
+   "#": 656,
+   "zip_code": 73100,
+   "neighbourhood": "Lapinlahti Keskus",
+   "city": "Lapinlahti",
+   "avg_price_sq_m_2017": 917,
+   "1_year_change": "-1 %",
+   "5_years_change": "-21 %",
+   "10_years_change": "2 %"
+ },
+ {
+   "#": 657,
+   "zip_code": 34800,
+   "neighbourhood": "Virrat Keskus",
+   "city": "Virrat - Virdois",
+   "avg_price_sq_m_2017": 913,
+   "1_year_change": "-2 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "5 %"
+ },
+ {
+   "#": 658,
+   "zip_code": 17800,
+   "neighbourhood": "Kuhmoinen Keskus",
+   "city": "Kuhmoinen",
+   "avg_price_sq_m_2017": 912,
+   "1_year_change": "11 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "3 %"
+ },
+ {
+   "#": 659,
+   "zip_code": 39700,
+   "neighbourhood": "Parkano Keskus",
+   "city": "Parkano",
+   "avg_price_sq_m_2017": 912,
+   "1_year_change": "-6 %",
+   "5_years_change": "-11 %",
+   "10_years_change": "6 %"
+ },
+ {
+   "#": 660,
+   "zip_code": 45150,
+   "neighbourhood": "Kankaronmäki-Eskolanmäki",
+   "city": "Kouvola",
+   "avg_price_sq_m_2017": 908,
+   "1_year_change": "-6 %",
+   "5_years_change": "-17 %",
+   "10_years_change": "-9 %"
+ },
+ {
+   "#": 661,
+   "zip_code": 78850,
+   "neighbourhood": "Käpykangas",
+   "city": "Joroinen - Jorois",
+   "avg_price_sq_m_2017": 908,
+   "1_year_change": "-6 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "-4 %"
+ },
+ {
+   "#": 662,
+   "zip_code": 28190,
+   "neighbourhood": "Pormestarinluoto",
+   "city": "Pori - Björneborg",
+   "avg_price_sq_m_2017": 905,
+   "1_year_change": "-7 %",
+   "5_years_change": "4 %",
+   "10_years_change": "0 %"
+ },
+ {
+   "#": 663,
+   "zip_code": 96500,
+   "neighbourhood": "Korkalovaara",
+   "city": "Rovaniemi",
+   "avg_price_sq_m_2017": 904,
+   "1_year_change": "-2 %",
+   "5_years_change": "-18 %",
+   "10_years_change": "-4 %"
+ },
+ {
+   "#": 664,
+   "zip_code": 28330,
+   "neighbourhood": "Koivistonluoto",
+   "city": "Pori - Björneborg",
+   "avg_price_sq_m_2017": 898,
+   "1_year_change": "9 %",
+   "5_years_change": "-11 %",
+   "10_years_change": "-11 %"
+ },
+ {
+   "#": 665,
+   "zip_code": 52700,
+   "neighbourhood": "Mäntyharju Keskus",
+   "city": "Mäntyharju",
+   "avg_price_sq_m_2017": 890,
+   "1_year_change": "-8 %",
+   "5_years_change": "-9 %",
+   "10_years_change": "3 %"
+ },
+ {
+   "#": 666,
+   "zip_code": 94100,
+   "neighbourhood": "Kemi Keskus",
+   "city": "Kemi",
+   "avg_price_sq_m_2017": 884,
+   "1_year_change": "-12 %",
+   "5_years_change": "-22 %",
+   "10_years_change": "-11 %"
+ },
+ {
+   "#": 667,
+   "zip_code": 51200,
+   "neighbourhood": "Kangasniemi Keskus",
+   "city": "Kangasniemi",
+   "avg_price_sq_m_2017": 881,
+   "1_year_change": "-20 %",
+   "5_years_change": "-18 %",
+   "10_years_change": "-10 %"
+ },
+ {
+   "#": 668,
+   "zip_code": 77600,
+   "neighbourhood": "Suonenjoki Keskus",
+   "city": "Suonenjoki",
+   "avg_price_sq_m_2017": 878,
+   "1_year_change": "5 %",
+   "5_years_change": "-10 %",
+   "10_years_change": "6 %"
+ },
+ {
+   "#": 669,
+   "zip_code": 82500,
+   "neighbourhood": "Kitee Keskus",
+   "city": "Kitee",
+   "avg_price_sq_m_2017": 877,
+   "1_year_change": "-11 %",
+   "5_years_change": "-14 %",
+   "10_years_change": "-7 %"
+ },
+ {
+   "#": 670,
+   "zip_code": 40820,
+   "neighbourhood": "Vuoritsalo",
+   "city": "Jyväskylä",
+   "avg_price_sq_m_2017": 876,
+   "1_year_change": "-44 %",
+   "5_years_change": "-34 %",
+   "10_years_change": "-3 %"
+ },
+ {
+   "#": 671,
+   "zip_code": 64260,
+   "neighbourhood": "Kaskinen",
+   "city": "Närpiö - Närpes",
+   "avg_price_sq_m_2017": 876,
+   "1_year_change": "35 %",
+   "5_years_change": "58 %",
+   "10_years_change": "72 %"
+ },
+ {
+   "#": 672,
+   "zip_code": 86800,
+   "neighbourhood": "Pyhäsalmi",
+   "city": "Pyhäjärvi",
+   "avg_price_sq_m_2017": 874,
+   "1_year_change": "-9 %",
+   "5_years_change": "1 %",
+   "10_years_change": "13 %"
+ },
+ {
+   "#": 673,
+   "zip_code": 63700,
+   "neighbourhood": "Ähtäri Keskus",
+   "city": "Ähtäri - Etseri",
+   "avg_price_sq_m_2017": 872,
+   "1_year_change": "-9 %",
+   "5_years_change": "-19 %",
+   "10_years_change": "-10 %"
+ },
+ {
+   "#": 674,
+   "zip_code": 85800,
+   "neighbourhood": "Haapajärvi Keskus",
+   "city": "Haapajärvi",
+   "avg_price_sq_m_2017": 871,
+   "1_year_change": "-16 %",
+   "5_years_change": "-15 %",
+   "10_years_change": "4 %"
+ },
+ {
+   "#": 675,
+   "zip_code": 43100,
+   "neighbourhood": "Saarijärvi Keskus",
+   "city": "Saarijärvi",
+   "avg_price_sq_m_2017": 870,
+   "1_year_change": "-20 %",
+   "5_years_change": "-23 %",
+   "10_years_change": "4 %"
+ },
+ {
+   "#": 676,
+   "zip_code": 78250,
+   "neighbourhood": "Päiviönsaari",
+   "city": "Varkaus",
+   "avg_price_sq_m_2017": 870,
+   "1_year_change": "7 %",
+   "5_years_change": "-8 %",
+   "10_years_change": "-14 %"
+ },
+ {
+   "#": 677,
+   "zip_code": 77700,
+   "neighbourhood": "Rautalampi Keskus",
+   "city": "Rautalampi",
+   "avg_price_sq_m_2017": 869,
+   "1_year_change": "-3 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "17 %"
+ },
+ {
+   "#": 678,
+   "zip_code": 59100,
+   "neighbourhood": "Parikkala Keskus",
+   "city": "Parikkala",
+   "avg_price_sq_m_2017": 868,
+   "1_year_change": "-9 %",
+   "5_years_change": "-1 %",
+   "10_years_change": "-15 %"
+ },
+ {
+   "#": 679,
+   "zip_code": 49420,
+   "neighbourhood": "Uusi-Summa",
+   "city": "Hamina - Fredrikshamn",
+   "avg_price_sq_m_2017": 867,
+   "1_year_change": "-21 %",
+   "5_years_change": "-21 %",
+   "10_years_change": "-23 %"
+ },
+ {
+   "#": 680,
+   "zip_code": 17500,
+   "neighbourhood": "Padasjoki Keskus",
+   "city": "Padasjoki",
+   "avg_price_sq_m_2017": 866,
+   "1_year_change": "2 %",
+   "5_years_change": "-12 %",
+   "10_years_change": "-10 %"
+ },
+ {
+   "#": 681,
+   "zip_code": 18150,
+   "neighbourhood": "Jyränkö",
+   "city": "Heinola",
+   "avg_price_sq_m_2017": 857,
+   "1_year_change": "-16 %",
+   "5_years_change": "-14 %",
+   "10_years_change": "-24 %"
+ },
+ {
+   "#": 682,
+   "zip_code": 32210,
+   "neighbourhood": "Loimaa kk",
+   "city": "Loimaa",
+   "avg_price_sq_m_2017": 857,
+   "1_year_change": "-8 %",
+   "5_years_change": "-13 %",
+   "10_years_change": "4 %"
+ },
+ {
+   "#": 683,
+   "zip_code": 57230,
+   "neighbourhood": "Inkerinkylä",
+   "city": "Savonlinna - Nyslott",
+   "avg_price_sq_m_2017": 855,
+   "1_year_change": "22 %",
+   "5_years_change": "-7 %",
+   "10_years_change": "4 %"
+ },
+ {
+   "#": 684,
+   "zip_code": 81200,
+   "neighbourhood": "Eno Keskus",
+   "city": "Joensuu",
+   "avg_price_sq_m_2017": 855,
+   "1_year_change": "13 %",
+   "5_years_change": "-7 %",
+   "10_years_change": "6 %"
+ },
+ {
+   "#": 685,
+   "zip_code": 29200,
+   "neighbourhood": "Harjavalta Keskus",
+   "city": "Harjavalta",
+   "avg_price_sq_m_2017": 853,
+   "1_year_change": "3 %",
+   "5_years_change": "-8 %",
+   "10_years_change": "6 %"
+ },
+ {
+   "#": 686,
+   "zip_code": 81700,
+   "neighbourhood": "Lieksa Keskus",
+   "city": "Lieksa",
+   "avg_price_sq_m_2017": 853,
+   "1_year_change": "2 %",
+   "5_years_change": "1 %",
+   "10_years_change": "31 %"
+ },
+ {
+   "#": 687,
+   "zip_code": 62200,
+   "neighbourhood": "Kauhava Keskus",
+   "city": "Kauhava",
+   "avg_price_sq_m_2017": 849,
+   "1_year_change": "-19 %",
+   "5_years_change": "-25 %",
+   "10_years_change": "-4 %"
+ },
+ {
+   "#": 688,
+   "zip_code": 47400,
+   "neighbourhood": "Kausala",
+   "city": "Iitti",
+   "avg_price_sq_m_2017": 846,
+   "1_year_change": "-16 %",
+   "5_years_change": "-24 %",
+   "10_years_change": "-11 %"
+ },
+ {
+   "#": 689,
+   "zip_code": 83700,
+   "neighbourhood": "Polvijärvi Keskus",
+   "city": "Polvijärvi",
+   "avg_price_sq_m_2017": 844,
+   "1_year_change": "11 %",
+   "5_years_change": "7 %",
+   "10_years_change": "-7 %"
+ },
+ {
+   "#": 690,
+   "zip_code": 39200,
+   "neighbourhood": "Kyröskoski",
+   "city": "Hämeenkyrö - Tavastkyro",
+   "avg_price_sq_m_2017": 839,
+   "1_year_change": "-21 %",
+   "5_years_change": "-26 %",
+   "10_years_change": "-11 %"
+ },
+ {
+   "#": 691,
+   "zip_code": 75500,
+   "neighbourhood": "Nurmes Keskus",
+   "city": "Nurmes",
+   "avg_price_sq_m_2017": 839,
+   "1_year_change": "12 %",
+   "5_years_change": "12 %",
+   "10_years_change": "30 %"
+ },
+ {
+   "#": 692,
+   "zip_code": 78200,
+   "neighbourhood": "Varkaus Keskus",
+   "city": "Leppävirta",
+   "avg_price_sq_m_2017": 837,
+   "1_year_change": "-6 %",
+   "5_years_change": "-8 %",
+   "10_years_change": "-11 %"
+ },
+ {
+   "#": 693,
+   "zip_code": 18130,
+   "neighbourhood": "Tommola-Sahanniemi",
+   "city": "Heinola",
+   "avg_price_sq_m_2017": 836,
+   "1_year_change": "7 %",
+   "5_years_change": "6 %",
+   "10_years_change": "-14 %"
+ },
+ {
+   "#": 694,
+   "zip_code": 97700,
+   "neighbourhood": "Ranua Keskus",
+   "city": "Ranua",
+   "avg_price_sq_m_2017": 831,
+   "1_year_change": "15 %",
+   "5_years_change": "20 %",
+   "10_years_change": "46 %"
+ },
+ {
+   "#": 695,
+   "zip_code": 78870,
+   "neighbourhood": "Kaura-Aho",
+   "city": "Varkaus",
+   "avg_price_sq_m_2017": 827,
+   "1_year_change": "-18 %",
+   "5_years_change": "-13 %",
+   "10_years_change": "-17 %"
+ },
+ {
+   "#": 696,
+   "zip_code": 29250,
+   "neighbourhood": "Nakkila Keskus",
+   "city": "Nakkila",
+   "avg_price_sq_m_2017": 824,
+   "1_year_change": "-11 %",
+   "5_years_change": "-24 %",
+   "10_years_change": "-7 %"
+ },
+ {
+   "#": 697,
+   "zip_code": 76120,
+   "neighbourhood": "Kontiopuisto",
+   "city": "Pieksämäki",
+   "avg_price_sq_m_2017": 823,
+   "1_year_change": "12 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "26 %"
+ },
+ {
+   "#": 698,
+   "zip_code": 54500,
+   "neighbourhood": "Taavetti-Somerharju",
+   "city": "Luumäki",
+   "avg_price_sq_m_2017": 822,
+   "1_year_change": "-12 %",
+   "5_years_change": "-10 %",
+   "10_years_change": "-13 %"
+ },
+ {
+   "#": 699,
+   "zip_code": 44800,
+   "neighbourhood": "Pihtipudas Keskus",
+   "city": "Pihtipudas",
+   "avg_price_sq_m_2017": 813,
+   "1_year_change": "-26 %",
+   "5_years_change": "-22 %",
+   "10_years_change": "-9 %"
+ },
+ {
+   "#": 700,
+   "zip_code": 92150,
+   "neighbourhood": "Kummatti-Junnilanmäki",
+   "city": "Raahe - Brahestad",
+   "avg_price_sq_m_2017": 812,
+   "1_year_change": "-18 %",
+   "5_years_change": "-16 %",
+   "10_years_change": "-3 %"
+ },
+ {
+   "#": 701,
+   "zip_code": 64700,
+   "neighbourhood": "Teuva Keskus",
+   "city": "Teuva - Östermark",
+   "avg_price_sq_m_2017": 808,
+   "1_year_change": "8 %",
+   "5_years_change": "-7 %",
+   "10_years_change": "40 %"
+ },
+ {
+   "#": 702,
+   "zip_code": 19600,
+   "neighbourhood": "Hartola Keskus",
+   "city": "Hartola",
+   "avg_price_sq_m_2017": 807,
+   "1_year_change": "16 %",
+   "5_years_change": "-19 %",
+   "10_years_change": "-14 %"
+ },
+ {
+   "#": 703,
+   "zip_code": 34600,
+   "neighbourhood": "Ruovesi Keskus-Nenonen",
+   "city": "Ruovesi",
+   "avg_price_sq_m_2017": 804,
+   "1_year_change": "-6 %",
+   "5_years_change": "-3 %",
+   "10_years_change": "1 %"
+ },
+ {
+   "#": 704,
+   "zip_code": 41400,
+   "neighbourhood": "Lievestuore",
+   "city": "Laukaa",
+   "avg_price_sq_m_2017": 797,
+   "1_year_change": "-8 %",
+   "5_years_change": "-26 %",
+   "10_years_change": "-20 %"
+ },
+ {
+   "#": 705,
+   "zip_code": 19700,
+   "neighbourhood": "Sysmä Keskus",
+   "city": "Sysmä",
+   "avg_price_sq_m_2017": 794,
+   "1_year_change": "7 %",
+   "5_years_change": "-18 %",
+   "10_years_change": "-7 %"
+ },
+ {
+   "#": 706,
+   "zip_code": 68660,
+   "neighbourhood": "Östermalm-Björnholmen",
+   "city": "Pietarsaari - Jakobstad",
+   "avg_price_sq_m_2017": 787,
+   "1_year_change": "-12 %",
+   "5_years_change": "3 %",
+   "10_years_change": "-6 %"
+ },
+ {
+   "#": 707,
+   "zip_code": 82200,
+   "neighbourhood": "Hammaslahti",
+   "city": "Joensuu",
+   "avg_price_sq_m_2017": 782,
+   "1_year_change": "-13 %",
+   "5_years_change": "-23 %",
+   "10_years_change": "-12 %"
+ },
+ {
+   "#": 708,
+   "zip_code": 32800,
+   "neighbourhood": "Kokemäki Keskus",
+   "city": "Kokemäki - Kumo",
+   "avg_price_sq_m_2017": 779,
+   "1_year_change": "-7 %",
+   "5_years_change": "-18 %",
+   "10_years_change": "-14 %"
+ },
+ {
+   "#": 709,
+   "zip_code": 83100,
+   "neighbourhood": "Liperi Keskus",
+   "city": "Liperi",
+   "avg_price_sq_m_2017": 775,
+   "1_year_change": "-4 %",
+   "5_years_change": "-22 %",
+   "10_years_change": "-7 %"
+ },
+ {
+   "#": 710,
+   "zip_code": 18300,
+   "neighbourhood": "Heinola kk",
+   "city": "Heinola",
+   "avg_price_sq_m_2017": 772,
+   "1_year_change": "13 %",
+   "5_years_change": "-3 %",
+   "10_years_change": "-12 %"
+ },
+ {
+   "#": 711,
+   "zip_code": 32740,
+   "neighbourhood": "Äetsä Keskus",
+   "city": "Sastamala",
+   "avg_price_sq_m_2017": 770,
+   "1_year_change": "3 %",
+   "5_years_change": "1 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 712,
+   "zip_code": 46900,
+   "neighbourhood": "Inkeroinen",
+   "city": "Kouvola",
+   "avg_price_sq_m_2017": 770,
+   "1_year_change": "-14 %",
+   "5_years_change": "-13 %",
+   "10_years_change": "-8 %"
+ },
+ {
+   "#": 713,
+   "zip_code": 79600,
+   "neighbourhood": "Joroinen Keskus",
+   "city": "Joroinen - Jorois",
+   "avg_price_sq_m_2017": 757,
+   "1_year_change": "-1 %",
+   "5_years_change": "-14 %",
+   "10_years_change": "25 %"
+ },
+ {
+   "#": 714,
+   "zip_code": 78300,
+   "neighbourhood": "Kommila",
+   "city": "Varkaus",
+   "avg_price_sq_m_2017": 751,
+   "1_year_change": "37 %",
+   "5_years_change": "11 %",
+   "10_years_change": "29 %"
+ },
+ {
+   "#": 715,
+   "zip_code": 49460,
+   "neighbourhood": "Hillo",
+   "city": "Hamina - Fredrikshamn",
+   "avg_price_sq_m_2017": 741,
+   "1_year_change": "0 %",
+   "5_years_change": "-20 %",
+   "10_years_change": "-19 %"
+ },
+ {
+   "#": 716,
+   "zip_code": 72400,
+   "neighbourhood": "Pielavesi Keskus-Jylänki",
+   "city": "Pielavesi",
+   "avg_price_sq_m_2017": 736,
+   "1_year_change": "-9 %",
+   "5_years_change": "-20 %",
+   "10_years_change": "-17 %"
+ },
+ {
+   "#": 717,
+   "zip_code": 31640,
+   "neighbourhood": "Humppila Keskus",
+   "city": "Humppila",
+   "avg_price_sq_m_2017": 733,
+   "1_year_change": "5 %",
+   "5_years_change": "0 %",
+   "10_years_change": "-12 %"
+ },
+ {
+   "#": 718,
+   "zip_code": 88900,
+   "neighbourhood": "Kuhmo Keskus",
+   "city": "Kuhmo",
+   "avg_price_sq_m_2017": 732,
+   "1_year_change": "-17 %",
+   "5_years_change": "-20 %",
+   "10_years_change": "-22 %"
+ },
+ {
+   "#": 719,
+   "zip_code": 30300,
+   "neighbourhood": "Viksberg",
+   "city": "Forssa",
+   "avg_price_sq_m_2017": 728,
+   "1_year_change": "-8 %",
+   "5_years_change": "-6 %",
+   "10_years_change": "-7 %"
+ },
+ {
+   "#": 720,
+   "zip_code": 46800,
+   "neighbourhood": "Myllykoski",
+   "city": "Kouvola",
+   "avg_price_sq_m_2017": 726,
+   "1_year_change": "-8 %",
+   "5_years_change": "-24 %",
+   "10_years_change": "-27 %"
+ },
+ {
+   "#": 721,
+   "zip_code": 28370,
+   "neighbourhood": "Sampola",
+   "city": "Pori - Björneborg",
+   "avg_price_sq_m_2017": 724,
+   "1_year_change": "-12 %",
+   "5_years_change": "-24 %",
+   "10_years_change": "3 %"
+ },
+ {
+   "#": 722,
+   "zip_code": 83900,
+   "neighbourhood": "Juuka Keskus",
+   "city": "Juuka",
+   "avg_price_sq_m_2017": 723,
+   "1_year_change": "-20 %",
+   "5_years_change": "-15 %",
+   "10_years_change": "-3 %"
+ },
+ {
+   "#": 723,
+   "zip_code": 98100,
+   "neighbourhood": "Kemijärvi Keskus",
+   "city": "Kemijärvi",
+   "avg_price_sq_m_2017": 722,
+   "1_year_change": "-5 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "2 %"
+ },
+ {
+   "#": 724,
+   "zip_code": 76100,
+   "neighbourhood": "Pieksämäki Keskus",
+   "city": "Pieksämäki",
+   "avg_price_sq_m_2017": 721,
+   "1_year_change": "-6 %",
+   "5_years_change": "-24 %",
+   "10_years_change": "-3 %"
+ },
+ {
+   "#": 725,
+   "zip_code": 94200,
+   "neighbourhood": "Torvinen-Vainio",
+   "city": "Kemi",
+   "avg_price_sq_m_2017": 721,
+   "1_year_change": "2 %",
+   "5_years_change": "-2 %",
+   "10_years_change": "-3 %"
+ },
+ {
+   "#": 726,
+   "zip_code": 47200,
+   "neighbourhood": "Elimäki kk",
+   "city": "Kouvola",
+   "avg_price_sq_m_2017": 719,
+   "1_year_change": "1 %",
+   "5_years_change": "-12 %",
+   "10_years_change": "1 %"
+ },
+ {
+   "#": 727,
+   "zip_code": 35700,
+   "neighbourhood": "Vilppula Keskus",
+   "city": "Mänttä-Vilppula",
+   "avg_price_sq_m_2017": 718,
+   "1_year_change": "-13 %",
+   "5_years_change": "-12 %",
+   "10_years_change": "25 %"
+ },
+ {
+   "#": 728,
+   "zip_code": 55510,
+   "neighbourhood": "Sotkulampi-Linnasuo",
+   "city": "Imatra",
+   "avg_price_sq_m_2017": 715,
+   "1_year_change": "12 %",
+   "5_years_change": "-4 %",
+   "10_years_change": "-4 %"
+ },
+ {
+   "#": 729,
+   "zip_code": 78210,
+   "neighbourhood": "Kuoppakangas",
+   "city": "Varkaus",
+   "avg_price_sq_m_2017": 715,
+   "1_year_change": "-17 %",
+   "5_years_change": "-15 %",
+   "10_years_change": "-3 %"
+ },
+ {
+   "#": 730,
+   "zip_code": 49510,
+   "neighbourhood": "Husula",
+   "city": "Hamina - Fredrikshamn",
+   "avg_price_sq_m_2017": 714,
+   "1_year_change": "-11 %",
+   "5_years_change": "-8 %",
+   "10_years_change": "-11 %"
+ },
+ {
+   "#": 731,
+   "zip_code": 58900,
+   "neighbourhood": "Rantasalmi Keskus",
+   "city": "Rantasalmi",
+   "avg_price_sq_m_2017": 714,
+   "1_year_change": "0 %",
+   "5_years_change": "-1 %",
+   "10_years_change": "-8 %"
+ },
+ {
+   "#": 732,
+   "zip_code": 55610,
+   "neighbourhood": "Rajapatsas-Teppanala",
+   "city": "Imatra",
+   "avg_price_sq_m_2017": 712,
+   "1_year_change": "-6 %",
+   "5_years_change": "-12 %",
+   "10_years_change": "-16 %"
+ },
+ {
+   "#": 733,
+   "zip_code": 73600,
+   "neighbourhood": "Kaavi Keskus",
+   "city": "Kaavi",
+   "avg_price_sq_m_2017": 712,
+   "1_year_change": "-1 %",
+   "5_years_change": "-16 %",
+   "10_years_change": "20 %"
+ },
+ {
+   "#": 734,
+   "zip_code": 55800,
+   "neighbourhood": "Vuoksenniska-Saarlampi",
+   "city": "Imatra",
+   "avg_price_sq_m_2017": 710,
+   "1_year_change": "1 %",
+   "5_years_change": "-13 %",
+   "10_years_change": "-22 %"
+ },
+ {
+   "#": 735,
+   "zip_code": 71200,
+   "neighbourhood": "Tuusniemi Keskus",
+   "city": "Tuusniemi",
+   "avg_price_sq_m_2017": 709,
+   "1_year_change": "25 %",
+   "5_years_change": "-14 %",
+   "10_years_change": "13 %"
+ },
+ {
+   "#": 736,
+   "zip_code": 34300,
+   "neighbourhood": "Kuru Keskus",
+   "city": "Ylöjärvi",
+   "avg_price_sq_m_2017": 708,
+   "1_year_change": "-15 %",
+   "5_years_change": "-41 %",
+   "10_years_change": "-22 %"
+ },
+ {
+   "#": 737,
+   "zip_code": 48900,
+   "neighbourhood": "Sunila",
+   "city": "Kotka",
+   "avg_price_sq_m_2017": 698,
+   "1_year_change": "0 %",
+   "5_years_change": "-36 %",
+   "10_years_change": "-21 %"
+ },
+ {
+   "#": 738,
+   "zip_code": 76150,
+   "neighbourhood": "Länsirinne",
+   "city": "Pieksämäki",
+   "avg_price_sq_m_2017": 692,
+   "1_year_change": "-1 %",
+   "5_years_change": "-18 %",
+   "10_years_change": "-4 %"
+ },
+ {
+   "#": 739,
+   "zip_code": 42300,
+   "neighbourhood": "Jämsänkoski Keskus",
+   "city": "Jämsä",
+   "avg_price_sq_m_2017": 691,
+   "1_year_change": "-3 %",
+   "5_years_change": "-17 %",
+   "10_years_change": "-16 %"
+ },
+ {
+   "#": 740,
+   "zip_code": 78500,
+   "neighbourhood": "Pitkälänniemi-Könönpelto",
+   "city": "Varkaus",
+   "avg_price_sq_m_2017": 684,
+   "1_year_change": "-3 %",
+   "5_years_change": "-22 %",
+   "10_years_change": "-24 %"
+ },
+ {
+   "#": 741,
+   "zip_code": 35800,
+   "neighbourhood": "Mänttä",
+   "city": "Mänttä-Vilppula",
+   "avg_price_sq_m_2017": 682,
+   "1_year_change": "0 %",
+   "5_years_change": "-13 %",
+   "10_years_change": "14 %"
+ },
+ {
+   "#": 742,
+   "zip_code": 28800,
+   "neighbourhood": "Pihlava",
+   "city": "Pori - Björneborg",
+   "avg_price_sq_m_2017": 679,
+   "1_year_change": "6 %",
+   "5_years_change": "-8 %",
+   "10_years_change": "-13 %"
+ },
+ {
+   "#": 743,
+   "zip_code": 18200,
+   "neighbourhood": "Kaakonlampi-Pyhätön",
+   "city": "Heinola",
+   "avg_price_sq_m_2017": 675,
+   "1_year_change": "-10 %",
+   "5_years_change": "-19 %",
+   "10_years_change": "-20 %"
+ },
+ {
+   "#": 744,
+   "zip_code": 83500,
+   "neighbourhood": "Outokumpu Keskus",
+   "city": "Outokumpu",
+   "avg_price_sq_m_2017": 671,
+   "1_year_change": "-13 %",
+   "5_years_change": "-29 %",
+   "10_years_change": "-4 %"
+ },
+ {
+   "#": 745,
+   "zip_code": 44200,
+   "neighbourhood": "Suolahti Keskus",
+   "city": "Äänekoski",
+   "avg_price_sq_m_2017": 660,
+   "1_year_change": "6 %",
+   "5_years_change": "-10 %",
+   "10_years_change": "-7 %"
+ },
+ {
+   "#": 746,
+   "zip_code": 89600,
+   "neighbourhood": "Ämmänsaari",
+   "city": "Suomussalmi",
+   "avg_price_sq_m_2017": 653,
+   "1_year_change": "-19 %",
+   "5_years_change": "-16 %",
+   "10_years_change": "-21 %"
+ },
+ {
+   "#": 747,
+   "zip_code": 81720,
+   "neighbourhood": "Mähkö-Timitra",
+   "city": "Lieksa",
+   "avg_price_sq_m_2017": 645,
+   "1_year_change": "10 %",
+   "5_years_change": "0 %",
+   "10_years_change": "30 %"
+ },
+ {
+   "#": 748,
+   "zip_code": 45910,
+   "neighbourhood": "Voikkaa",
+   "city": "Kouvola",
+   "avg_price_sq_m_2017": 638,
+   "1_year_change": "-11 %",
+   "5_years_change": "-13 %",
+   "10_years_change": "-11 %"
+ },
+ {
+   "#": 749,
+   "zip_code": 48350,
+   "neighbourhood": "Karhuvuori",
+   "city": "Kotka",
+   "avg_price_sq_m_2017": 636,
+   "1_year_change": "3 %",
+   "5_years_change": "-23 %",
+   "10_years_change": "-22 %"
+ },
+ {
+   "#": 750,
+   "zip_code": 82900,
+   "neighbourhood": "Ilomantsi Keskus",
+   "city": "Ilomantsi - Ilomants",
+   "avg_price_sq_m_2017": 632,
+   "1_year_change": "-16 %",
+   "5_years_change": "-13 %",
+   "10_years_change": "19 %"
+ },
+ {
+   "#": 751,
+   "zip_code": 94700,
+   "neighbourhood": "Takajärvi-Haukkari",
+   "city": "Kemi",
+   "avg_price_sq_m_2017": 631,
+   "1_year_change": "-9 %",
+   "5_years_change": "-10 %",
+   "10_years_change": "-13 %"
+ },
+ {
+   "#": 752,
+   "zip_code": 58700,
+   "neighbourhood": "Sulkava Keskus",
+   "city": "Sulkava",
+   "avg_price_sq_m_2017": 627,
+   "1_year_change": "-7 %",
+   "5_years_change": "-3 %",
+   "10_years_change": "-10 %"
+ },
+ {
+   "#": 753,
+   "zip_code": 98120,
+   "neighbourhood": "Särkikangas",
+   "city": "Kemijärvi",
+   "avg_price_sq_m_2017": 604,
+   "1_year_change": "-13 %",
+   "5_years_change": "4 %",
+   "10_years_change": "9 %"
+ },
+ {
+   "#": 754,
+   "zip_code": 28840,
+   "neighbourhood": "Yyteri-Kaanaa",
+   "city": "Pori - Björneborg",
+   "avg_price_sq_m_2017": 599,
+   "1_year_change": "6 %",
+   "5_years_change": "5 %",
+   "10_years_change": "-6 %"
+ },
+ {
+   "#": 755,
+   "zip_code": 82600,
+   "neighbourhood": "Tohmajärvi Keskus",
+   "city": "Tohmajärvi",
+   "avg_price_sq_m_2017": 543,
+   "1_year_change": "-31 %",
+   "5_years_change": "-28 %",
+   "10_years_change": "-28 %"
+ }
+]
