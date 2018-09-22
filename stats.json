@@ -19,35 +19,9 @@
     ]
   },
   {
-    "city_key": "Espoo, jouppi",
-    "stats": [
-      {
-        "avg_price": 18084,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 34236,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 54324,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, etel\u00e4-vuosaari",
     "district": "etel\u00e4-vuosaari",
-    "stats": [
-      {
-        "avg_price": 175000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, etel\u00e4-vuosaari",
     "stats": [
       {
         "avg_price": 175000,
@@ -71,31 +45,9 @@
     ]
   },
   {
-    "city_key": "Espoo, kiltakallio",
-    "stats": [
-      {
-        "avg_price": 269000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 14684,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, ala-tikkurila",
     "district": "ala-tikkurila",
-    "stats": [
-      {
-        "avg_price": 219000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, ala-tikkurila",
     "stats": [
       {
         "avg_price": 219000,
@@ -131,47 +83,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, nikinm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 355571,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 498333,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 231449,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 291052,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 139000,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, kulloonm\u00e4ki",
     "district": "kulloonm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 216000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 488000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, kulloonm\u00e4ki",
     "stats": [
       {
         "avg_price": 216000,
@@ -215,51 +129,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, mellunm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 169375,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 130521,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 195666,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 588000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 302000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 105000,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, korso/ vierum\u00e4ki",
     "district": "korso/ vierum\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 117000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 178000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, korso/ vierum\u00e4ki",
     "stats": [
       {
         "avg_price": 117000,
@@ -283,27 +155,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, kallahti aurinkolahti",
-    "stats": [
-      {
-        "avg_price": 435000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, kallio/ alppila",
     "district": "kallio/ alppila",
-    "stats": [
-      {
-        "avg_price": 248000,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, kallio/ alppila",
     "stats": [
       {
         "avg_price": 248000,
@@ -323,47 +177,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, korso / kulom\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 725000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, kalasatama",
     "district": "kalasatama",
-    "stats": [
-      {
-        "avg_price": 584289,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 725630,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 402859,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 1479999,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 304756,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 1947239,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, kalasatama",
     "stats": [
       {
         "avg_price": 584289,
@@ -427,55 +243,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, etel\u00e4-haaga",
-    "stats": [
-      {
-        "avg_price": 507600,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 890000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 182264,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 213211,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 840000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 315549,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 414866,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, mets\u00e4l\u00e4",
     "district": "mets\u00e4l\u00e4",
-    "stats": [
-      {
-        "avg_price": 634100,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 532500,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, mets\u00e4l\u00e4",
     "stats": [
       {
         "avg_price": 634100,
@@ -511,39 +281,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, yl\u00e4st\u00f6",
-    "stats": [
-      {
-        "avg_price": 245461,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 19197,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 237874,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 443166,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, n\u00f6ykki\u00f6 / eestinlaakso",
     "district": "n\u00f6ykki\u00f6 / eestinlaakso",
-    "stats": [
-      {
-        "avg_price": 459000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, n\u00f6ykki\u00f6 / eestinlaakso",
     "stats": [
       {
         "avg_price": 459000,
@@ -563,39 +303,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, yl\u00e4-malmi",
-    "stats": [
-      {
-        "avg_price": 227999,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, puotinharju",
     "district": "puotinharju",
-    "stats": [
-      {
-        "avg_price": 209500,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 275000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 267500,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 160862,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, puotinharju",
     "stats": [
       {
         "avg_price": 209500,
@@ -631,31 +341,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, puistola / suurmets\u00e4",
-    "stats": [
-      {
-        "avg_price": 338999,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 365000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, puu-vallila",
     "district": "puu-vallila",
-    "stats": [
-      {
-        "avg_price": 265000,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, puu-vallila",
     "stats": [
       {
         "avg_price": 265000,
@@ -675,27 +363,9 @@
     ]
   },
   {
-    "city_key": "Espoo, pellaksenm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 124000,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, ala-soukka",
     "district": "ala-soukka",
-    "stats": [
-      {
-        "avg_price": 188999,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, ala-soukka",
     "stats": [
       {
         "avg_price": 188999,
@@ -715,31 +385,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, luhtaanm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 256000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, soukansalmi",
     "district": "soukansalmi",
-    "stats": [
-      {
-        "avg_price": 961666,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 660000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, soukansalmi",
     "stats": [
       {
         "avg_price": 961666,
@@ -779,31 +427,6 @@
     ]
   },
   {
-    "city_key": "Espoo, iirislahti",
-    "stats": [
-      {
-        "avg_price": 935750,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 307775,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 635200,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 358499,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 789666,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, punavuori / erottaja",
     "district": "punavuori / erottaja",
@@ -815,27 +438,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, punavuori / erottaja",
-    "stats": [
-      {
-        "avg_price": 649000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, kilo,lansa",
     "district": "kilo,lansa",
-    "stats": [
-      {
-        "avg_price": 338000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, kilo,lansa",
     "stats": [
       {
         "avg_price": 338000,
@@ -871,43 +476,9 @@
     ]
   },
   {
-    "city_key": "Espoo, soukanniemi",
-    "stats": [
-      {
-        "avg_price": 1864666,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 289000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 362500,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 3900000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 314666,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, lepp\u00e4vaara/m\u00e4kkyl\u00e4",
     "district": "lepp\u00e4vaara/m\u00e4kkyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 328000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, lepp\u00e4vaara/m\u00e4kkyl\u00e4",
     "stats": [
       {
         "avg_price": 328000,
@@ -927,27 +498,9 @@
     ]
   },
   {
-    "city_key": "Espoo, s\u00e4teri",
-    "stats": [
-      {
-        "avg_price": 667000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, etel\u00e4-kaarela / hakuninmaa",
     "district": "etel\u00e4-kaarela / hakuninmaa",
-    "stats": [
-      {
-        "avg_price": 628000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, etel\u00e4-kaarela / hakuninmaa",
     "stats": [
       {
         "avg_price": 628000,
@@ -967,43 +520,9 @@
     ]
   },
   {
-    "city_key": "Espoo, pohjois-tapiola,tapiola",
-    "stats": [
-      {
-        "avg_price": 447999,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, kalaj\u00e4rvi",
     "district": "kalaj\u00e4rvi",
-    "stats": [
-      {
-        "avg_price": 398000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 256000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 309000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 140000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 350333,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, kalaj\u00e4rvi",
     "stats": [
       {
         "avg_price": 398000,
@@ -1059,35 +578,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, torpparinm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 382666,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 560000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 575666,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 125056,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 218398,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 175000,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, maarukka",
     "district": "maarukka",
@@ -1099,43 +589,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, maarukka",
-    "stats": [
-      {
-        "avg_price": 249000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, t\u00f6yrynummi",
     "district": "t\u00f6yrynummi",
-    "stats": [
-      {
-        "avg_price": 432500,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 575000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 267000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 165000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 429333,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, t\u00f6yrynummi",
     "stats": [
       {
         "avg_price": 432500,
@@ -1191,47 +647,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, oulunkyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 1800000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 145000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 553000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 277071,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 406833,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 196727,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, etel\u00e4 - haaga",
     "district": "etel\u00e4 - haaga",
-    "stats": [
-      {
-        "avg_price": 188000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, etel\u00e4 - haaga",
     "stats": [
       {
         "avg_price": 188000,
@@ -1267,31 +685,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, viikinm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 210372,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 532307,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 388585,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 1450000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 316584,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, martinlaakso/kivim\u00e4ki",
     "district": "martinlaakso/kivim\u00e4ki",
@@ -1303,47 +696,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, martinlaakso/kivim\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 149000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, metsola",
     "district": "metsola",
-    "stats": [
-      {
-        "avg_price": 225592,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 236166,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 170785,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 389000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 125000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 372000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, metsola",
     "stats": [
       {
         "avg_price": 225592,
@@ -1399,63 +754,9 @@
     ]
   },
   {
-    "city_key": "Espoo, perusm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 565000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 339475,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 136208,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 284975,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 300962,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, saunalahti",
     "district": "saunalahti",
-    "stats": [
-      {
-        "avg_price": 413532,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 162860,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 212318,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 559166,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 952428,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 238749,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, saunalahti",
     "stats": [
       {
         "avg_price": 413532,
@@ -1507,55 +808,9 @@
     ]
   },
   {
-    "city_key": "Espoo, pisa",
-    "stats": [
-      {
-        "avg_price": 319000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 315000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 10534,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 18273,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, kaarela",
     "district": "kaarela",
-    "stats": [
-      {
-        "avg_price": 505320,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 158712,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 266336,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 297795,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 398529,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, kaarela",
     "stats": [
       {
         "avg_price": 505320,
@@ -1591,15 +846,6 @@
     ]
   },
   {
-    "city_key": "Vantaa, vestra",
-    "stats": [
-      {
-        "avg_price": 498000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, koivurinne",
     "district": "koivurinne",
@@ -1615,39 +861,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, koivurinne",
-    "stats": [
-      {
-        "avg_price": 459000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 638999,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, tiilinm\u00e4ki",
     "district": "tiilinm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 233800,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 159500,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 274333,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, tiilinm\u00e4ki",
     "stats": [
       {
         "avg_price": 233800,
@@ -1691,43 +907,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, etu-t\u00f6\u00f6l\u00f6",
-    "stats": [
-      {
-        "avg_price": 830062,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 804333,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 476000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 302600,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 1038400,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, kuninkaala hakkilankallio",
     "district": "kuninkaala hakkilankallio",
-    "stats": [
-      {
-        "avg_price": 219000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, kuninkaala hakkilankallio",
     "stats": [
       {
         "avg_price": 219000,
@@ -1763,43 +945,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, kannelm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 228922,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 260150,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 168414,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 192500,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 201150,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, lansa",
     "district": "lansa",
-    "stats": [
-      {
-        "avg_price": 329000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, lansa",
     "stats": [
       {
         "avg_price": 329000,
@@ -1819,15 +967,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, pirkkola",
-    "stats": [
-      {
-        "avg_price": 368000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, niemenm\u00e4ki",
     "district": "niemenm\u00e4ki",
@@ -1839,31 +978,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, niemenm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 261000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, hietalahti",
     "district": "hietalahti",
-    "stats": [
-      {
-        "avg_price": 583000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 450000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, hietalahti",
     "stats": [
       {
         "avg_price": 583000,
@@ -1891,35 +1008,9 @@
     ]
   },
   {
-    "city_key": "Espoo, viiskorpi",
-    "stats": [
-      {
-        "avg_price": 250000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 435000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, it\u00e4-pasila",
     "district": "it\u00e4-pasila",
-    "stats": [
-      {
-        "avg_price": 389887,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 235000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, it\u00e4-pasila",
     "stats": [
       {
         "avg_price": 389887,
@@ -1943,35 +1034,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, korso/vierum\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 285000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, kuninkainen",
     "district": "kuninkainen",
-    "stats": [
-      {
-        "avg_price": 749000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 680000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 609000,
-        "rooms": "7"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, kuninkainen",
     "stats": [
       {
         "avg_price": 749000,
@@ -2003,19 +1068,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, tali",
-    "stats": [
-      {
-        "avg_price": 343591,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 23369,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, suutarila/tapulikaupunki",
     "district": "suutarila/tapulikaupunki",
@@ -2027,47 +1079,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, suutarila/tapulikaupunki",
-    "stats": [
-      {
-        "avg_price": 309000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, tapaninvainio",
     "district": "tapaninvainio",
-    "stats": [
-      {
-        "avg_price": 398000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 154000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 408547,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 243800,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 281000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 547000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, tapaninvainio",
     "stats": [
       {
         "avg_price": 398000,
@@ -2119,55 +1133,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, tapanila",
-    "stats": [
-      {
-        "avg_price": 155164,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 365714,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 213000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 481750,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, laurinlahti",
     "district": "laurinlahti",
-    "stats": [
-      {
-        "avg_price": 450000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 431666,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 404539,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 428230,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 505000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, laurinlahti",
     "stats": [
       {
         "avg_price": 450000,
@@ -2219,43 +1187,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, vantaanlaakso",
-    "stats": [
-      {
-        "avg_price": 299960,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 237500,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 379000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 525000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 385250,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, simonmets\u00e4/simonkyl\u00e4",
     "district": "simonmets\u00e4/simonkyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 163000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, simonmets\u00e4/simonkyl\u00e4",
     "stats": [
       {
         "avg_price": 163000,
@@ -2295,35 +1229,6 @@
     ]
   },
   {
-    "city_key": "Espoo, friisil\u00e4",
-    "stats": [
-      {
-        "avg_price": 970000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 168166,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 212243,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 298662,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 396618,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 540363,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, piispanm\u00e4ki",
     "district": "piispanm\u00e4ki",
@@ -2335,27 +1240,9 @@
     ]
   },
   {
-    "city_key": "Espoo, piispanm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 348500,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, myllypuro / myll\u00e4rinlaakso",
     "district": "myllypuro / myll\u00e4rinlaakso",
-    "stats": [
-      {
-        "avg_price": 399000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, myllypuro / myll\u00e4rinlaakso",
     "stats": [
       {
         "avg_price": 399000,
@@ -2395,47 +1282,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, malmi",
-    "stats": [
-      {
-        "avg_price": 648000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 195674,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 312128,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 409333,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 398000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 167909,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, latokartano",
     "district": "latokartano",
-    "stats": [
-      {
-        "avg_price": 265000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, latokartano",
     "stats": [
       {
         "avg_price": 265000,
@@ -2455,35 +1304,9 @@
     ]
   },
   {
-    "city_key": "Espoo, snettans",
-    "stats": [
-      {
-        "avg_price": 497000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, ruskeasuo",
     "district": "ruskeasuo",
-    "stats": [
-      {
-        "avg_price": 179500,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 313000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 502333,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, ruskeasuo",
     "stats": [
       {
         "avg_price": 179500,
@@ -2515,39 +1338,9 @@
     ]
   },
   {
-    "city_key": "Espoo, rastaspuisto",
-    "stats": [
-      {
-        "avg_price": 372500,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 257000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, jokiniemi",
     "district": "jokiniemi",
-    "stats": [
-      {
-        "avg_price": 183952,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 213022,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 249828,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, jokiniemi",
     "stats": [
       {
         "avg_price": 183952,
@@ -2587,39 +1380,9 @@
     ]
   },
   {
-    "city_key": "Espoo, perkkaa",
-    "stats": [
-      {
-        "avg_price": 196000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 138000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 240000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 161500,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, n\u00f6ykki\u00f6npuro",
     "district": "n\u00f6ykki\u00f6npuro",
-    "stats": [
-      {
-        "avg_price": 767000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, n\u00f6ykki\u00f6npuro",
     "stats": [
       {
         "avg_price": 767000,
@@ -2643,39 +1406,9 @@
     ]
   },
   {
-    "city_key": "Espoo, muurala",
-    "stats": [
-      {
-        "avg_price": 31722,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 175000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, iivisniemi",
     "district": "iivisniemi",
-    "stats": [
-      {
-        "avg_price": 217000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 235000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 28187,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, iivisniemi",
     "stats": [
       {
         "avg_price": 217000,
@@ -2723,35 +1456,6 @@
     ]
   },
   {
-    "city_key": "Vantaa, martinlaakso",
-    "stats": [
-      {
-        "avg_price": 307625,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 266443,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 488900,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 187864,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 155370,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 252792,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, jokiniemi / tikkurila",
     "district": "jokiniemi / tikkurila",
@@ -2763,43 +1467,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, jokiniemi / tikkurila",
-    "stats": [
-      {
-        "avg_price": 182000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, pit\u00e4j\u00e4nm\u00e4ki",
     "district": "pit\u00e4j\u00e4nm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 301781,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 350000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 189504,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 272318,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 272871,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, pit\u00e4j\u00e4nm\u00e4ki",
     "stats": [
       {
         "avg_price": 301781,
@@ -2847,39 +1517,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, vallila",
-    "stats": [
-      {
-        "avg_price": 401060,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 422500,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 231494,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 299289,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, korpilampi",
     "district": "korpilampi",
-    "stats": [
-      {
-        "avg_price": 439000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, korpilampi",
     "stats": [
       {
         "avg_price": 439000,
@@ -2899,39 +1539,9 @@
     ]
   },
   {
-    "city_key": "Espoo, perusm\u00e4ki/niipperi",
-    "stats": [
-      {
-        "avg_price": 287000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, pukinm\u00e4ki",
     "district": "pukinm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 149000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 455000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 209651,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 326000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, pukinm\u00e4ki",
     "stats": [
       {
         "avg_price": 149000,
@@ -2987,39 +1597,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, laajasalo",
-    "stats": [
-      {
-        "avg_price": 390669,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 305831,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 693999,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 240269,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 204097,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 532571,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 453020,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, haaga",
     "district": "haaga",
@@ -3043,39 +1620,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, haaga",
-    "stats": [
-      {
-        "avg_price": 503600,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 242000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 186125,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 333190,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, kurttila / taltrikinm\u00e4ki",
     "district": "kurttila / taltrikinm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 524500,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, kurttila / taltrikinm\u00e4ki",
     "stats": [
       {
         "avg_price": 524500,
@@ -3111,43 +1658,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, meilahti",
-    "stats": [
-      {
-        "avg_price": 807500,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 561500,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 284000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 314625,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 402000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, friisil\u00e4 /olari",
     "district": "friisil\u00e4 /olari",
-    "stats": [
-      {
-        "avg_price": 637000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, friisil\u00e4 /olari",
     "stats": [
       {
         "avg_price": 637000,
@@ -3183,31 +1696,6 @@
     ]
   },
   {
-    "city_key": "Espoo, henttaa",
-    "stats": [
-      {
-        "avg_price": 173790,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 479000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 239874,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 699000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 201606,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, tikkurila / stenkulla",
     "district": "tikkurila / stenkulla",
@@ -3219,27 +1707,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, tikkurila / stenkulla",
-    "stats": [
-      {
-        "avg_price": 790000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, kuurinnitty",
     "district": "kuurinnitty",
-    "stats": [
-      {
-        "avg_price": 149000,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, kuurinnitty",
     "stats": [
       {
         "avg_price": 149000,
@@ -3267,23 +1737,6 @@
     ]
   },
   {
-    "city_key": "Espoo, vanhakartano",
-    "stats": [
-      {
-        "avg_price": 15994,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 721500,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 258000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, nikunm\u00e4ki",
     "district": "nikunm\u00e4ki",
@@ -3295,39 +1748,9 @@
     ]
   },
   {
-    "city_key": "Espoo, nikunm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 439000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, kuusikko",
     "district": "kuusikko",
-    "stats": [
-      {
-        "avg_price": 185957,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 363000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 569500,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 314714,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, kuusikko",
     "stats": [
       {
         "avg_price": 185957,
@@ -3379,35 +1802,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, marjaniemi",
-    "stats": [
-      {
-        "avg_price": 990250,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 259000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 358073,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 620125,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 838000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 1320000,
-        "rooms": "7"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, lystim\u00e4ki",
     "district": "lystim\u00e4ki",
@@ -3419,27 +1813,9 @@
     ]
   },
   {
-    "city_key": "Espoo, lystim\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 413000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, pakankyl\u00e4",
     "district": "pakankyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 2650000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, pakankyl\u00e4",
     "stats": [
       {
         "avg_price": 2650000,
@@ -3483,51 +1859,9 @@
     ]
   },
   {
-    "city_key": "Espoo, haukilahti",
-    "stats": [
-      {
-        "avg_price": 907375,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 1090142,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 860000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 297427,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 656514,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 468810,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 171300,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, kalasatama/verkkosaari",
     "district": "kalasatama/verkkosaari",
-    "stats": [
-      {
-        "avg_price": 349900,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, kalasatama/verkkosaari",
     "stats": [
       {
         "avg_price": 349900,
@@ -3551,19 +1885,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, kruunuhaka",
-    "stats": [
-      {
-        "avg_price": 630469,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 430000,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, brobacka",
     "district": "brobacka",
@@ -3575,31 +1896,9 @@
     ]
   },
   {
-    "city_key": "Espoo, brobacka",
-    "stats": [
-      {
-        "avg_price": 398000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, alppiharju",
     "district": "alppiharju",
-    "stats": [
-      {
-        "avg_price": 195000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 349965,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, alppiharju",
     "stats": [
       {
         "avg_price": 195000,
@@ -3643,35 +1942,6 @@
     ]
   },
   {
-    "city_key": "Espoo, laaksolahti",
-    "stats": [
-      {
-        "avg_price": 281446,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 487050,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 731142,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 239000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 698000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 387825,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, kirstinm\u00e4ki",
     "district": "kirstinm\u00e4ki",
@@ -3683,35 +1953,9 @@
     ]
   },
   {
-    "city_key": "Espoo, kirstinm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 106000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, puolarmets\u00e4",
     "district": "puolarmets\u00e4",
-    "stats": [
-      {
-        "avg_price": 110486,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 379000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 15785,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, puolarmets\u00e4",
     "stats": [
       {
         "avg_price": 110486,
@@ -3759,35 +2003,6 @@
     ]
   },
   {
-    "city_key": "Vantaa, vaarala",
-    "stats": [
-      {
-        "avg_price": 196350,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 473400,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 166981,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 369560,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 254888,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 246219,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, viherkumpu",
     "district": "viherkumpu",
@@ -3799,39 +2014,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, viherkumpu",
-    "stats": [
-      {
-        "avg_price": 350000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, askisto",
     "district": "askisto",
-    "stats": [
-      {
-        "avg_price": 1075000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 326250,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 354000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 479500,
-        "rooms": "7"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, askisto",
     "stats": [
       {
         "avg_price": 1075000,
@@ -3875,27 +2060,6 @@
     ]
   },
   {
-    "city_key": "Vantaa, jokivarsi",
-    "stats": [
-      {
-        "avg_price": 314000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 260000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 327000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 460000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, soukanm\u00e4ki",
     "district": "soukanm\u00e4ki",
@@ -3907,35 +2071,9 @@
     ]
   },
   {
-    "city_key": "Espoo, soukanm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 188999,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, suurmets\u00e4",
     "district": "suurmets\u00e4",
-    "stats": [
-      {
-        "avg_price": 148180,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 74157,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 122000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, suurmets\u00e4",
     "stats": [
       {
         "avg_price": 148180,
@@ -3979,43 +2117,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, ver\u00e4j\u00e4m\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 886500,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 249000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 590000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 509000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 660666,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, eestintaival",
     "district": "eestintaival",
-    "stats": [
-      {
-        "avg_price": 26502,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, eestintaival",
     "stats": [
       {
         "avg_price": 26502,
@@ -4035,43 +2139,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, hiekkaharju / tarhurinpuisto",
-    "stats": [
-      {
-        "avg_price": 192999,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, aurinkolahti",
     "district": "aurinkolahti",
-    "stats": [
-      {
-        "avg_price": 849999,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 220422,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 437422,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 387797,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 274613,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, aurinkolahti",
     "stats": [
       {
         "avg_price": 849999,
@@ -4127,63 +2197,9 @@
     ]
   },
   {
-    "city_key": "Espoo, mankkaa",
-    "stats": [
-      {
-        "avg_price": 402049,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 300477,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 667975,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 533425,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 229450,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 192385,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, suurpelto",
     "district": "suurpelto",
-    "stats": [
-      {
-        "avg_price": 221493,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 324766,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 191548,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 840000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 158037,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, suurpelto",
     "stats": [
       {
         "avg_price": 221493,
@@ -4223,19 +2239,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, karhusaari",
-    "stats": [
-      {
-        "avg_price": 827500,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 1390000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, sokinvuori",
     "district": "sokinvuori",
@@ -4247,43 +2250,9 @@
     ]
   },
   {
-    "city_key": "Espoo, sokinvuori",
-    "stats": [
-      {
-        "avg_price": 212000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, rajakyl\u00e4",
     "district": "rajakyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 173105,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 157666,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 280666,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 236930,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 265399,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, rajakyl\u00e4",
     "stats": [
       {
         "avg_price": 173105,
@@ -4335,31 +2304,6 @@
     ]
   },
   {
-    "city_key": "Espoo, suna",
-    "stats": [
-      {
-        "avg_price": 349800,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 286600,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 195000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 159000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 238165,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, espoo l\u00e4hderanta",
     "district": "espoo l\u00e4hderanta",
@@ -4371,47 +2315,9 @@
     ]
   },
   {
-    "city_key": "Espoo, espoo l\u00e4hderanta",
-    "stats": [
-      {
-        "avg_price": 229000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, vuosaari",
     "district": "vuosaari",
-    "stats": [
-      {
-        "avg_price": 289653,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 259805,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 402800,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 164164,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 248347,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 153195,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, vuosaari",
     "stats": [
       {
         "avg_price": 289653,
@@ -4455,35 +2361,9 @@
     ]
   },
   {
-    "city_key": "Espoo, nupuri",
-    "stats": [
-      {
-        "avg_price": 229000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 269000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, friisill\u00e4",
     "district": "friisill\u00e4",
-    "stats": [
-      {
-        "avg_price": 290250,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 210875,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, friisill\u00e4",
     "stats": [
       {
         "avg_price": 290250,
@@ -4523,43 +2403,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, kaivoksela",
-    "stats": [
-      {
-        "avg_price": 301268,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 83068,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 29171,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 175605,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 252350,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, l\u00e4nsi-herttoniemi",
     "district": "l\u00e4nsi-herttoniemi",
-    "stats": [
-      {
-        "avg_price": 159000,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, l\u00e4nsi-herttoniemi",
     "stats": [
       {
         "avg_price": 159000,
@@ -4595,31 +2441,6 @@
     ]
   },
   {
-    "city_key": "Espoo, viherlaakso",
-    "stats": [
-      {
-        "avg_price": 160833,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 160300,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 307000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 305428,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 166144,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, kilo / kuninkainen",
     "district": "kilo / kuninkainen",
@@ -4631,43 +2452,9 @@
     ]
   },
   {
-    "city_key": "Espoo, kilo / kuninkainen",
-    "stats": [
-      {
-        "avg_price": 574000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, m\u00e4kkyl\u00e4",
     "district": "m\u00e4kkyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 226500,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 523000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 518000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 232285,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 292000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, m\u00e4kkyl\u00e4",
     "stats": [
       {
         "avg_price": 226500,
@@ -4711,51 +2498,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, kallio",
-    "stats": [
-      {
-        "avg_price": 307976,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 336125,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 219641,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, matari",
     "district": "matari",
-    "stats": [
-      {
-        "avg_price": 387500,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 192333,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 266523,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 286321,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 147893,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, matari",
     "stats": [
       {
         "avg_price": 387500,
@@ -4815,55 +2560,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, kivist\u00f6",
-    "stats": [
-      {
-        "avg_price": 428000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 277516,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 176208,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 550900,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 502400,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 212923,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 336875,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, hyljelahti",
     "district": "hyljelahti",
-    "stats": [
-      {
-        "avg_price": 767500,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 371500,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, hyljelahti",
     "stats": [
       {
         "avg_price": 767500,
@@ -4887,43 +2586,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, l\u00e4nsisalmi",
-    "stats": [
-      {
-        "avg_price": 265000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, latokaski",
     "district": "latokaski",
-    "stats": [
-      {
-        "avg_price": 294700,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 333571,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 468000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 229450,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 245100,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, latokaski",
     "stats": [
       {
         "avg_price": 294700,
@@ -4975,31 +2640,6 @@
     ]
   },
   {
-    "city_key": "Espoo, espoo",
-    "stats": [
-      {
-        "avg_price": 406333,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 292666,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 211333,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 149902,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 579000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, harju/s\u00f6rn\u00e4inen",
     "district": "harju/s\u00f6rn\u00e4inen",
@@ -5011,43 +2651,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, harju/s\u00f6rn\u00e4inen",
-    "stats": [
-      {
-        "avg_price": 298000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, l\u00e4nsim\u00e4ki",
     "district": "l\u00e4nsim\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 94675,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 269000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 131184,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 39036,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 177694,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, l\u00e4nsim\u00e4ki",
     "stats": [
       {
         "avg_price": 94675,
@@ -5091,51 +2697,9 @@
     ]
   },
   {
-    "city_key": "Espoo, eestinlaakso",
-    "stats": [
-      {
-        "avg_price": 296000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 278000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 149704,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, malminkartano",
     "district": "malminkartano",
-    "stats": [
-      {
-        "avg_price": 39500,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 311000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 125818,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 249000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 207379,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, malminkartano",
     "stats": [
       {
         "avg_price": 39500,
@@ -5171,15 +2735,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, kaivopuisto",
-    "stats": [
-      {
-        "avg_price": 896054,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, n\u00f6ykki\u00f6/eestinlaakso",
     "district": "n\u00f6ykki\u00f6/eestinlaakso",
@@ -5191,27 +2746,9 @@
     ]
   },
   {
-    "city_key": "Espoo, n\u00f6ykki\u00f6/eestinlaakso",
-    "stats": [
-      {
-        "avg_price": 159878,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, tuusula",
     "district": "tuusula",
-    "stats": [
-      {
-        "avg_price": 198000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, tuusula",
     "stats": [
       {
         "avg_price": 198000,
@@ -5251,63 +2788,9 @@
     ]
   },
   {
-    "city_key": "Espoo, soukka",
-    "stats": [
-      {
-        "avg_price": 522500,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 130000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 698600,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 161375,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 194000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 338977,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, hakunila",
     "district": "hakunila",
-    "stats": [
-      {
-        "avg_price": 166850,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 162200,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 128054,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 144972,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 169500,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, hakunila",
     "stats": [
       {
         "avg_price": 166850,
@@ -5367,51 +2850,9 @@
     ]
   },
   {
-    "city_key": "Espoo, n\u00f6ykki\u00f6",
-    "stats": [
-      {
-        "avg_price": 178052,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 457250,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 593000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 271250,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 644571,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 540400,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 213978,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, odilampi",
     "district": "odilampi",
-    "stats": [
-      {
-        "avg_price": 465000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, odilampi",
     "stats": [
       {
         "avg_price": 465000,
@@ -5435,31 +2876,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, ala-tikkurila",
-    "stats": [
-      {
-        "avg_price": 439333,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 410000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, suutarila/siltam\u00e4ki",
     "district": "suutarila/siltam\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 159000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, suutarila/siltam\u00e4ki",
     "stats": [
       {
         "avg_price": 159000,
@@ -5483,51 +2902,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, kaskela",
-    "stats": [
-      {
-        "avg_price": 275000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 198000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, h\u00e4meenkyl\u00e4",
     "district": "h\u00e4meenkyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 1199920,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 309394,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 255784,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 417450,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 214305,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 353460,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, h\u00e4meenkyl\u00e4",
     "stats": [
       {
         "avg_price": 1199920,
@@ -5587,35 +2964,6 @@
     ]
   },
   {
-    "city_key": "Vantaa, hiekkaharju",
-    "stats": [
-      {
-        "avg_price": 142805,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 318000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 140339,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 52226,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 329000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 226550,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, pohjois-laajalahti",
     "district": "pohjois-laajalahti",
@@ -5627,35 +2975,9 @@
     ]
   },
   {
-    "city_key": "Espoo, pohjois-laajalahti",
-    "stats": [
-      {
-        "avg_price": 219000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, vartioharju",
     "district": "vartioharju",
-    "stats": [
-      {
-        "avg_price": 455500,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 270500,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 497500,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, vartioharju",
     "stats": [
       {
         "avg_price": 455500,
@@ -5695,47 +3017,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, pihlajisto",
-    "stats": [
-      {
-        "avg_price": 135000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 126000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 215000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 160000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, kruunuvuorenranta",
     "district": "kruunuvuorenranta",
-    "stats": [
-      {
-        "avg_price": 335508,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 28319,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 131027,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, kruunuvuorenranta",
     "stats": [
       {
         "avg_price": 335508,
@@ -5763,15 +3047,6 @@
     ]
   },
   {
-    "city_key": "Espoo, punamets\u00e4",
-    "stats": [
-      {
-        "avg_price": 349000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, pitk\u00e4niitty",
     "district": "pitk\u00e4niitty",
@@ -5787,47 +3062,9 @@
     ]
   },
   {
-    "city_key": "Espoo, pitk\u00e4niitty",
-    "stats": [
-      {
-        "avg_price": 726285,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 482500,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, vapaala",
     "district": "vapaala",
-    "stats": [
-      {
-        "avg_price": 348000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 378555,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 220000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 427500,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 237333,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, vapaala",
     "stats": [
       {
         "avg_price": 348000,
@@ -5879,31 +3116,6 @@
     ]
   },
   {
-    "city_key": "Espoo, lippaj\u00e4rvi",
-    "stats": [
-      {
-        "avg_price": 382608,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 277071,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 212025,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 416999,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 381620,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, bodom",
     "district": "bodom",
@@ -5923,35 +3135,9 @@
     ]
   },
   {
-    "city_key": "Espoo, bodom",
-    "stats": [
-      {
-        "avg_price": 474000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 640000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 349000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, kauklahti lasilaakso",
     "district": "kauklahti lasilaakso",
-    "stats": [
-      {
-        "avg_price": 289000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, kauklahti lasilaakso",
     "stats": [
       {
         "avg_price": 289000,
@@ -5987,31 +3173,6 @@
     ]
   },
   {
-    "city_key": "Espoo, ymmersta",
-    "stats": [
-      {
-        "avg_price": 503000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 402000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 628000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 231529,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 81950,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, silvola",
     "district": "silvola",
@@ -6023,51 +3184,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, silvola",
-    "stats": [
-      {
-        "avg_price": 595000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, tapiola",
     "district": "tapiola",
-    "stats": [
-      {
-        "avg_price": 657000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 919666,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 212085,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 305706,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 920000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 489881,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 631837,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, tapiola",
     "stats": [
       {
         "avg_price": 657000,
@@ -6135,51 +3254,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, konala",
-    "stats": [
-      {
-        "avg_price": 339688,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 295000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 285350,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 517000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 230740,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 437250,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 180000,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, lauttasari",
     "district": "lauttasari",
-    "stats": [
-      {
-        "avg_price": 528100,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, lauttasari",
     "stats": [
       {
         "avg_price": 528100,
@@ -6199,27 +3276,9 @@
     ]
   },
   {
-    "city_key": "Espoo, niipperi / perusm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 469000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, verkkosaarenranta",
     "district": "verkkosaarenranta",
-    "stats": [
-      {
-        "avg_price": 437500,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, verkkosaarenranta",
     "stats": [
       {
         "avg_price": 437500,
@@ -6239,15 +3298,6 @@
     ]
   },
   {
-    "city_key": "Espoo, laitamaa",
-    "stats": [
-      {
-        "avg_price": 259000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, saarnilaakso",
     "district": "saarnilaakso",
@@ -6259,39 +3309,9 @@
     ]
   },
   {
-    "city_key": "Espoo, saarnilaakso",
-    "stats": [
-      {
-        "avg_price": 294000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, jupperi",
     "district": "jupperi",
-    "stats": [
-      {
-        "avg_price": 489000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 578000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 748000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 578000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, jupperi",
     "stats": [
       {
         "avg_price": 489000,
@@ -6335,55 +3355,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, it\u00e4-hakkila",
-    "stats": [
-      {
-        "avg_price": 202933,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 328000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 234066,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 265100,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, kivikko",
     "district": "kivikko",
-    "stats": [
-      {
-        "avg_price": 46472,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 108052,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 87175,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 88038,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 72566,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, kivikko",
     "stats": [
       {
         "avg_price": 46472,
@@ -6443,59 +3417,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, korso",
-    "stats": [
-      {
-        "avg_price": 394000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 172875,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 323333,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 236897,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 277677,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 388000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 210155,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, keimolanm\u00e4ki",
     "district": "keimolanm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 149540,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 181568,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 218982,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, keimolanm\u00e4ki",
     "stats": [
       {
         "avg_price": 149540,
@@ -6523,15 +3447,6 @@
     ]
   },
   {
-    "city_key": "Vantaa, kes\u00e4kyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 245000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, kulovalkea",
     "district": "kulovalkea",
@@ -6543,47 +3458,9 @@
     ]
   },
   {
-    "city_key": "Espoo, kulovalkea",
-    "stats": [
-      {
-        "avg_price": 215000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, westend",
     "district": "westend",
-    "stats": [
-      {
-        "avg_price": 928350,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 1203571,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 334625,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 1132500,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 1020764,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 393333,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, westend",
     "stats": [
       {
         "avg_price": 928350,
@@ -6635,39 +3512,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, hakuninmaa",
-    "stats": [
-      {
-        "avg_price": 413250,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 403333,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 355000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 219000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, luukki",
     "district": "luukki",
-    "stats": [
-      {
-        "avg_price": 1790000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, luukki",
     "stats": [
       {
         "avg_price": 1790000,
@@ -6699,27 +3546,6 @@
     ]
   },
   {
-    "city_key": "Vantaa, rajatorppa",
-    "stats": [
-      {
-        "avg_price": 118566,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 134164,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 151089,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 97950,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, perusm\u00e4ki / niipperi",
     "district": "perusm\u00e4ki / niipperi",
@@ -6731,43 +3557,9 @@
     ]
   },
   {
-    "city_key": "Espoo, perusm\u00e4ki / niipperi",
-    "stats": [
-      {
-        "avg_price": 498000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, jollas",
     "district": "jollas",
-    "stats": [
-      {
-        "avg_price": 1375375,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 345500,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 662571,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 794999,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 862500,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, jollas",
     "stats": [
       {
         "avg_price": 1375375,
@@ -6819,31 +3611,6 @@
     ]
   },
   {
-    "city_key": "Vantaa, koivuhaka",
-    "stats": [
-      {
-        "avg_price": 254356,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 341200,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 198696,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 167124,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 377000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, sep\u00e4nkyl\u00e4,hiidenportti",
     "district": "sep\u00e4nkyl\u00e4,hiidenportti",
@@ -6855,27 +3622,9 @@
     ]
   },
   {
-    "city_key": "Espoo, sep\u00e4nkyl\u00e4,hiidenportti",
-    "stats": [
-      {
-        "avg_price": 523000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, mellunm\u00e4m\u00e4ki",
     "district": "mellunm\u00e4m\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 105000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, mellunm\u00e4m\u00e4ki",
     "stats": [
       {
         "avg_price": 105000,
@@ -6911,43 +3660,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, ilola",
-    "stats": [
-      {
-        "avg_price": 330480,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 241000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 285981,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 144000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 888999,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, kaisaniemi",
     "district": "kaisaniemi",
-    "stats": [
-      {
-        "avg_price": 695000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, kaisaniemi",
     "stats": [
       {
         "avg_price": 695000,
@@ -6983,59 +3698,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, vierum\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 379000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 211500,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 362250,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 398333,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 165000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, kuninkaantammi",
     "district": "kuninkaantammi",
-    "stats": [
-      {
-        "avg_price": 181707,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 265057,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 293203,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 209745,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 440766,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, kuninkaantammi",
     "stats": [
       {
         "avg_price": 181707,
@@ -7091,51 +3756,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, lepp\u00e4korpi",
-    "stats": [
-      {
-        "avg_price": 36489,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 220384,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 184500,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 129000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 367000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 254400,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, riipil\u00e4",
     "district": "riipil\u00e4",
-    "stats": [
-      {
-        "avg_price": 326500,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 1750000,
-        "rooms": "7"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, riipil\u00e4",
     "stats": [
       {
         "avg_price": 326500,
@@ -7163,19 +3786,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, rastila",
-    "stats": [
-      {
-        "avg_price": 341333,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 353500,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, kivim\u00e4ki / martinlaakso",
     "district": "kivim\u00e4ki / martinlaakso",
@@ -7187,43 +3797,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, kivim\u00e4ki / martinlaakso",
-    "stats": [
-      {
-        "avg_price": 289000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, kaitaa",
     "district": "kaitaa",
-    "stats": [
-      {
-        "avg_price": 829500,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 195385,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 434666,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 169000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 715000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, kaitaa",
     "stats": [
       {
         "avg_price": 829500,
@@ -7275,51 +3851,9 @@
     ]
   },
   {
-    "city_key": "Espoo, kilo",
-    "stats": [
-      {
-        "avg_price": 160924,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 372015,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 176452,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 108116,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 409000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, h\u00e4mevaara",
     "district": "h\u00e4mevaara",
-    "stats": [
-      {
-        "avg_price": 155121,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 353666,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 471500,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, h\u00e4mevaara",
     "stats": [
       {
         "avg_price": 155121,
@@ -7347,39 +3881,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, maarukanmets\u00e4",
-    "stats": [
-      {
-        "avg_price": 33594,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, harmaalaakso",
     "district": "harmaalaakso",
-    "stats": [
-      {
-        "avg_price": 240275,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 336750,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 226500,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 337940,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, harmaalaakso",
     "stats": [
       {
         "avg_price": 240275,
@@ -7419,23 +3923,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, kluuvi",
-    "stats": [
-      {
-        "avg_price": 1182100,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 890000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 654000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, pohjois haaga",
     "district": "pohjois haaga",
@@ -7447,27 +3934,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, pohjois haaga",
-    "stats": [
-      {
-        "avg_price": 238500,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, kontula/vesala",
     "district": "kontula/vesala",
-    "stats": [
-      {
-        "avg_price": 235000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, kontula/vesala",
     "stats": [
       {
         "avg_price": 235000,
@@ -7499,47 +3968,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, it\u00e4keskus",
-    "stats": [
-      {
-        "avg_price": 184000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 299500,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 211625,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 246300,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, keskusta",
     "district": "keskusta",
-    "stats": [
-      {
-        "avg_price": 311400,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 298375,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 155000,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, keskusta",
     "stats": [
       {
         "avg_price": 311400,
@@ -7583,31 +4014,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, tapaninkyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 448714,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 400000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 183990,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 325500,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 191500,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, tikkurila / simonmets\u00e4",
     "district": "tikkurila / simonmets\u00e4",
@@ -7619,27 +4025,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, tikkurila / simonmets\u00e4",
-    "stats": [
-      {
-        "avg_price": 192000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, kes\u00e4kyl\u00e4/koivikko",
     "district": "kes\u00e4kyl\u00e4/koivikko",
-    "stats": [
-      {
-        "avg_price": 289000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, kes\u00e4kyl\u00e4/koivikko",
     "stats": [
       {
         "avg_price": 289000,
@@ -7679,35 +4067,6 @@
     ]
   },
   {
-    "city_key": "Vantaa, myyrm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 225591,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 191991,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 158890,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 232000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 268500,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 152805,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, askisto koivurinne",
     "district": "askisto koivurinne",
@@ -7719,39 +4078,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, askisto koivurinne",
-    "stats": [
-      {
-        "avg_price": 399000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, kurttila",
     "district": "kurttila",
-    "stats": [
-      {
-        "avg_price": 341328,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 476804,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 529250,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 301554,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, kurttila",
     "stats": [
       {
         "avg_price": 341328,
@@ -7795,27 +4124,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, pihlajam\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 150555,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 186300,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 137000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 240444,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, tolsa",
     "district": "tolsa",
@@ -7827,43 +4135,9 @@
     ]
   },
   {
-    "city_key": "Espoo, tolsa",
-    "stats": [
-      {
-        "avg_price": 113000,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, pakkala",
     "district": "pakkala",
-    "stats": [
-      {
-        "avg_price": 179790,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 197742,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 86465,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 137562,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 330066,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, pakkala",
     "stats": [
       {
         "avg_price": 179790,
@@ -7903,39 +4177,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, torkkelinm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 343099,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 224000,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, uusm\u00e4ki",
     "district": "uusm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 329000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 369000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 440000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, uusm\u00e4ki",
     "stats": [
       {
         "avg_price": 329000,
@@ -7967,35 +4211,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, kumpula",
-    "stats": [
-      {
-        "avg_price": 512000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 288500,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, vallikallio",
     "district": "vallikallio",
-    "stats": [
-      {
-        "avg_price": 199000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 268166,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, vallikallio",
     "stats": [
       {
         "avg_price": 199000,
@@ -8039,47 +4257,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, p\u00e4iv\u00e4kumpu",
-    "stats": [
-      {
-        "avg_price": 159000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 477333,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 403500,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 469000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 17370,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 425333,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, ormuspelto",
     "district": "ormuspelto",
-    "stats": [
-      {
-        "avg_price": 45540,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, ormuspelto",
     "stats": [
       {
         "avg_price": 45540,
@@ -8099,27 +4279,9 @@
     ]
   },
   {
-    "city_key": "Espoo, espoo/kauniainen",
-    "stats": [
-      {
-        "avg_price": 898600,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, piispankallio",
     "district": "piispankallio",
-    "stats": [
-      {
-        "avg_price": 395000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, piispankallio",
     "stats": [
       {
         "avg_price": 395000,
@@ -8139,15 +4301,6 @@
     ]
   },
   {
-    "city_key": "Espoo, r\u00f6yl\u00e4",
-    "stats": [
-      {
-        "avg_price": 575000,
-        "rooms": "7"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, yliskyl\u00e4 laajasalo",
     "district": "yliskyl\u00e4 laajasalo",
@@ -8159,27 +4312,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, yliskyl\u00e4 laajasalo",
-    "stats": [
-      {
-        "avg_price": 598000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, laajalahti",
     "district": "laajalahti",
-    "stats": [
-      {
-        "avg_price": 382000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, laajalahti",
     "stats": [
       {
         "avg_price": 382000,
@@ -8211,39 +4346,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, kuninkaanm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 568500,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 349766,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 309000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 430000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, riimukallio",
     "district": "riimukallio",
-    "stats": [
-      {
-        "avg_price": 271905,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, riimukallio",
     "stats": [
       {
         "avg_price": 271905,
@@ -8275,39 +4380,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, kuusisaari",
-    "stats": [
-      {
-        "avg_price": 1393926,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 1032500,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 1474666,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 918500,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, viikin latokartano",
     "district": "viikin latokartano",
-    "stats": [
-      {
-        "avg_price": 429000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, viikin latokartano",
     "stats": [
       {
         "avg_price": 429000,
@@ -8327,15 +4402,6 @@
     ]
   },
   {
-    "city_key": "Vantaa, martinlaakso kivim\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 269000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, bassenkyl\u00e4",
     "district": "bassenkyl\u00e4",
@@ -8347,27 +4413,9 @@
     ]
   },
   {
-    "city_key": "Espoo, bassenkyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 51589,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, lepp\u00e4vaara/puustellinm\u00e4ki",
     "district": "lepp\u00e4vaara/puustellinm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 241000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, lepp\u00e4vaara/puustellinm\u00e4ki",
     "stats": [
       {
         "avg_price": 241000,
@@ -8395,23 +4443,6 @@
     ]
   },
   {
-    "city_key": "Espoo, niipperi",
-    "stats": [
-      {
-        "avg_price": 293197,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 421333,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 103172,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, kaivoksela,myyrm\u00e4ki",
     "district": "kaivoksela,myyrm\u00e4ki",
@@ -8423,27 +4454,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, kaivoksela,myyrm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 289396,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, tuomarinkyl\u00e4",
     "district": "tuomarinkyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 682000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, tuomarinkyl\u00e4",
     "stats": [
       {
         "avg_price": 682000,
@@ -8475,59 +4488,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, vesala",
-    "stats": [
-      {
-        "avg_price": 145000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 175431,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 228666,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 181659,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, kauklahti",
     "district": "kauklahti",
-    "stats": [
-      {
-        "avg_price": 638999,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 188250,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 172283,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 200541,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 152820,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 347022,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, kauklahti",
     "stats": [
       {
         "avg_price": 638999,
@@ -8587,59 +4550,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, t\u00f6\u00f6l\u00f6",
-    "stats": [
-      {
-        "avg_price": 1344500,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 458100,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 598000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 713333,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 1043000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 343500,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, viikki",
     "district": "viikki",
-    "stats": [
-      {
-        "avg_price": 303100,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 426000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 202894,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 467000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, viikki",
     "stats": [
       {
         "avg_price": 303100,
@@ -8671,27 +4584,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, tapaninkyl\u00e4/tapanila",
-    "stats": [
-      {
-        "avg_price": 429000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, iirislahti,matinkyl\u00e4",
     "district": "iirislahti,matinkyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 369000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, iirislahti,matinkyl\u00e4",
     "stats": [
       {
         "avg_price": 369000,
@@ -8727,43 +4622,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, suutarila",
-    "stats": [
-      {
-        "avg_price": 378654,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 382310,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 231854,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 269000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 223000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, metsola / korso",
     "district": "metsola / korso",
-    "stats": [
-      {
-        "avg_price": 519000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, metsola / korso",
     "stats": [
       {
         "avg_price": 519000,
@@ -8783,27 +4644,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, ulrikanpuisto",
-    "stats": [
-      {
-        "avg_price": 35751,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, vantaankoski",
     "district": "vantaankoski",
-    "stats": [
-      {
-        "avg_price": 499999,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, vantaankoski",
     "stats": [
       {
         "avg_price": 499999,
@@ -8823,27 +4666,9 @@
     ]
   },
   {
-    "city_key": "Espoo, keskus",
-    "stats": [
-      {
-        "avg_price": 10173,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, lassila/haaga",
     "district": "lassila/haaga",
-    "stats": [
-      {
-        "avg_price": 279000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, lassila/haaga",
     "stats": [
       {
         "avg_price": 279000,
@@ -8863,27 +4688,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, jollas laajasalo",
-    "stats": [
-      {
-        "avg_price": 805000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, it\u00e4keskus / marjaniemi",
     "district": "it\u00e4keskus / marjaniemi",
-    "stats": [
-      {
-        "avg_price": 217000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, it\u00e4keskus / marjaniemi",
     "stats": [
       {
         "avg_price": 217000,
@@ -8919,43 +4726,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, kulosaari",
-    "stats": [
-      {
-        "avg_price": 168000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 2690000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 395000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 2157500,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 842333,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, kallio/s\u00f6rn\u00e4inen/alppiharju",
     "district": "kallio/s\u00f6rn\u00e4inen/alppiharju",
-    "stats": [
-      {
-        "avg_price": 350000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, kallio/s\u00f6rn\u00e4inen/alppiharju",
     "stats": [
       {
         "avg_price": 350000,
@@ -8983,39 +4756,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, ver\u00e4j\u00e4laakso",
-    "stats": [
-      {
-        "avg_price": 181500,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 233500,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 269000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, kattilalaakso",
     "district": "kattilalaakso",
-    "stats": [
-      {
-        "avg_price": 650000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 564000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, kattilalaakso",
     "stats": [
       {
         "avg_price": 650000,
@@ -9051,39 +4794,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, p\u00e4hkin\u00e4rinne",
-    "stats": [
-      {
-        "avg_price": 249263,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 138918,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 150257,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 157841,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, lepp\u00e4silta",
     "district": "lepp\u00e4silta",
-    "stats": [
-      {
-        "avg_price": 368000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, lepp\u00e4silta",
     "stats": [
       {
         "avg_price": 368000,
@@ -9111,35 +4824,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, helsinki",
-    "stats": [
-      {
-        "avg_price": 199000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 296331,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 182906,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, puolarmets\u00e4/pisa",
     "district": "puolarmets\u00e4/pisa",
-    "stats": [
-      {
-        "avg_price": 414900,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, puolarmets\u00e4/pisa",
     "stats": [
       {
         "avg_price": 414900,
@@ -9159,15 +4846,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, etel\u00e4 haaga",
-    "stats": [
-      {
-        "avg_price": 443000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, laajasalo / hevossalmi",
     "district": "laajasalo / hevossalmi",
@@ -9179,39 +4857,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, laajasalo / hevossalmi",
-    "stats": [
-      {
-        "avg_price": 598000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, vantaanpuisto",
     "district": "vantaanpuisto",
-    "stats": [
-      {
-        "avg_price": 130637,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 278000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 151500,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 109000,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, vantaanpuisto",
     "stats": [
       {
         "avg_price": 130637,
@@ -9251,23 +4899,6 @@
     ]
   },
   {
-    "city_key": "Espoo, suvisaaristo",
-    "stats": [
-      {
-        "avg_price": 1350000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 2450000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 2375540,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, mellunkyl\u00e4/vartiokyl\u00e4",
     "district": "mellunkyl\u00e4/vartiokyl\u00e4",
@@ -9279,47 +4910,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, mellunkyl\u00e4/vartiokyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 538000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, olari",
     "district": "olari",
-    "stats": [
-      {
-        "avg_price": 217593,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 313833,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 141094,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 403250,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 271692,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 331225,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, olari",
     "stats": [
       {
         "avg_price": 217593,
@@ -9363,31 +4956,9 @@
     ]
   },
   {
-    "city_key": "Espoo, malminm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 289000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 305000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, kulloonm\u00e4ki j\u00e4rvenper\u00e4",
     "district": "kulloonm\u00e4ki j\u00e4rvenper\u00e4",
-    "stats": [
-      {
-        "avg_price": 319000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, kulloonm\u00e4ki j\u00e4rvenper\u00e4",
     "stats": [
       {
         "avg_price": 319000,
@@ -9407,47 +4978,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, kamppi hietalahti",
-    "stats": [
-      {
-        "avg_price": 565000,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, mellunkyl\u00e4",
     "district": "mellunkyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 224625,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 377000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 303866,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 163283,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 173399,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 364000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, mellunkyl\u00e4",
     "stats": [
       {
         "avg_price": 224625,
@@ -9495,43 +5028,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, simonmets\u00e4",
-    "stats": [
-      {
-        "avg_price": 182483,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 137144,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 135563,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, kartanonkoski",
     "district": "kartanonkoski",
-    "stats": [
-      {
-        "avg_price": 296639,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 319500,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 122595,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, kartanonkoski",
     "stats": [
       {
         "avg_price": 296639,
@@ -9567,35 +5066,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, kallahti",
-    "stats": [
-      {
-        "avg_price": 369999,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 980000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 2840000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, jollas/laajasalo",
     "district": "jollas/laajasalo",
-    "stats": [
-      {
-        "avg_price": 698000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, jollas/laajasalo",
     "stats": [
       {
         "avg_price": 698000,
@@ -9639,51 +5112,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, munkkiniemi",
-    "stats": [
-      {
-        "avg_price": 1071110,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 257785,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 739037,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 346731,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 1560000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 567327,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 1707295,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, tarhurinpuisto,hiekkaharju",
     "district": "tarhurinpuisto,hiekkaharju",
-    "stats": [
-      {
-        "avg_price": 229000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, tarhurinpuisto,hiekkaharju",
     "stats": [
       {
         "avg_price": 229000,
@@ -9703,15 +5134,6 @@
     ]
   },
   {
-    "city_key": "Espoo, kaitaa,hannus,finnoo",
-    "stats": [
-      {
-        "avg_price": 230000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, tattariharju",
     "district": "tattariharju",
@@ -9723,27 +5145,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, tattariharju",
-    "stats": [
-      {
-        "avg_price": 259000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, louhela/pohjois-kaarela",
     "district": "louhela/pohjois-kaarela",
-    "stats": [
-      {
-        "avg_price": 168000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, louhela/pohjois-kaarela",
     "stats": [
       {
         "avg_price": 168000,
@@ -9783,47 +5187,9 @@
     ]
   },
   {
-    "city_key": "Espoo, kuurinniitty",
-    "stats": [
-      {
-        "avg_price": 483500,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 233120,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 455000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 149000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 464116,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 472171,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, koivuhovi",
     "district": "koivuhovi",
-    "stats": [
-      {
-        "avg_price": 326000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, koivuhovi",
     "stats": [
       {
         "avg_price": 326000,
@@ -9843,15 +5209,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, konepaja",
-    "stats": [
-      {
-        "avg_price": 458000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, tikkurila / jokiniemi",
     "district": "tikkurila / jokiniemi",
@@ -9863,47 +5220,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, tikkurila / jokiniemi",
-    "stats": [
-      {
-        "avg_price": 239000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, sompasaari",
     "district": "sompasaari",
-    "stats": [
-      {
-        "avg_price": 620569,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 733200,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 216711,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 335609,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 619100,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 438600,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, sompasaari",
     "stats": [
       {
         "avg_price": 620569,
@@ -9951,51 +5270,9 @@
     ]
   },
   {
-    "city_key": "Espoo, tiistil\u00e4",
-    "stats": [
-      {
-        "avg_price": 15695,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 143000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 13841,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, l\u00e4nsi-pakila",
     "district": "l\u00e4nsi-pakila",
-    "stats": [
-      {
-        "avg_price": 183000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 771400,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 341600,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 436111,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 541750,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, l\u00e4nsi-pakila",
     "stats": [
       {
         "avg_price": 183000,
@@ -10043,27 +5320,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, vartiokyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 797750,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 480555,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 417461,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 254333,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, patola",
     "district": "patola",
@@ -10075,27 +5331,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, patola",
-    "stats": [
-      {
-        "avg_price": 147000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, etel\u00e4-nikinm\u00e4ki",
     "district": "etel\u00e4-nikinm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 499000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, etel\u00e4-nikinm\u00e4ki",
     "stats": [
       {
         "avg_price": 499000,
@@ -10123,23 +5361,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, kurkim\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 268000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 176500,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 160500,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, kivim\u00e4ki",
     "district": "kivim\u00e4ki",
@@ -10151,31 +5372,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, kivim\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 239000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, pikku huopalahti",
     "district": "pikku huopalahti",
-    "stats": [
-      {
-        "avg_price": 368000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 219000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, pikku huopalahti",
     "stats": [
       {
         "avg_price": 368000,
@@ -10211,43 +5410,9 @@
     ]
   },
   {
-    "city_key": "Espoo, matinkyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 277166,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 245031,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 189900,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 344777,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, kuninkaala",
     "district": "kuninkaala",
-    "stats": [
-      {
-        "avg_price": 278469,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 268300,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, kuninkaala",
     "stats": [
       {
         "avg_price": 278469,
@@ -10271,27 +5436,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, ruoholahti",
-    "stats": [
-      {
-        "avg_price": 572000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, munkkiranta",
     "district": "munkkiranta",
-    "stats": [
-      {
-        "avg_price": 494500,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, munkkiranta",
     "stats": [
       {
         "avg_price": 494500,
@@ -10315,43 +5462,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, tarhurinpuisto",
-    "stats": [
-      {
-        "avg_price": 177000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 148000,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, vantaa",
     "district": "vantaa",
-    "stats": [
-      {
-        "avg_price": 324767,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 189380,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 241750,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 345160,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, vantaa",
     "stats": [
       {
         "avg_price": 324767,
@@ -10403,35 +5516,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, siltam\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 209264,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 292833,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 258571,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 322000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 129000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 160642,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, siltasaari",
     "district": "siltasaari",
@@ -10447,55 +5531,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, siltasaari",
-    "stats": [
-      {
-        "avg_price": 860000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 367000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, heikinlaakso",
     "district": "heikinlaakso",
-    "stats": [
-      {
-        "avg_price": 349500,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 272000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 175000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 149000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 635000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 254479,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 374000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, heikinlaakso",
     "stats": [
       {
         "avg_price": 349500,
@@ -10551,47 +5589,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, lehtisaari",
-    "stats": [
-      {
-        "avg_price": 360250,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 820000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 439000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 557600,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, vermonniitty",
     "district": "vermonniitty",
-    "stats": [
-      {
-        "avg_price": 319000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 251737,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 184879,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, vermonniitty",
     "stats": [
       {
         "avg_price": 319000,
@@ -10623,31 +5623,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, vanhankaupunginkoski",
-    "stats": [
-      {
-        "avg_price": 359000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 267500,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, savela (pukinm\u00e4ki)",
     "district": "savela (pukinm\u00e4ki)",
-    "stats": [
-      {
-        "avg_price": 317000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, savela (pukinm\u00e4ki)",
     "stats": [
       {
         "avg_price": 317000,
@@ -10679,27 +5657,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, kontula",
-    "stats": [
-      {
-        "avg_price": 171100,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 138000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 132459,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 155525,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, ilmala",
     "district": "ilmala",
@@ -10711,35 +5668,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, ilmala",
-    "stats": [
-      {
-        "avg_price": 435000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, reimarla",
     "district": "reimarla",
-    "stats": [
-      {
-        "avg_price": 179000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 204000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 460000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, reimarla",
     "stats": [
       {
         "avg_price": 179000,
@@ -10771,35 +5702,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, yliskyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 246000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 470889,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, j\u00e4rvikyl\u00e4",
     "district": "j\u00e4rvikyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 685000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 1869999,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, j\u00e4rvikyl\u00e4",
     "stats": [
       {
         "avg_price": 685000,
@@ -10823,15 +5728,6 @@
     ]
   },
   {
-    "city_key": "Espoo, hiidenportti",
-    "stats": [
-      {
-        "avg_price": 551600,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, tikkurila / satom\u00e4ki",
     "district": "tikkurila / satom\u00e4ki",
@@ -10843,39 +5739,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, tikkurila / satom\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 230000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, jakom\u00e4ki",
     "district": "jakom\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 319000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 185000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 519000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 229000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, jakom\u00e4ki",
     "stats": [
       {
         "avg_price": 319000,
@@ -10927,51 +5793,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, kaartinkaupunki",
-    "stats": [
-      {
-        "avg_price": 1009775,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 750000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 2340000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 2800000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 319000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 633000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, harju",
     "district": "harju",
-    "stats": [
-      {
-        "avg_price": 182333,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 282000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, harju",
     "stats": [
       {
         "avg_price": 182333,
@@ -10995,27 +5819,9 @@
     ]
   },
   {
-    "city_key": "Espoo, pohjois-lepp\u00e4vaara",
-    "stats": [
-      {
-        "avg_price": 235000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, n\u00f6ykki\u00f6/n\u00f6ykki\u00f6npuro",
     "district": "n\u00f6ykki\u00f6/n\u00f6ykki\u00f6npuro",
-    "stats": [
-      {
-        "avg_price": 459000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, n\u00f6ykki\u00f6/n\u00f6ykki\u00f6npuro",
     "stats": [
       {
         "avg_price": 459000,
@@ -11043,35 +5849,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, fallpakka",
-    "stats": [
-      {
-        "avg_price": 465000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 287000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 297000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, piispankyl\u00e4",
     "district": "piispankyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 133000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, piispankyl\u00e4",
     "stats": [
       {
         "avg_price": 133000,
@@ -11095,19 +5875,6 @@
     ]
   },
   {
-    "city_key": "Vantaa, voutila",
-    "stats": [
-      {
-        "avg_price": 470000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 459000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, meri-kivenlahti",
     "district": "meri-kivenlahti",
@@ -11119,43 +5886,9 @@
     ]
   },
   {
-    "city_key": "Espoo, meri-kivenlahti",
-    "stats": [
-      {
-        "avg_price": 525000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, leinel\u00e4",
     "district": "leinel\u00e4",
-    "stats": [
-      {
-        "avg_price": 204517,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 42192,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 419000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 180505,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 237824,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, leinel\u00e4",
     "stats": [
       {
         "avg_price": 204517,
@@ -11195,31 +5928,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, toukola",
-    "stats": [
-      {
-        "avg_price": 195000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 277000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, olari/piispanpelto",
     "district": "olari/piispanpelto",
-    "stats": [
-      {
-        "avg_price": 319000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, olari/piispanpelto",
     "stats": [
       {
         "avg_price": 319000,
@@ -11255,43 +5966,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, pasila",
-    "stats": [
-      {
-        "avg_price": 637388,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 354092,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 440516,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 676100,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 284130,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, eiranranta",
     "district": "eiranranta",
-    "stats": [
-      {
-        "avg_price": 889000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, eiranranta",
     "stats": [
       {
         "avg_price": 889000,
@@ -11311,27 +5988,9 @@
     ]
   },
   {
-    "city_key": "Espoo, suviniitty",
-    "stats": [
-      {
-        "avg_price": 28028,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, espoonlahti/kivenlahti",
     "district": "espoonlahti/kivenlahti",
-    "stats": [
-      {
-        "avg_price": 408999,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, espoonlahti/kivenlahti",
     "stats": [
       {
         "avg_price": 408999,
@@ -11351,15 +6010,6 @@
     ]
   },
   {
-    "city_key": "Vantaa, tikkurila / viertola",
-    "stats": [
-      {
-        "avg_price": 169000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, n\u00f6ykki\u00f6/kattilalaakso",
     "district": "n\u00f6ykki\u00f6/kattilalaakso",
@@ -11371,27 +6021,9 @@
     ]
   },
   {
-    "city_key": "Espoo, n\u00f6ykki\u00f6/kattilalaakso",
-    "stats": [
-      {
-        "avg_price": 545000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, koivup\u00e4\u00e4",
     "district": "koivup\u00e4\u00e4",
-    "stats": [
-      {
-        "avg_price": 344500,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, koivup\u00e4\u00e4",
     "stats": [
       {
         "avg_price": 344500,
@@ -11415,31 +6047,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, kurkimoisio",
-    "stats": [
-      {
-        "avg_price": 49719,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 43332,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, n\u00f6ykki\u00f6 / kattilalaakso",
     "district": "n\u00f6ykki\u00f6 / kattilalaakso",
-    "stats": [
-      {
-        "avg_price": 382000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, n\u00f6ykki\u00f6 / kattilalaakso",
     "stats": [
       {
         "avg_price": 382000,
@@ -11459,47 +6069,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, oulunkyl\u00e4/ver\u00e4j\u00e4m\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 709500,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, kruununhaka",
     "district": "kruununhaka",
-    "stats": [
-      {
-        "avg_price": 674000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 752500,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 1069500,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 1280000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 286214,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 458000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, kruununhaka",
     "stats": [
       {
         "avg_price": 674000,
@@ -11559,67 +6131,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, taka-t\u00f6\u00f6l\u00f6",
-    "stats": [
-      {
-        "avg_price": 861345,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 3226050,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 742666,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 289000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 1064166,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 440328,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, koukkuniemi",
     "district": "koukkuniemi",
-    "stats": [
-      {
-        "avg_price": 343166,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 249000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 757714,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 485000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 570000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 785000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, koukkuniemi",
     "stats": [
       {
         "avg_price": 343166,
@@ -11675,31 +6189,6 @@
     ]
   },
   {
-    "city_key": "Espoo, vanttila",
-    "stats": [
-      {
-        "avg_price": 97326,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 208238,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 169000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 449000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 450000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, linnainen",
     "district": "linnainen",
@@ -11715,35 +6204,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, linnainen",
-    "stats": [
-      {
-        "avg_price": 479000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 363000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, heidehof",
     "district": "heidehof",
-    "stats": [
-      {
-        "avg_price": 340000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 620000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, heidehof",
     "stats": [
       {
         "avg_price": 340000,
@@ -11787,35 +6250,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, it\u00e4-pakila",
-    "stats": [
-      {
-        "avg_price": 365714,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 394000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 870000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 745000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 235625,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 514900,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, patola / oulunkyl\u00e4",
     "district": "patola / oulunkyl\u00e4",
@@ -11827,39 +6261,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, patola / oulunkyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 129933,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, lahnus",
     "district": "lahnus",
-    "stats": [
-      {
-        "avg_price": 362666,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 395000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 243500,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 462666,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, lahnus",
     "stats": [
       {
         "avg_price": 362666,
@@ -11915,59 +6319,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, tammisalo",
-    "stats": [
-      {
-        "avg_price": 716863,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 1198500,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 160566,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 172000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 742000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 535545,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 275000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, herttoniemenranta",
     "district": "herttoniemenranta",
-    "stats": [
-      {
-        "avg_price": 209500,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 329615,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 294375,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, herttoniemenranta",
     "stats": [
       {
         "avg_price": 209500,
@@ -11995,15 +6349,6 @@
     ]
   },
   {
-    "city_key": "Espoo, olari/puolarmets\u00e4",
-    "stats": [
-      {
-        "avg_price": 441000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, ramsinranta",
     "district": "ramsinranta",
@@ -12019,31 +6364,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, ramsinranta",
-    "stats": [
-      {
-        "avg_price": 598000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 515000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, seutula",
     "district": "seutula",
-    "stats": [
-      {
-        "avg_price": 447000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, seutula",
     "stats": [
       {
         "avg_price": 447000,
@@ -12079,31 +6402,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, punavuori",
-    "stats": [
-      {
-        "avg_price": 563000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 826852,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 1171420,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 505944,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 332058,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, sirkkalanm\u00e4ki",
     "district": "sirkkalanm\u00e4ki",
@@ -12115,27 +6413,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, sirkkalanm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 560000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, sotunki",
     "district": "sotunki",
-    "stats": [
-      {
-        "avg_price": 397000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, sotunki",
     "stats": [
       {
         "avg_price": 397000,
@@ -12167,39 +6447,9 @@
     ]
   },
   {
-    "city_key": "Espoo, nuottaniemi",
-    "stats": [
-      {
-        "avg_price": 848500,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 946000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 1363571,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 1159888,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, honkasuo / malminkartano",
     "district": "honkasuo / malminkartano",
-    "stats": [
-      {
-        "avg_price": 149000,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, honkasuo / malminkartano",
     "stats": [
       {
         "avg_price": 149000,
@@ -12235,43 +6485,9 @@
     ]
   },
   {
-    "city_key": "Espoo, kivenlahti",
-    "stats": [
-      {
-        "avg_price": 140091,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 384333,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 242060,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 303156,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 264038,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, vartokyl\u00e4",
     "district": "vartokyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 398000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, vartokyl\u00e4",
     "stats": [
       {
         "avg_price": 398000,
@@ -12295,35 +6511,9 @@
     ]
   },
   {
-    "city_key": "Espoo, nuuksio",
-    "stats": [
-      {
-        "avg_price": 577500,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 218500,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, simonkallio",
     "district": "simonkallio",
-    "stats": [
-      {
-        "avg_price": 100000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 129000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, simonkallio",
     "stats": [
       {
         "avg_price": 100000,
@@ -12359,43 +6549,9 @@
     ]
   },
   {
-    "city_key": "Espoo, kaupunginkallio",
-    "stats": [
-      {
-        "avg_price": 275000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 547000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 299000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 463500,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, pakila",
     "district": "pakila",
-    "stats": [
-      {
-        "avg_price": 268000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 335000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, pakila",
     "stats": [
       {
         "avg_price": 268000,
@@ -12431,27 +6587,6 @@
     ]
   },
   {
-    "city_key": "Espoo, espoon keskus",
-    "stats": [
-      {
-        "avg_price": 331838,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 238525,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 165289,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 198778,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, tkkurila",
     "district": "tkkurila",
@@ -12463,27 +6598,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, tkkurila",
-    "stats": [
-      {
-        "avg_price": 188999,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, landbo",
     "district": "landbo",
-    "stats": [
-      {
-        "avg_price": 656666,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, landbo",
     "stats": [
       {
         "avg_price": 656666,
@@ -12519,55 +6636,9 @@
     ]
   },
   {
-    "city_key": "Espoo, mikkel\u00e4",
-    "stats": [
-      {
-        "avg_price": 144000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 405000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 150000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 317000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 171700,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, s\u00f6rn\u00e4inen",
     "district": "s\u00f6rn\u00e4inen",
-    "stats": [
-      {
-        "avg_price": 313835,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 248500,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 348909,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 475000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, s\u00f6rn\u00e4inen",
     "stats": [
       {
         "avg_price": 313835,
@@ -12619,55 +6690,9 @@
     ]
   },
   {
-    "city_key": "Espoo, tillinm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 279293,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 363159,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 160500,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 797666,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 227500,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 453215,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, miilukorpi",
     "district": "miilukorpi",
-    "stats": [
-      {
-        "avg_price": 31400,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 50659,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 304500,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, miilukorpi",
     "stats": [
       {
         "avg_price": 31400,
@@ -12703,43 +6728,9 @@
     ]
   },
   {
-    "city_key": "Espoo, kukkum\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 360000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 298000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 289000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, kaskisaari",
     "district": "kaskisaari",
-    "stats": [
-      {
-        "avg_price": 3012412,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 1425000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 2690000,
-        "rooms": "7"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, kaskisaari",
     "stats": [
       {
         "avg_price": 3012412,
@@ -12779,27 +6770,6 @@
     ]
   },
   {
-    "city_key": "Espoo, painiitty",
-    "stats": [
-      {
-        "avg_price": 115219,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 234951,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 459000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 356162,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, puustellinm\u00e4ki",
     "district": "puustellinm\u00e4ki",
@@ -12819,47 +6789,9 @@
     ]
   },
   {
-    "city_key": "Espoo, puustellinm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 279000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 14820,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 125568,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, maununneva",
     "district": "maununneva",
-    "stats": [
-      {
-        "avg_price": 284000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 447999,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 690000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 366285,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, maununneva",
     "stats": [
       {
         "avg_price": 284000,
@@ -12903,47 +6835,9 @@
     ]
   },
   {
-    "city_key": "Espoo, gumb\u00f6le",
-    "stats": [
-      {
-        "avg_price": 436500,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 23713,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 124556,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 21620,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, tammisto",
     "district": "tammisto",
-    "stats": [
-      {
-        "avg_price": 221418,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 369666,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 249500,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, tammisto",
     "stats": [
       {
         "avg_price": 221418,
@@ -12979,35 +6873,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, mikkola",
-    "stats": [
-      {
-        "avg_price": 124000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 66561,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 90719,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, hevossalmi",
     "district": "hevossalmi",
-    "stats": [
-      {
-        "avg_price": 590000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, hevossalmi",
     "stats": [
       {
         "avg_price": 590000,
@@ -13027,39 +6895,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, vestra / keimola",
-    "stats": [
-      {
-        "avg_price": 328000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, rekola",
     "district": "rekola",
-    "stats": [
-      {
-        "avg_price": 360800,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 527666,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 385000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 252000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, rekola",
     "stats": [
       {
         "avg_price": 360800,
@@ -13095,19 +6933,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, l\u00e4nsi-pasila",
-    "stats": [
-      {
-        "avg_price": 346500,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 548000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, sep\u00e4nkyl\u00e4",
     "district": "sep\u00e4nkyl\u00e4",
@@ -13127,35 +6952,9 @@
     ]
   },
   {
-    "city_key": "Espoo, sep\u00e4nkyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 492200,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 416250,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 210040,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, eira",
     "district": "eira",
-    "stats": [
-      {
-        "avg_price": 1095000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, eira",
     "stats": [
       {
         "avg_price": 1095000,
@@ -13191,43 +6990,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, palohein\u00e4",
-    "stats": [
-      {
-        "avg_price": 362222,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 598000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 664500,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 239000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 420100,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, vesirattaanm\u00e4ki",
     "district": "vesirattaanm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 259000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, vesirattaanm\u00e4ki",
     "stats": [
       {
         "avg_price": 259000,
@@ -13251,31 +7016,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, viikinranta",
-    "stats": [
-      {
-        "avg_price": 275000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 875000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, h\u00e4mevaara / p\u00e4hkin\u00e4rinne",
     "district": "h\u00e4mevaara / p\u00e4hkin\u00e4rinne",
-    "stats": [
-      {
-        "avg_price": 198000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, h\u00e4mevaara / p\u00e4hkin\u00e4rinne",
     "stats": [
       {
         "avg_price": 198000,
@@ -13307,27 +7050,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, verkkosaari",
-    "stats": [
-      {
-        "avg_price": 388833,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 617000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 298555,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 726250,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, laaksolahti/veini",
     "district": "laaksolahti/veini",
@@ -13339,51 +7061,9 @@
     ]
   },
   {
-    "city_key": "Espoo, laaksolahti/veini",
-    "stats": [
-      {
-        "avg_price": 398000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, ullanlinna",
     "district": "ullanlinna",
-    "stats": [
-      {
-        "avg_price": 1771250,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 291444,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 1724288,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 2057666,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 938833,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 498264,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 3112000,
-        "rooms": "7"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, ullanlinna",
     "stats": [
       {
         "avg_price": 1771250,
@@ -13443,43 +7123,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, havukoski",
-    "stats": [
-      {
-        "avg_price": 111194,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 109000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 395000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 142631,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 137624,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, nuottalahti",
     "district": "nuottalahti",
-    "stats": [
-      {
-        "avg_price": 554000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, nuottalahti",
     "stats": [
       {
         "avg_price": 554000,
@@ -13503,43 +7149,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, hakaniemi",
-    "stats": [
-      {
-        "avg_price": 221000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 411500,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, kavallinm\u00e4ki",
     "district": "kavallinm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 389000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 345166,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 595000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 289000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, kavallinm\u00e4ki",
     "stats": [
       {
         "avg_price": 389000,
@@ -13579,51 +7191,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, simonsilta",
-    "stats": [
-      {
-        "avg_price": 209000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 164000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 170000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, keskusta",
     "district": "keskusta",
-    "stats": [
-      {
-        "avg_price": 1995000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 2450000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 359000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 1190000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 838000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, keskusta",
     "stats": [
       {
         "avg_price": 1995000,
@@ -13679,47 +7249,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, alppikyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 193105,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 57073,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 183620,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 234165,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 173103,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 453000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, ala-malmi",
     "district": "ala-malmi",
-    "stats": [
-      {
-        "avg_price": 268000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, ala-malmi",
     "stats": [
       {
         "avg_price": 268000,
@@ -13743,19 +7275,6 @@
     ]
   },
   {
-    "city_key": "Espoo, kirkkoj\u00e4rvi",
-    "stats": [
-      {
-        "avg_price": 178500,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 179000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, arabia",
     "district": "arabia",
@@ -13767,43 +7286,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, arabia",
-    "stats": [
-      {
-        "avg_price": 209000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, j\u00e4tk\u00e4saari",
     "district": "j\u00e4tk\u00e4saari",
-    "stats": [
-      {
-        "avg_price": 574871,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 247553,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 661929,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 315185,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 443957,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, j\u00e4tk\u00e4saari",
     "stats": [
       {
         "avg_price": 574871,
@@ -13847,51 +7332,9 @@
     ]
   },
   {
-    "city_key": "Espoo, bemb\u00f6le",
-    "stats": [
-      {
-        "avg_price": 358285,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 609000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 880000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, herttoniemi",
     "district": "herttoniemi",
-    "stats": [
-      {
-        "avg_price": 264980,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 284633,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 202735,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 648333,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 388040,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, herttoniemi",
     "stats": [
       {
         "avg_price": 264980,
@@ -13927,15 +7370,6 @@
     ]
   },
   {
-    "city_key": "Espoo, hirvisuo",
-    "stats": [
-      {
-        "avg_price": 619000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, laaksolahti; viherlaakso",
     "district": "laaksolahti; viherlaakso",
@@ -13947,31 +7381,9 @@
     ]
   },
   {
-    "city_key": "Espoo, laaksolahti; viherlaakso",
-    "stats": [
-      {
-        "avg_price": 598000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, ruukinranta",
     "district": "ruukinranta",
-    "stats": [
-      {
-        "avg_price": 649000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 578000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, ruukinranta",
     "stats": [
       {
         "avg_price": 649000,
@@ -13999,31 +7411,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, korso/metsola",
-    "stats": [
-      {
-        "avg_price": 36156,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 16883,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, n\u00f6ykki\u00f6 kattilalaakso saunalahti",
     "district": "n\u00f6ykki\u00f6 kattilalaakso saunalahti",
-    "stats": [
-      {
-        "avg_price": 549000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, n\u00f6ykki\u00f6 kattilalaakso saunalahti",
     "stats": [
       {
         "avg_price": 549000,
@@ -14043,27 +7433,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, laajasalo/hevossalmi",
-    "stats": [
-      {
-        "avg_price": 489000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, velskolan pitk\u00e4j\u00e4rvi",
     "district": "velskolan pitk\u00e4j\u00e4rvi",
-    "stats": [
-      {
-        "avg_price": 1090000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, velskolan pitk\u00e4j\u00e4rvi",
     "stats": [
       {
         "avg_price": 1090000,
@@ -14091,51 +7463,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, kulom\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 88750,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 127713,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 127800,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, simonkyl\u00e4",
     "district": "simonkyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 239708,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 129000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 206157,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 260954,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 186835,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, simonkyl\u00e4",
     "stats": [
       {
         "avg_price": 239708,
@@ -14183,27 +7513,6 @@
     ]
   },
   {
-    "city_key": "Espoo, l\u00e4hderanta",
-    "stats": [
-      {
-        "avg_price": 377000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 126000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 268250,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 176714,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, kaitaa / hannus",
     "district": "kaitaa / hannus",
@@ -14215,43 +7524,9 @@
     ]
   },
   {
-    "city_key": "Espoo, kaitaa / hannus",
-    "stats": [
-      {
-        "avg_price": 488000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, lepp\u00e4vaara",
     "district": "lepp\u00e4vaara",
-    "stats": [
-      {
-        "avg_price": 163395,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 330520,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 271832,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 228382,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 447113,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, lepp\u00e4vaara",
     "stats": [
       {
         "avg_price": 163395,
@@ -14299,39 +7574,9 @@
     ]
   },
   {
-    "city_key": "Espoo, laajalahti",
-    "stats": [
-      {
-        "avg_price": 247608,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 159500,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 483500,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 497000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, suvimets\u00e4",
     "district": "suvimets\u00e4",
-    "stats": [
-      {
-        "avg_price": 22321,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, suvimets\u00e4",
     "stats": [
       {
         "avg_price": 22321,
@@ -14351,27 +7596,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, kallvik",
-    "stats": [
-      {
-        "avg_price": 298000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, soukanranta; soukka",
     "district": "soukanranta; soukka",
-    "stats": [
-      {
-        "avg_price": 348000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, soukanranta; soukka",
     "stats": [
       {
         "avg_price": 348000,
@@ -14391,15 +7618,6 @@
     ]
   },
   {
-    "city_key": "Espoo, otaniemi",
-    "stats": [
-      {
-        "avg_price": 273000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, malminiitty",
     "district": "malminiitty",
@@ -14411,43 +7629,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, malminiitty",
-    "stats": [
-      {
-        "avg_price": 194475,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, puotila",
     "district": "puotila",
-    "stats": [
-      {
-        "avg_price": 279000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 169000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 191914,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 200935,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 218782,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, puotila",
     "stats": [
       {
         "avg_price": 279000,
@@ -14499,31 +7683,6 @@
     ]
   },
   {
-    "city_key": "Espoo, espoonlahti",
-    "stats": [
-      {
-        "avg_price": 321433,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 203625,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 830000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 200000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 419000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, kivihaka",
     "district": "kivihaka",
@@ -14543,43 +7702,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, kivihaka",
-    "stats": [
-      {
-        "avg_price": 247500,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 269000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 206250,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, eestinmalmi",
     "district": "eestinmalmi",
-    "stats": [
-      {
-        "avg_price": 369999,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 419000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 427934,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, eestinmalmi",
     "stats": [
       {
         "avg_price": 369999,
@@ -14619,47 +7744,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, tapulikaupunki",
-    "stats": [
-      {
-        "avg_price": 161000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 130000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 114000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 184658,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, siikaj\u00e4rvi",
     "district": "siikaj\u00e4rvi",
-    "stats": [
-      {
-        "avg_price": 429333,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 279000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 539000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, siikaj\u00e4rvi",
     "stats": [
       {
         "avg_price": 429333,
@@ -14691,31 +7778,9 @@
     ]
   },
   {
-    "city_key": "Espoo, hanikka",
-    "stats": [
-      {
-        "avg_price": 1290000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 628000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, ullanlinnan",
     "district": "ullanlinnan",
-    "stats": [
-      {
-        "avg_price": 1680000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, ullanlinnan",
     "stats": [
       {
         "avg_price": 1680000,
@@ -14735,27 +7800,9 @@
     ]
   },
   {
-    "city_key": "Espoo, pohjois tapiola",
-    "stats": [
-      {
-        "avg_price": 298000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, laaksolahti/jupperi",
     "district": "laaksolahti/jupperi",
-    "stats": [
-      {
-        "avg_price": 778000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, laaksolahti/jupperi",
     "stats": [
       {
         "avg_price": 778000,
@@ -14775,35 +7822,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, talinranta",
-    "stats": [
-      {
-        "avg_price": 324000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, pikku-huopalahti",
     "district": "pikku-huopalahti",
-    "stats": [
-      {
-        "avg_price": 288000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 363000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 359500,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, pikku-huopalahti",
     "stats": [
       {
         "avg_price": 288000,
@@ -14843,43 +7864,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, keimola",
-    "stats": [
-      {
-        "avg_price": 337000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 167543,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 155680,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 191169,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, karhusuo",
     "district": "karhusuo",
-    "stats": [
-      {
-        "avg_price": 73623,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 35178,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, karhusuo",
     "stats": [
       {
         "avg_price": 73623,
@@ -14911,23 +7898,6 @@
     ]
   },
   {
-    "city_key": "Vantaa, vallinoja",
-    "stats": [
-      {
-        "avg_price": 198000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 31359,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 26776,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, viertola",
     "district": "viertola",
@@ -14943,51 +7913,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, viertola",
-    "stats": [
-      {
-        "avg_price": 273400,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 192500,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, tikkurila",
     "district": "tikkurila",
-    "stats": [
-      {
-        "avg_price": 343666,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 320859,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 346650,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 240117,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 398000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 185436,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, tikkurila",
     "stats": [
       {
         "avg_price": 343666,
@@ -15035,51 +7963,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, vanha koivukyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 39220,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 394166,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 455500,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, koskela",
     "district": "koskela",
-    "stats": [
-      {
-        "avg_price": 161000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 377999,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 190000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 202000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 218000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, koskela",
     "stats": [
       {
         "avg_price": 161000,
@@ -15127,39 +8013,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, koivukyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 153200,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 127500,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 131333,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 336500,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, etel\u00e4-lepp\u00e4vaara",
     "district": "etel\u00e4-lepp\u00e4vaara",
-    "stats": [
-      {
-        "avg_price": 245000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, etel\u00e4-lepp\u00e4vaara",
     "stats": [
       {
         "avg_price": 245000,
@@ -15195,31 +8051,6 @@
     ]
   },
   {
-    "city_key": "Vantaa, hakkila",
-    "stats": [
-      {
-        "avg_price": 260000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 297000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 352000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 355000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 188999,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, munkkisaari",
     "district": "munkkisaari",
@@ -15231,47 +8062,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, munkkisaari",
-    "stats": [
-      {
-        "avg_price": 498500,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, lauttasaari",
     "district": "lauttasaari",
-    "stats": [
-      {
-        "avg_price": 1037928,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 1093800,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 273294,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 353002,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 466777,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 614335,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, lauttasaari",
     "stats": [
       {
         "avg_price": 1037928,
@@ -15315,31 +8108,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, \u00f6stersundom",
-    "stats": [
-      {
-        "avg_price": 499000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 856000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, mankkaa; seilim\u00e4ki",
     "district": "mankkaa; seilim\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 327000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, mankkaa; seilim\u00e4ki",
     "stats": [
       {
         "avg_price": 327000,
@@ -15359,43 +8130,9 @@
     ]
   },
   {
-    "city_key": "Espoo, lintukorpi",
-    "stats": [
-      {
-        "avg_price": 34993,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, hermanni",
     "district": "hermanni",
-    "stats": [
-      {
-        "avg_price": 658000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 216250,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 260250,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 830000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 259000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, hermanni",
     "stats": [
       {
         "avg_price": 658000,
@@ -15451,59 +8188,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, puistola",
-    "stats": [
-      {
-        "avg_price": 242834,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 436000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 113999,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 572500,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 305000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 177250,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, k\u00e4pyl\u00e4",
     "district": "k\u00e4pyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 292907,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 337750,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 206000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 436000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, k\u00e4pyl\u00e4",
     "stats": [
       {
         "avg_price": 292907,
@@ -15551,51 +8238,9 @@
     ]
   },
   {
-    "city_key": "Espoo, niittykumpu",
-    "stats": [
-      {
-        "avg_price": 293122,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 234457,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 328000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 575800,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 404990,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, hannusj\u00e4rvi",
     "district": "hannusj\u00e4rvi",
-    "stats": [
-      {
-        "avg_price": 693500,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 588000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 511000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, hannusj\u00e4rvi",
     "stats": [
       {
         "avg_price": 693500,
@@ -15643,51 +8288,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, ruskeasanta",
-    "stats": [
-      {
-        "avg_price": 224333,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 212250,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 528000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 141791,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 450000,
-        "rooms": "7"
-      },
-      {
-        "avg_price": 247786,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, gobbacka",
     "district": "gobbacka",
-    "stats": [
-      {
-        "avg_price": 339800,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 299800,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, gobbacka",
     "stats": [
       {
         "avg_price": 339800,
@@ -15731,35 +8334,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, kamppi",
-    "stats": [
-      {
-        "avg_price": 301222,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 509210,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 1553333,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 797120,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 912822,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 1473500,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, olarinm\u00e4ki",
     "district": "olarinm\u00e4ki",
@@ -15771,47 +8345,9 @@
     ]
   },
   {
-    "city_key": "Espoo, olarinm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 345000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, tuomarila",
     "district": "tuomarila",
-    "stats": [
-      {
-        "avg_price": 210780,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 159421,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 178200,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 205000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 521500,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 248764,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, tuomarila",
     "stats": [
       {
         "avg_price": 210780,
@@ -15871,51 +8407,9 @@
     ]
   },
   {
-    "city_key": "Espoo, lintuvaara",
-    "stats": [
-      {
-        "avg_price": 315802,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 659000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 192540,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 240762,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 539125,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 413574,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, viherkallio",
     "district": "viherkallio",
-    "stats": [
-      {
-        "avg_price": 108000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 159000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, viherkallio",
     "stats": [
       {
         "avg_price": 108000,
@@ -15939,27 +8433,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, tapaninkyl\u00e4/malmi",
-    "stats": [
-      {
-        "avg_price": 548000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, simonkyl\u00e4/simonmets\u00e4/tikkurila",
     "district": "simonkyl\u00e4/simonmets\u00e4/tikkurila",
-    "stats": [
-      {
-        "avg_price": 165000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, simonkyl\u00e4/simonmets\u00e4/tikkurila",
     "stats": [
       {
         "avg_price": 165000,
@@ -15979,15 +8455,6 @@
     ]
   },
   {
-    "city_key": "Espoo, niittymaa",
-    "stats": [
-      {
-        "avg_price": 490000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, tuomarilan pientaloalue",
     "district": "tuomarilan pientaloalue",
@@ -15999,27 +8466,9 @@
     ]
   },
   {
-    "city_key": "Espoo, tuomarilan pientaloalue",
-    "stats": [
-      {
-        "avg_price": 276000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, kannisto kivist\u00f6",
     "district": "kannisto kivist\u00f6",
-    "stats": [
-      {
-        "avg_price": 229000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, kannisto kivist\u00f6",
     "stats": [
       {
         "avg_price": 229000,
@@ -16055,43 +8504,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, pohjois-haaga",
-    "stats": [
-      {
-        "avg_price": 211681,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 350000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 186642,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 170500,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 279500,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, savela",
     "district": "savela",
-    "stats": [
-      {
-        "avg_price": 206000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, savela",
     "stats": [
       {
         "avg_price": 206000,
@@ -16119,35 +8534,9 @@
     ]
   },
   {
-    "city_key": "Espoo, suvela",
-    "stats": [
-      {
-        "avg_price": 92131,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 209500,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 105430,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, soukanranta",
     "district": "soukanranta",
-    "stats": [
-      {
-        "avg_price": 409000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, soukanranta",
     "stats": [
       {
         "avg_price": 409000,
@@ -16175,51 +8564,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, maarinkunnas",
-    "stats": [
-      {
-        "avg_price": 259000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 249000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 126000,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, varisto",
     "district": "varisto",
-    "stats": [
-      {
-        "avg_price": 254300,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 229200,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 391000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 625000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 139000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, varisto",
     "stats": [
       {
         "avg_price": 254300,
@@ -16267,27 +8614,6 @@
     ]
   },
   {
-    "city_key": "Espoo, pihlajarinne",
-    "stats": [
-      {
-        "avg_price": 309000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 147500,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 199000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 227000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, friisinm\u00e4ki",
     "district": "friisinm\u00e4ki",
@@ -16299,35 +8625,9 @@
     ]
   },
   {
-    "city_key": "Espoo, friisinm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 42961,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, joupinm\u00e4ki",
     "district": "joupinm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 29013,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 17455,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 90120,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, joupinm\u00e4ki",
     "stats": [
       {
         "avg_price": 29013,
@@ -16363,43 +8663,9 @@
     ]
   },
   {
-    "city_key": "Espoo, tontunm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 633500,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 227500,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 541500,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, aviapolis",
     "district": "aviapolis",
-    "stats": [
-      {
-        "avg_price": 288209,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 230469,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 186871,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
-    "city_key": "Vantaa, aviapolis",
     "stats": [
       {
         "avg_price": 288209,
@@ -16427,15 +8693,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, kallio,hakaniemi",
-    "stats": [
-      {
-        "avg_price": 238000,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, t\u00f6yrynummi/suutarila",
     "district": "t\u00f6yrynummi/suutarila",
@@ -16447,35 +8704,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, t\u00f6yrynummi/suutarila",
-    "stats": [
-      {
-        "avg_price": 348000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, munkkivuori",
     "district": "munkkivuori",
-    "stats": [
-      {
-        "avg_price": 243175,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 174166,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 429000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, munkkivuori",
     "stats": [
       {
         "avg_price": 243175,
@@ -16515,47 +8746,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, maunula",
-    "stats": [
-      {
-        "avg_price": 395000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 445000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 205000,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 236724,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, rastaala",
     "district": "rastaala",
-    "stats": [
-      {
-        "avg_price": 498000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 582000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 399000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, rastaala",
     "stats": [
       {
         "avg_price": 498000,
@@ -16595,39 +8788,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, nissas",
-    "stats": [
-      {
-        "avg_price": 88259,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 219000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 115503,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 311500,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, laakapelto",
     "district": "laakapelto",
-    "stats": [
-      {
-        "avg_price": 298000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, laakapelto",
     "stats": [
       {
         "avg_price": 298000,
@@ -16659,63 +8822,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, louhela",
-    "stats": [
-      {
-        "avg_price": 115000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 172450,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 209000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 133500,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, katajanokka",
     "district": "katajanokka",
-    "stats": [
-      {
-        "avg_price": 508616,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 1185000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 1870833,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 384059,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 1486112,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 832403,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 2042500,
-        "rooms": "7"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, katajanokka",
     "stats": [
       {
         "avg_price": 508616,
@@ -16775,31 +8884,6 @@
     ]
   },
   {
-    "city_key": "Espoo, j\u00e4rvenper\u00e4",
-    "stats": [
-      {
-        "avg_price": 259117,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 218500,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 314519,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 42998,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 284222,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, maununneva / hakuninmaa / kaarela",
     "district": "maununneva / hakuninmaa / kaarela",
@@ -16811,35 +8895,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, maununneva / hakuninmaa / kaarela",
-    "stats": [
-      {
-        "avg_price": 624000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, alppila",
     "district": "alppila",
-    "stats": [
-      {
-        "avg_price": 436000,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 265379,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 177700,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, alppila",
     "stats": [
       {
         "avg_price": 436000,
@@ -16883,31 +8941,6 @@
     ]
   },
   {
-    "city_key": "Espoo, karakallio",
-    "stats": [
-      {
-        "avg_price": 124500,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 109000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 35956,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 158000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 181250,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Vantaa",
     "city_key": "Vantaa, pohjois-nikinm\u00e4ki",
     "district": "pohjois-nikinm\u00e4ki",
@@ -16923,47 +8956,9 @@
     ]
   },
   {
-    "city_key": "Vantaa, pohjois-nikinm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 295000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 398000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, honkasuo",
     "district": "honkasuo",
-    "stats": [
-      {
-        "avg_price": 347566,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 211320,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 155000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 329900,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 255900,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, honkasuo",
     "stats": [
       {
         "avg_price": 347566,
@@ -17015,31 +9010,6 @@
     ]
   },
   {
-    "city_key": "Vantaa, asola",
-    "stats": [
-      {
-        "avg_price": 136893,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 251146,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 243784,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 220509,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 193181,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, kattilalaakso / n\u00f6ykki\u00f6",
     "district": "kattilalaakso / n\u00f6ykki\u00f6",
@@ -17051,43 +9021,9 @@
     ]
   },
   {
-    "city_key": "Espoo, kattilalaakso / n\u00f6ykki\u00f6",
-    "stats": [
-      {
-        "avg_price": 350000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, roihuvuori",
     "district": "roihuvuori",
-    "stats": [
-      {
-        "avg_price": 171838,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 589180,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 303082,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 361511,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 217363,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, roihuvuori",
     "stats": [
       {
         "avg_price": 171838,
@@ -17139,47 +9075,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, lassila",
-    "stats": [
-      {
-        "avg_price": 253333,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 299750,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 210375,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 153000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 369000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, lasilaakso",
     "district": "lasilaakso",
-    "stats": [
-      {
-        "avg_price": 638000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 199000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, lasilaakso",
     "stats": [
       {
         "avg_price": 638000,
@@ -17203,31 +9101,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, tankovainio",
-    "stats": [
-      {
-        "avg_price": 154900,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, pajam\u00e4ki",
     "district": "pajam\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 196333,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 264000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, pajam\u00e4ki",
     "stats": [
       {
         "avg_price": 196333,
@@ -17251,15 +9127,6 @@
     ]
   },
   {
-    "city_key": "Helsinki, myllykyl\u00e4",
-    "stats": [
-      {
-        "avg_price": 439000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, sep\u00e4nm\u00e4ki",
     "district": "sep\u00e4nm\u00e4ki",
@@ -17275,47 +9142,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, sep\u00e4nm\u00e4ki",
-    "stats": [
-      {
-        "avg_price": 278000,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 360000,
-        "rooms": "6"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, myllypuro",
     "district": "myllypuro",
-    "stats": [
-      {
-        "avg_price": 319916,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 295600,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 518000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 431000,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 227840,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, myllypuro",
     "stats": [
       {
         "avg_price": 319916,
@@ -17359,39 +9188,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, arabianranta",
-    "stats": [
-      {
-        "avg_price": 790000,
-        "rooms": "1"
-      },
-      {
-        "avg_price": 406666,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 509000,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
     "city": "Helsinki",
     "city_key": "Helsinki, huopalahti",
     "district": "huopalahti",
-    "stats": [
-      {
-        "avg_price": 18171,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 32063,
-        "rooms": "3"
-      }
-    ]
-  },
-  {
-    "city_key": "Helsinki, huopalahti",
     "stats": [
       {
         "avg_price": 18171,
@@ -17415,15 +9214,6 @@
     ]
   },
   {
-    "city_key": "Espoo, lepp\u00e4vaara / vallikallio",
-    "stats": [
-      {
-        "avg_price": 198000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, laaksolahti-rastaala",
     "district": "laaksolahti-rastaala",
@@ -17435,47 +9225,9 @@
     ]
   },
   {
-    "city_key": "Espoo, laaksolahti-rastaala",
-    "stats": [
-      {
-        "avg_price": 681000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, pohjois-tapiola",
     "district": "pohjois-tapiola",
-    "stats": [
-      {
-        "avg_price": 199720,
-        "rooms": "2"
-      },
-      {
-        "avg_price": 1174000,
-        "rooms": "6"
-      },
-      {
-        "avg_price": 375100,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 641966,
-        "rooms": "4"
-      },
-      {
-        "avg_price": 586333,
-        "rooms": "5"
-      },
-      {
-        "avg_price": 598500,
-        "rooms": "7"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, pohjois-tapiola",
     "stats": [
       {
         "avg_price": 199720,
@@ -17519,31 +9271,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, ramsinniemi",
-    "stats": [
-      {
-        "avg_price": 40923,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 399000,
-        "rooms": "5"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, saarniraivio",
     "district": "saarniraivio",
-    "stats": [
-      {
-        "avg_price": 275000,
-        "rooms": "2"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, saarniraivio",
     "stats": [
       {
         "avg_price": 275000,
@@ -17567,31 +9297,9 @@
     ]
   },
   {
-    "city_key": "Helsinki, meri-rastila",
-    "stats": [
-      {
-        "avg_price": 175363,
-        "rooms": "3"
-      },
-      {
-        "avg_price": 141036,
-        "rooms": "1"
-      }
-    ]
-  },
-  {
     "city": "Espoo",
     "city_key": "Espoo, lehtikaski",
     "district": "lehtikaski",
-    "stats": [
-      {
-        "avg_price": 298000,
-        "rooms": "4"
-      }
-    ]
-  },
-  {
-    "city_key": "Espoo, lehtikaski",
     "stats": [
       {
         "avg_price": 298000,
