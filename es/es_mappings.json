@@ -1,0 +1,207 @@
+{
+  "mappings": {
+    "doc": {
+      "properties": {
+        "brand": {
+          "properties": {
+            "id": {
+              "type": "long"
+            },
+            "image": {
+              "type": "text",
+              "fields": {
+                "keyword": {
+                  "type": "keyword",
+                  "ignore_above": 256
+                }
+              }
+            },
+            "name": {
+              "type": "text",
+              "fields": {
+                "keyword": {
+                  "type": "keyword",
+                  "ignore_above": 256
+                }
+              }
+            }
+          }
+        },
+        "buildingData": {
+          "properties": {
+            "address": {
+              "type": "text",
+              "fields": {
+                "keyword": {
+                  "type": "keyword",
+                  "ignore_above": 256
+                }
+              }
+            },
+            "buildingType": {
+              "type": "long"
+            },
+            "city": {
+              "type": "text",
+              "fields": {
+                "keyword": {
+                  "type": "keyword",
+                  "ignore_above": 256
+                }
+              }
+            },
+            "district": {
+              "type": "text",
+              "fields": {
+                "keyword": {
+                  "type": "keyword",
+                  "ignore_above": 256
+                }
+              }
+            },
+            "year": {
+              "type": "long"
+            }
+          }
+        },
+        "cardSubType": {
+          "type": "long"
+        },
+        "cardType": {
+          "type": "long"
+        },
+        "contractType": {
+          "type": "long"
+        },
+        "description": {
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
+        },
+        "extraVisibility": {
+          "type": "boolean"
+        },
+        "id": {
+          "type": "long"
+        },
+        "images": {
+          "properties": {
+            "feed": {
+              "type": "text",
+              "fields": {
+                "keyword": {
+                  "type": "keyword",
+                  "ignore_above": 256
+                }
+              }
+            },
+            "thumb": {
+              "type": "text",
+              "fields": {
+                "keyword": {
+                  "type": "keyword",
+                  "ignore_above": 256
+                }
+              }
+            },
+            "wide": {
+              "type": "text",
+              "fields": {
+                "keyword": {
+                  "type": "keyword",
+                  "ignore_above": 256
+                }
+              }
+            }
+          }
+        },
+        "location": {
+          "type": "geo_point"
+        },
+        "newDevelopment": {
+          "type": "boolean"
+        },
+        "nextViewing": {
+          "properties": {
+            "date": {
+              "type": "date"
+            },
+            "start": {
+              "type": "text",
+              "fields": {
+                "keyword": {
+                  "type": "keyword",
+                  "ignore_above": 256
+                }
+              }
+            }
+          }
+        },
+        "onlineOffer": {
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
+        },
+        "price": {
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
+        },
+        "priceChanged": {
+          "type": "date"
+        },
+        "published": {
+          "type": "date"
+        },
+        "roomConfiguration": {
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
+        },
+        "rooms": {
+          "type": "long"
+        },
+        "size": {
+          "type": "float"
+        },
+        "sizeLot": {
+          "type": "long"
+        },
+        "status": {
+          "type": "long"
+        },
+        "url": {
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
+        },
+        "visits": {
+          "type": "long"
+        },
+        "visits_weekly": {
+          "type": "long"
+        }
+      }
+    }
+  }
+}

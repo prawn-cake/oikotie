@@ -7,4 +7,4 @@ Stats and core data
 
 Using amazing jq
 
-	cat all.json | jq -c '.[] | {"index": {"_index": "oikotie", "_type": "oikotie", "_id": .id}}, .' | curl -H 'Content-Type: application/json' -XPOST localhost:9200/_bulk --data-binary @-
+    cat es_all.json | jq -c '.[] | {"index": {"_index": "oikotie", "_type": "doc", "_id": .id}}, .' | curl -s -H'Content-Type: application/json' -XPOST localhost:9200/oikotie/doc/_bulk?pretty --data-binary @-
